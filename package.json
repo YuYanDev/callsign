@@ -1,0 +1,14 @@
+{
+  "name": "callsign",
+  "version": "0.0.1",
+  "description": "Amateur radio and airline call sign inquiry",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "callsign"
+  ],
+  "author": "YuYanDev",
+  "license": "MIT"
+}
