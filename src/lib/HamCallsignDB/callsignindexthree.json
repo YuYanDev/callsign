@@ -1,0 +1,960 @@
+[
+  {
+    "prefix": "3B6",
+    "area": "Agalega & St. Brandon Is",
+    "areacn": "毛里求斯-卡加多斯-卡拉若斯群岛",
+    "areacode": "MU"
+  },
+  {
+    "prefix": "3B7",
+    "area": "Agalega & St. Brandon Is",
+    "areacn": "毛里求斯-卡加多斯-卡拉若斯群岛",
+    "areacode": "MU"
+  },
+  {
+    "prefix": "3B8",
+    "area": "Mauritius",
+    "areacn": "毛里求斯",
+    "areacode": "MU"
+  },
+  { "prefix": "3B9", "area": "Rodriguez I.", "areacn": "Rodriguez I." },
+  {
+    "prefix": "3D2",
+    "area": "Fiji,Conway Reef,Rotuma I.",
+    "areacn": "斐济",
+    "areacode": "FJ"
+  },
+  {
+    "prefix": "3DA",
+    "area": "Swaziland",
+    "areacn": "斯威士兰",
+    "areacode": "SZ"
+  },
+  {
+    "prefix": "9M2",
+    "area": "West Malaysia",
+    "areacn": "西马来西亚",
+    "areacode": "MY"
+  },
+  {
+    "prefix": "9M4",
+    "area": "West Malaysia",
+    "areacn": "西马来西亚",
+    "areacode": "MY"
+  },
+  {
+    "prefix": "9M6",
+    "area": "East Malaysia",
+    "areacn": "东马来西亚",
+    "areacode": "MY"
+  },
+  {
+    "prefix": "9M8",
+    "area": "East Malaysia",
+    "areacn": "东马来西亚",
+    "areacode": "MY"
+  },
+  {
+    "prefix": "CE0",
+    "area": "Easter I.,Juan Fernandez Is.,San Felix & San Ambrosio",
+    "areacn": "Easter I.,Juan Fernandez Is.,San Felix & San Ambrosio",
+    "areacode": "CL"
+  },
+  {
+    "prefix": "EA6",
+    "area": "Balearic Is.",
+    "areacn": "巴利阿里",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EB6",
+    "area": "Balearic Is.",
+    "areacn": "巴利阿里",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EC6",
+    "area": "Balearic Is.",
+    "areacn": "巴利阿里",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "ED6",
+    "area": "Balearic Is.",
+    "areacn": "巴利阿里",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EE6",
+    "area": "Balearic Is.",
+    "areacn": "巴利阿里",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EF6",
+    "area": "Balearic Is.",
+    "areacn": "巴利阿里",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EG6",
+    "area": "Balearic Is.",
+    "areacn": "巴利阿里",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EH6",
+    "area": "Balearic Is.",
+    "areacn": "巴利阿里",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EA8",
+    "area": "Canary Is.",
+    "areacn": "Canary Is.",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EB8",
+    "area": "Canary Is.",
+    "areacn": "Canary Is.",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EC8",
+    "area": "Canary Is.",
+    "areacn": "Canary Is.",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "ED8",
+    "area": "Canary Is.",
+    "areacn": "Canary Is.",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EE8",
+    "area": "Canary Is.",
+    "areacn": "Canary Is.",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EF8",
+    "area": "Canary Is.",
+    "areacn": "Canary Is.",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EG8",
+    "area": "Canary Is.",
+    "areacn": "Canary Is.",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EH8",
+    "area": "Canary Is.",
+    "areacn": "Canary Is.",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EA9",
+    "area": "Ceuta & Melilla",
+    "areacn": "梅利利亚",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EB9",
+    "area": "Ceuta & Melilla",
+    "areacn": "梅利利亚",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EC9",
+    "area": "Ceuta & Melilla",
+    "areacn": "梅利利亚",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "ED9",
+    "area": "Ceuta & Melilla",
+    "areacn": "梅利利亚",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EF9",
+    "area": "Ceuta & Melilla",
+    "areacn": "梅利利亚",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EG9",
+    "area": "Ceuta & Melilla",
+    "areacn": "梅利利亚",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "EH9",
+    "area": "Ceuta & Melilla",
+    "areacn": "梅利利亚",
+    "areacode": "ES"
+  },
+  {
+    "prefix": "HC8",
+    "area": "Galapagos Is.",
+    "areacn": "科隆群岛",
+    "areacode": "EC"
+  },
+  {
+    "prefix": "HD8",
+    "area": "Galapagos Is.",
+    "areacn": "科隆群岛",
+    "areacode": "EC"
+  },
+  {
+    "prefix": "H40",
+    "area": "Temotu Province",
+    "areacn": "所罗门群岛-泰莫图",
+    "areacode": "SB"
+  },
+  {
+    "prefix": "HB0",
+    "area": "Liechtenstein",
+    "areacn": "列支敦士登",
+    "areacode": "LI"
+  },
+  {
+    "prefix": "HK0",
+    "area": "Malpelo I.,San Andres & Providencia",
+    "areacn": "普罗维登西亚岛",
+    "areacode": "CO"
+  },
+  { "prefix": "IS0", "area": "Sardinia", "areacn": "撒丁岛", "areacode": "IT" },
+  { "prefix": "IM0", "area": "Sardinia", "areacn": "撒丁岛", "areacode": "IT" },
+  {
+    "prefix": "JD1",
+    "area": "Minami Torishima,Ogasawara",
+    "areacn": "南鸟岛,小笠原群岛",
+    "areacode": "JP"
+  },
+  {
+    "prefix": "KG4",
+    "area": "Guantanamo Bay",
+    "areacn": "关塔那摩湾",
+    "areacode": "US"
+  },
+  {
+    "prefix": "KH0",
+    "area": "Mariana Is.",
+    "areacn": "马里亚纳群岛",
+    "areacode": "US"
+  },
+  {
+    "prefix": "KH1",
+    "area": "Baker & Howland Is.",
+    "areacn": "贝克岛,豪兰岛",
+    "areacode": "US"
+  },
+  { "prefix": "KH2", "area": "Guam", "areacn": "关岛", "areacode": "US" },
+  {
+    "prefix": "KH3",
+    "area": "Johnston I.",
+    "areacn": "约翰斯顿环礁",
+    "areacode": "US"
+  },
+  {
+    "prefix": "KH4",
+    "area": "Midway I.",
+    "areacn": "中途岛",
+    "areacode": "US"
+  },
+  {
+    "prefix": "KH5",
+    "area": "Palmyra & Jarvis Is.",
+    "areacn": "Palmyra & Jarvis Is.",
+    "areacode": "US"
+  },
+  { "prefix": "KH6", "area": "Hawaii", "areacn": "夏威夷", "areacode": "US" },
+  { "prefix": "KH7", "area": "Hawaii", "areacn": "夏威夷", "areacode": "US" },
+  {
+    "prefix": "KH8",
+    "area": "American Samoa,Swains",
+    "areacn": "美属萨摩亚,斯温斯",
+    "areacode": "US"
+  },
+  { "prefix": "KH9", "area": "Wake I. ", "areacn": "威克岛", "areacode": "US" },
+  {
+    "prefix": "KP1",
+    "area": "Navassa I.",
+    "areacn": "纳瓦萨岛",
+    "areacode": "US"
+  },
+  {
+    "prefix": "KP2",
+    "area": "Virgin Is.",
+    "areacn": "美属维尔京群岛",
+    "areacode": "US"
+  },
+  {
+    "prefix": "KP3",
+    "area": "Puerto Rico",
+    "areacn": "波多黎各",
+    "areacode": "US"
+  },
+  {
+    "prefix": "KP4",
+    "area": "Puerto Rico",
+    "areacn": "波多黎各",
+    "areacode": "US"
+  },
+  {
+    "prefix": "KP5",
+    "area": "Desecheo I.",
+    "areacn": "德塞切奥岛",
+    "areacode": "US"
+  },
+  { "prefix": "OH0", "area": "Aland Is.", "areacn": "奥兰", "areacode": "AX" },
+  { "prefix": "OJ0", "area": "Market Reef", "areacn": "马凯特岛" },
+  {
+    "prefix": "PJ2",
+    "area": "Bonaire, Curacao",
+    "areacn": "博奈尔",
+    "areacode": "NL"
+  },
+  {
+    "prefix": "PJ4",
+    "area": "Bonaire, Curacao",
+    "areacn": "博奈尔",
+    "areacode": "NL"
+  },
+  {
+    "prefix": "PJ9",
+    "area": "Bonaire, Curacao",
+    "areacn": "博奈尔",
+    "areacode": "NL"
+  },
+  {
+    "prefix": "PJ5",
+    "area": "St. Maarten, Saba, St.",
+    "areacn": "荷属圣马丁",
+    "areacode": "NL"
+  },
+  {
+    "prefix": "PJ6",
+    "area": "St. Maarten, Saba, St.",
+    "areacn": "荷属圣马丁",
+    "areacode": "NL"
+  },
+  {
+    "prefix": "PJ7",
+    "area": "St. Maarten, Saba, St.",
+    "areacn": "荷属圣马丁",
+    "areacode": "NL"
+  },
+  {
+    "prefix": "PJ8",
+    "area": "St. Maarten, Saba, St.",
+    "areacn": "荷属圣马丁",
+    "areacode": "NL"
+  },
+  {
+    "prefix": "SV5",
+    "area": "Dodecanese",
+    "areacn": "十二群岛",
+    "areacode": "GR"
+  },
+  {
+    "prefix": "J45",
+    "area": "Dodecanese",
+    "areacn": "十二群岛",
+    "areacode": "GR"
+  },
+  { "prefix": "SV9", "area": "Crete", "areacn": "克里特岛", "areacode": "GR" },
+  { "prefix": "J49", "area": "Crete", "areacn": "克里特岛", "areacode": "GR" },
+  {
+    "prefix": "TI9",
+    "area": "Cocos I.",
+    "areacn": "科科斯（基林）群岛",
+    "areacode": "AU"
+  },
+  {
+    "prefix": "UA1",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UB1",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UC1",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UD1",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UE1",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UF1",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UG1",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UH1",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UI1",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UA2",
+    "area": "Kaliningrad",
+    "areacn": "俄罗斯-加里宁格勒",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UA3",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UB3",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UC3",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UD3",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UE3",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UF3",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UG3",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UH3",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UI3",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UA4",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UB4",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UC4",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UD4",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UE4",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UF4",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UG4",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UH4",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UI4",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UA6",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UB6",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UC6",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UD6",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UE6",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UF6",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UG6",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UH6",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UI6",
+    "area": "European Russia",
+    "areacn": "俄罗斯（欧洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UA8",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UB8",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UC8",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UD8",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UE8",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UF8",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UG8",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UH8",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UI8",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UA9",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UB9",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UC9",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UD9",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UE9",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UF9",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UG9",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UH9",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UI9",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UA0",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UB0",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UC0",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UD0",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UE0",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UF0",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UG0",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UH0",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "UI0",
+    "area": "Asiatic Russia",
+    "areacn": "俄罗斯（亚洲）",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "VK0",
+    "area": "Heard I.,Macquarie I.",
+    "areacn": "赫德岛和麦克唐纳群岛",
+    "areacode": "AU"
+  },
+  {
+    "prefix": "VP5",
+    "area": "Turks & Caicos Is.",
+    "areacn": "特克斯和凯科斯群岛",
+    "areacode": "UK"
+  },
+  {
+    "prefix": "VP6",
+    "area": "Pitcairn I.,Ducie I.",
+    "areacn": "皮特凯恩群岛,迪西岛",
+    "areacode": "UK"
+  },
+  {
+    "prefix": "VP8",
+    "area": "Falkland Is.",
+    "areacn": "福克兰群岛",
+    "areacode": "UK"
+  },
+  { "prefix": "CE9", "area": "Bermuda", "areacn": "百慕大", "areacode": "UK" },
+  { "prefix": "HF0", "area": "Bermuda", "areacn": "百慕大", "areacode": "UK" },
+  { "prefix": "VP9", "area": "Bermuda", "areacn": "百慕大", "areacode": "UK" },
+  {
+    "prefix": "VQ9",
+    "area": "Chagos Is.",
+    "areacn": "查戈斯群岛",
+    "areacode": "UK"
+  },
+  {
+    "prefix": "VU4",
+    "area": "Andaman & Nicobar Is.",
+    "areacn": "安达曼群岛",
+    "areacode": "IN"
+  },
+  {
+    "prefix": "VU7",
+    "area": "Lakshadweep Is.",
+    "areacn": "拉克沙群岛",
+    "areacode": "IN"
+  },
+  {
+    "prefix": "XA4",
+    "area": "Revillagigedo",
+    "areacn": "雷维利亚希赫多群岛",
+    "areacode": "MX"
+  },
+  {
+    "prefix": "XB4",
+    "area": "Revillagigedo",
+    "areacn": "雷维利亚希赫多群岛",
+    "areacode": "MX"
+  },
+  {
+    "prefix": "XC4",
+    "area": "Revillagigedo",
+    "areacn": "雷维利亚希赫多群岛",
+    "areacode": "MX"
+  },
+  {
+    "prefix": "XD4",
+    "area": "Revillagigedo",
+    "areacn": "雷维利亚希赫多群岛",
+    "areacode": "MX"
+  },
+  {
+    "prefix": "XE4",
+    "area": "Revillagigedo",
+    "areacn": "雷维利亚希赫多群岛",
+    "areacode": "MX"
+  },
+  {
+    "prefix": "XF4",
+    "area": "Revillagigedo",
+    "areacn": "雷维利亚希赫多群岛",
+    "areacode": "MX"
+  },
+  {
+    "prefix": "XG4",
+    "area": "Revillagigedo",
+    "areacn": "雷维利亚希赫多群岛",
+    "areacode": "MX"
+  },
+  {
+    "prefix": "XH4",
+    "area": "Revillagigedo",
+    "areacn": "雷维利亚希赫多群岛",
+    "areacode": "MX"
+  },
+  {
+    "prefix": "XI4",
+    "area": "Revillagigedo",
+    "areacn": "雷维利亚希赫多群岛",
+    "areacode": "MX"
+  },
+  { "prefix": "XX9", "area": "Macao", "areacn": "澳门", "areacode": "MO" },
+  {
+    "prefix": "ZB2",
+    "area": "Gibraltar",
+    "areacn": "直布罗陀",
+    "areacode": "UK"
+  },
+  {
+    "prefix": "ZD7",
+    "area": "St. Helena",
+    "areacn": "圣赫勒拿",
+    "areacode": "UK"
+  },
+  {
+    "prefix": "ZD8",
+    "area": "Ascension I.",
+    "areacn": "阿森松岛",
+    "areacode": "UK"
+  },
+  {
+    "prefix": "ZD9",
+    "area": "Tristan da Cunha & Gough I.",
+    "areacn": "戈夫岛",
+    "areacode": "UK"
+  },
+  { "prefix": "ZK2", "area": "Niue", "areacn": "纽埃", "areacode": "NZ" },
+  {
+    "prefix": "ZK3",
+    "area": "Tokelau Is.",
+    "areacn": "托克劳",
+    "areacode": "NZ"
+  },
+  {
+    "prefix": "ZL7",
+    "area": "Chatham Is.",
+    "areacn": "查塔姆群岛",
+    "areacode": "NZ"
+  },
+  {
+    "prefix": "ZL8",
+    "area": "Kermadec Is.",
+    "areacn": "克马德克群岛",
+    "areacode": "NZ"
+  },
+  {
+    "prefix": "ZL9",
+    "area": "Auckland & Campbell Is.",
+    "areacn": "Auckland & Campbell Is.",
+    "areacode": "NZ"
+  },
+  {
+    "prefix": "ZS8",
+    "area": "Prince Edward & Marion Is.",
+    "areacn": "爱德华王子群岛",
+    "areacode": "ZA"
+  },
+  {
+    "prefix": "AT0",
+    "area": "Antarctica",
+    "areacn": "南极洲",
+    "areacode": "IN"
+  },
+  {
+    "prefix": "CE9",
+    "area": "Antarctica",
+    "areacn": "南极洲",
+    "areacode": "CL"
+  },
+  {
+    "prefix": "OR4",
+    "area": "Antarctica",
+    "areacn": "南极洲",
+    "areacode": "BE"
+  },
+  {
+    "prefix": "DP0",
+    "area": "Antarctica",
+    "areacn": "南极洲",
+    "areacode": "DE"
+  },
+  {
+    "prefix": "8J1",
+    "area": "Antarctica",
+    "areacn": "南极洲",
+    "areacode": "JP"
+  },
+  {
+    "prefix": "KC4",
+    "area": "Antarctica",
+    "areacn": "南极洲",
+    "areacode": "US"
+  },
+  {
+    "prefix": "HL8",
+    "area": "Antarctica",
+    "areacn": "南极洲",
+    "areacode": "KR"
+  }
+]

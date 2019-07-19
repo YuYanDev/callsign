@@ -2,13 +2,25 @@
   "name": "callsign",
   "version": "0.0.1",
   "description": "Amateur radio and airline call sign inquiry",
-  "main": "src/index.js",
+  "main": "src/esm/index.js",
   "scripts": {
+    "build:min": "webpack  --config build/webpack.prodmin.config.js",
+    "build:full": "webpack --config build/webpack.prod.config.js",
+    "build": "npm run build:full && npm run build:min",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "callsign"
   ],
   "author": "YuYanDev",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-loader": "^8.0.6",
+    "path": "^0.12.7",
+    "webpack": "^4.36.1",
+    "webpack-cli": "^3.3.6"
+  },
+  "dependencies": {}
 }

@@ -1,0 +1,117 @@
+[
+  {
+    "prefix": "BS7H",
+    "area": "Scarborough Reef",
+    "areacn": "黄岩岛",
+    "areacode": "CN"
+  },
+  {
+    "prefix": "BV9P",
+    "area": "Pratas I.",
+    "areacn": "东沙群岛",
+    "areacode": "TW"
+  },
+  {
+    "prefix": "KH5K",
+    "area": "Kingman Reef",
+    "areacn": "金曼礁",
+    "areacode": "US"
+  },
+  { "prefix": "KH7K", "area": "Kure I.", "areacn": "库雷岛", "areacode": "US" },
+  {
+    "prefix": "PY0F",
+    "area": "Fernando de Noronha",
+    "areacn": "费尔南多·迪诺罗尼亚群岛",
+    "areacode": "BZ"
+  },
+  {
+    "prefix": "PY0S",
+    "area": "St. Peter & St. Paul Rocks",
+    "areacn": "圣佩德罗和圣保罗群",
+    "areacode": "BZ"
+  },
+  {
+    "prefix": "PY0T",
+    "area": "Trindade & Martim Vaz Is.",
+    "areacn": "特林达迪和马丁瓦斯群岛",
+    "areacode": "BZ"
+  },
+  {
+    "prefix": "R1FJ",
+    "area": "Franz Josef Land",
+    "areacn": "法兰士约瑟夫地群岛",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "R1MV",
+    "area": "Malyj Vysotskij I.",
+    "areacn": "Maly Vysotsky Island",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "VK9C",
+    "area": "Cocos (Keeling) Is.",
+    "areacn": "科科斯（基林）群岛",
+    "areacode": "AU"
+  },
+  {
+    "prefix": "VK9L",
+    "area": " Lord Howe I.",
+    "areacn": "豪勋爵岛",
+    "areacode": "AU"
+  },
+  {
+    "prefix": "VK9M",
+    "area": "Mellish Reef",
+    "areacn": "梅利什礁",
+    "areacode": "AU"
+  },
+  {
+    "prefix": "VK9N",
+    "area": "Norfolk I.",
+    "areacn": "诺福克岛",
+    "areacode": "AU"
+  },
+  {
+    "prefix": "VK9W",
+    "area": "Willis I.",
+    "areacn": "Willis I.",
+    "areacode": "AU"
+  },
+  {
+    "prefix": "VK9X",
+    "area": "Christmas I.",
+    "areacn": "Christmas I.",
+    "areacode": "AU"
+  },
+  {
+    "prefix": "VP2E",
+    "area": "Anguilla",
+    "areacn": "安圭拉",
+    "areacode": "UK"
+  },
+  {
+    "prefix": "VP2M",
+    "area": "Montserrat",
+    "areacn": "蒙特塞拉特",
+    "areacode": "UK"
+  },
+  {
+    "prefix": "R1AN",
+    "area": "Antarctica",
+    "areacn": "南极洲",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "RI1A",
+    "area": "Antarctica",
+    "areacn": "南极洲",
+    "areacode": "RU"
+  },
+  {
+    "prefix": "FT8Y",
+    "area": "Antarctica",
+    "areacn": "南极洲",
+    "areacode": "FR"
+  }
+]

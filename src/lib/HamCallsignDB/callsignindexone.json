@@ -1,0 +1,26 @@
+[
+  { "prefix": "B", "area": "China", "areacn": "中国", "areacode": "CN" },
+  { "prefix": "F", "area": "France", "areacn": "法国", "areacode": "FR" },
+  { "prefix": "G", "area": "England", "areacn": "英国", "areacode": "UK" },
+  { "prefix": "I", "area": "Italy", "areacn": "意大利", "areacode": "IT" },
+  {
+    "prefix": "K",
+    "area": "United States of America",
+    "areacn": "美国",
+    "areacode": "US"
+  },
+  { "prefix": "M", "area": "England", "areacn": "英国", "areacode": "UK" },
+  {
+    "prefix": "N",
+    "area": "United States of America",
+    "areacn": "美国",
+    "areacode": "US"
+  },
+  { "prefix": "R", "area": "Russia", "areacn": "俄罗斯", "areacode": "RU" },
+  {
+    "prefix": "W",
+    "area": "United States of America",
+    "areacn": "美国",
+    "areacode": "US"
+  }
+]

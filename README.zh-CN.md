@@ -1,9 +1,9 @@
-English | [简体中文](./README.zh-CN.md)
+[English](./README.md) | 简体中文
 
 <h1 align="center">Callsign.js</h1>
 
 <div align="center">
-    Callsign.js is a library for fuzzy querying amateur radio callsign information
+    Callsign.js是用于模糊查询业余无线电呼号信息的库
     <br/>
     <br/>
   <a href="https://npmcharts.com/compare/callsign?minimal=true"><img src="https://img.shields.io/npm/dm/callsign.svg" alt="Downloads"></a>
@@ -13,7 +13,7 @@ English | [简体中文](./README.zh-CN.md)
   <!-- <br> -->
 </div>
 
-## Quick start
+## 快速开始
 
 via Browser
 
@@ -46,13 +46,13 @@ import callsign from 'callsign'
 console.log(callsign.searchAmateurRadioCallsign('ab1aa'))
 ```
 
-## Document
+## 文档
 
-[Go to view](./doc/)
+[前往查看](./doc/)
 
-## Contribution
+## 参与贡献
 
-Your contribution is very welcome, you can fork and submit your feature branch directly, in the issue, I will process your submission
+非常欢迎你的贡献，您可以直接 fork 并提交您的 feature 分支，在 issue 中，我会处理您的提交申请
 
 ## License
 

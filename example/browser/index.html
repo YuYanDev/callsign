@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Callsign Demo</title>
+    <script src="../../dist/callsign.min.js"></script>
+</head>
+
+<body>
+    <script>
+        console.log(callsign.searchAmateurRadioCallsign('ab1aa'))
+        console.log(callsign.searchAmateurRadioCallsign('ba1aa'))
+        console.log(callsign.searchAmateurRadioCallsign('bs7h').area)
+        console.log(callsign.searchAmateurRadioCallsign('e2a').areacode)
+        console.log(callsign.searchAmateurRadioCallsign('bv7aa'))
+        console.log(callsign.searchAmateurRadioCallsign('k2s').prefix)
+    </script>
+</body>
+
+</html>
