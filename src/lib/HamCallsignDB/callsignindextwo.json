@@ -240,9 +240,17 @@
   { "prefix": "CC", "area": "Chile", "areacn": "智利", "areacode": "CL" },
   { "prefix": "CD", "area": "Chile", "areacn": "智利", "areacode": "CL" },
   { "prefix": "CE", "area": "Chile", "areacn": "智利", "areacode": "CL" },
+  { "prefix": "XQ", "area": "Chile", "areacn": "智利", "areacode": "CL" },
+  { "prefix": "XR", "area": "Chile", "areacn": "智利", "areacode": "CL" },
+  { "prefix": "3G", "area": "Chile", "areacn": "智利", "areacode": "CL" },
   { "prefix": "CM", "area": "Cuba", "areacn": "古巴", "areacode": "CU" },
   { "prefix": "CO", "area": "Cuba", "areacn": "古巴", "areacode": "CU" },
   { "prefix": "CN", "area": "Morocco", "areacn": "摩洛哥", "areacode": "MA" },
+  { "prefix": "5C", "area": "Morocco", "areacn": "摩洛哥", "areacode": "MA" },
+  { "prefix": "5D", "area": "Morocco", "areacn": "摩洛哥", "areacode": "MA" },
+  { "prefix": "5G", "area": "Morocco", "areacn": "摩洛哥", "areacode": "MA" },
+  { "prefix": "5F", "area": "Morocco", "areacn": "摩洛哥", "areacode": "MA" },
+  { "prefix": "5E", "area": "Morocco", "areacn": "摩洛哥", "areacode": "MA" },
   { "prefix": "CP", "area": "Bolivia", "areacn": "玻利维亚", "areacode": "BO" },
   { "prefix": "CT", "area": "Portugal", "areacn": "葡萄牙", "areacode": "PT" },
   { "prefix": "CS", "area": "Portugal", "areacn": "葡萄牙", "areacode": "PT" },
@@ -465,6 +473,18 @@
     "areacode": "FR"
   },
   {
+    "prefix": "TX",
+    "area": "French ISLANDS",
+    "areacn": "法国海外领地",
+    "areacode": "FR"
+  },
+  {
+    "prefix": "TO",
+    "area": "French ISLANDS",
+    "areacn": "法国海外领地",
+    "areacode": "FR"
+  },
+  {
     "prefix": "GD",
     "area": "Isle of Man",
     "areacn": "马恩岛",
@@ -496,6 +516,9 @@
   { "prefix": "GP", "area": "Guernsey", "areacn": "根西岛", "areacode": "UK" },
   { "prefix": "GW", "area": "Wales", "areacn": "威尔士", "areacode": "UK" },
   { "prefix": "GC", "area": "Wales", "areacn": "威尔士", "areacode": "UK" },
+  { "prefix": "2E", "area": "England", "areacn": "英格兰", "areacode": "UK" },
+  { "prefix": "2M", "area": "Scotland", "areacn": "苏格兰", "areacode": "UK" },
+  { "prefix": "MM", "area": "Scotland", "areacn": "苏格兰", "areacode": "UK" },
   {
     "prefix": "H4",
     "area": "Solomon Is.",
@@ -508,6 +531,7 @@
   { "prefix": "HC", "area": "Ecuador", "areacn": "厄瓜多尔", "areacode": "EC" },
   { "prefix": "HD", "area": "Ecuador", "areacn": "厄瓜多尔", "areacode": "EC" },
   { "prefix": "HH", "area": "Haiti", "areacn": "海地", "areacode": "HT" },
+  { "prefix": "4V", "area": "Haiti", "areacn": "海地", "areacode": "HT" },
   {
     "prefix": "HI",
     "area": "Dominican Republic",
@@ -641,6 +665,8 @@
   { "prefix": "7L", "area": "Japan", "areacn": "日本", "areacode": "JP" },
   { "prefix": "7M", "area": "Japan", "areacn": "日本", "areacode": "JP" },
   { "prefix": "7N", "area": "Japan", "areacn": "日本", "areacode": "JP" },
+  { "prefix": "8N", "area": "Japan", "areacn": "日本", "areacode": "JP" },
+  { "prefix": "8J", "area": "Japan", "areacn": "日本", "areacode": "JP" },
   { "prefix": "JT", "area": "Mongolia", "areacn": "蒙古", "areacode": "MN" },
   { "prefix": "JU", "area": "Mongolia", "areacn": "蒙古", "areacode": "MN" },
   { "prefix": "JV", "area": "Mongolia", "areacn": "蒙古", "areacode": "MN" },

@@ -1,5 +1,23 @@
 [
   {
+    "prefix": "4U1I",
+    "area": "ITU HQ",
+    "areacn": "国际电联总部",
+    "areacode": ""
+  },
+  {
+    "prefix": "4U1U",
+    "area": "United Nations HQ",
+    "areacn": "联合国总部",
+    "areacode": ""
+  },
+  {
+    "prefix": "4U1V",
+    "area": "Vienna Intl Ctr",
+    "areacn": "Vienna Intl Ctr",
+    "areacode": ""
+  },
+  {
     "prefix": "BS7H",
     "area": "Scarborough Reef",
     "areacn": "黄岩岛",
