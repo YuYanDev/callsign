@@ -1,4 +1,5 @@
 import searchAmateurRadioCallsignModules from './modules/searchAmateurRadioCallsign'
+import asyncGetARCallsignDetailedModules from './modules/asyncGetARCallsignDetailed'
 
 class Callsign{
     constructor(){
@@ -9,6 +10,10 @@ class Callsign{
      */
     searchAmateurRadioCallsign(callsign){
         return searchAmateurRadioCallsignModules(callsign)
+    }
+
+    asyncGetARCallsignDetailed(callsign,url){
+        return asyncGetARCallsignDetailedModules(callsign,url)
     }
 }
 
