@@ -23,8 +23,8 @@ via Browser
   <head>
     <meta charset="UTF-8" />
     <title>Callsign Demo</title>
-    <script src="../../dist/callsign.min.js"></script>
-    <!-- <script src="../../dist/callsign.js"></script> -->
+    <script src="https://unpkg.com/callsign/dist/callsign.min.js"></script>
+    <!-- <script src="https://unpkg.com/callsign/dist/callsign.js"></script> -->
   </head>
   <body>
     <script>
@@ -48,7 +48,7 @@ console.log(callsign.searchAmateurRadioCallsign('ab1aa'))
 
 ## 文档
 
-[前往查看](./doc/)
+[前往查看](./docs/)
 
 ## 参与贡献
 
