@@ -7,13 +7,23 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Callsign Demo</title>
     <script src="https://unpkg.com/callsign/dist/callsign.min.js"></script>
+    <!-- <script src="../../dist/callsign.js"></script> -->
 </head>
 
 <body>
     <script>
-        console.log(callsign.searchAmateurRadioCallsign('ab1aa'))
+        console.log('AR Callsign: ab1aa \n' + JSON.stringify(callsign.searchAmateurRadioCallsign('ab1aa')))
         callsign.asyncGetARCallsignDetailed('ba1aa').then(res=>{
-            console.log(res)
+            console.log('AR Callsign: ba1aa \n' + JSON.stringify(res))
+        })
+        console.log('TailCode: N1AAA \n' + JSON.stringify(callsign.getAircraftRegistInfoByTailCode('N1AAA')))
+        console.log('TailCode: B-11DA \n' + JSON.stringify(callsign.getAircraftRegistInfoByTailCode('B-11DA')))
+        console.log('TailCode: B-21223 \n' + JSON.stringify(callsign.getAircraftRegistInfoByTailCode('B-21223')))
+        callsign.asyncGetAirlineInfoByFlightNumber('CES7199').then(res=>{
+            console.log('FlightNumber: CES7199 \n' + JSON.stringify(res))
+        })
+        callsign.asyncGetAirlineInfoByFlightNumber('CZ1199').then(res=>{
+            console.log('FlightNumber: CZ1199 \n' + JSON.stringify(res))
         })
     </script>
 </body>

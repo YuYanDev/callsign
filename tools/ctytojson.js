@@ -67,6 +67,13 @@ fs.readFile('./tools/cty.csv', function (err, data) {
             console.log('success');
         }
     });
+    fs.writeFile('./src/lib/HamCallsignDB/cty.json', JSON.stringify(fullsize, null, 4), 'utf-8', function (err) {
+        if (err) {
+            console.log(err.stack);
+        } else {
+            console.log('success');
+        }
+    });
 });
 
 
