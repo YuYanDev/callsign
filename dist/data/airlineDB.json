@@ -3,7 +3,6 @@
         "IATA": "",
         "ICAO": "EVY",
         "name": "34 Squadron, Royal Australian Air Force",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -15,9 +14,7 @@
     },
     {
         "IATA": "1T",
-        "ICAO": "",
         "name": "Hitit Computer Services",
-        "callsign": "",
         "area": "Turkey"
     },
     {
@@ -66,7 +63,6 @@
         "IATA": "3J",
         "ICAO": "JUB",
         "name": "Jubba Airways",
-        "callsign": "",
         "area": "Kenya"
     },
     {
@@ -101,7 +97,6 @@
         "IATA": "4R",
         "ICAO": "SEK",
         "name": "Star East Airline",
-        "callsign": "",
         "area": "Romania"
     },
     {
@@ -115,7 +110,6 @@
         "IATA": "7A",
         "ICAO": "XRC",
         "name": "Express Air Cargo",
-        "callsign": "",
         "area": "Tunisia"
     },
     {
@@ -178,7 +172,6 @@
         "IATA": "",
         "ICAO": "XXV",
         "name": "AASANA",
-        "callsign": "",
         "area": "Bolivia"
     },
     {
@@ -199,7 +192,6 @@
         "IATA": "",
         "ICAO": "ADD",
         "name": "Advanced Air",
-        "callsign": "",
         "area": "Japan"
     },
     {
@@ -234,7 +226,6 @@
         "IATA": "",
         "ICAO": "ACC",
         "name": "Airspeed Charter",
-        "callsign": "",
         "area": "Jamaica"
     },
     {
@@ -339,7 +330,6 @@
         "IATA": "",
         "ICAO": "ROH",
         "name": "Aberdair Aviation Ghana",
-        "callsign": "",
         "area": "Ghana"
     },
     {
@@ -353,7 +343,6 @@
         "IATA": "",
         "ICAO": "AWF",
         "name": "Aeroforward",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -388,7 +377,6 @@
         "IATA": "",
         "ICAO": "WAS",
         "name": "Air-Watania",
-        "callsign": "",
         "area": "Iraq"
     },
     {
@@ -416,7 +404,6 @@
         "IATA": "",
         "ICAO": "LBZ",
         "name": "Angkasa Super Service",
-        "callsign": "",
         "area": "Indonesia"
     },
     {
@@ -430,7 +417,6 @@
         "IATA": "",
         "ICAO": "UAH",
         "name": "Air Experience Flight, Cranwell",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -486,7 +472,6 @@
         "IATA": "",
         "ICAO": "AWP",
         "name": "Aeroworld Pakistan",
-        "callsign": "",
         "area": "Pakistan"
     },
     {
@@ -528,7 +513,6 @@
         "IATA": "",
         "ICAO": "AWL",
         "name": "Air Walser",
-        "callsign": "",
         "area": "Malta"
     },
     {
@@ -568,9 +552,7 @@
     },
     {
         "IATA": "1B",
-        "ICAO": "",
         "name": "Abacus International",
-        "callsign": "",
         "area": "Singapore"
     },
     {
@@ -647,7 +629,6 @@
         "IATA": "",
         "ICAO": "AAM",
         "name": "Aim Air",
-        "callsign": "",
         "area": "Moldova"
     },
     {
@@ -668,7 +649,6 @@
         "IATA": "AE",
         "ICAO": "AE",
         "name": "Air Ceylon",
-        "callsign": "",
         "area": "Sri Lanka"
     },
     {
@@ -766,7 +746,6 @@
         "IATA": "",
         "ICAO": "ACS",
         "name": "Air Cess",
-        "callsign": "",
         "area": "Liberia"
     },
     {
@@ -829,7 +808,6 @@
         "IATA": "",
         "ICAO": "ACV",
         "name": "Air Charter Service",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -1004,7 +982,6 @@
         "IATA": "",
         "ICAO": "AFS",
         "name": "Air Data",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -1057,7 +1034,7 @@
         "area": "United States"
     },
     {
-        "IATA": "NZ\n\nTE",
+        "IATA": "NZ\nTE",
         "ICAO": "ANZ",
         "name": "Air New Zealand",
         "callsign": "NEW ZEALAND",
@@ -1067,7 +1044,6 @@
         "IATA": "",
         "ICAO": "AOE",
         "name": "Air One Executive",
-        "callsign": "",
         "area": "Italy"
     },
     {
@@ -1128,9 +1104,7 @@
     },
     {
         "IATA": "BM",
-        "ICAO": "",
         "name": "Air Sicilia",
-        "callsign": "",
         "area": "Italy"
     },
     {
@@ -1165,7 +1139,6 @@
         "IATA": "",
         "ICAO": "AKA",
         "name": "Air Korea Co. Ltd.",
-        "callsign": "",
         "area": "Republic of Korea"
     },
     {
@@ -1186,7 +1159,6 @@
         "IATA": "",
         "ICAO": "ABN",
         "name": "Air Fret Senegal",
-        "callsign": "",
         "area": "Senegal"
     },
     {
@@ -1200,7 +1172,6 @@
         "IATA": "G8",
         "ICAO": "AGB",
         "name": "Air Service Gabon",
-        "callsign": "",
         "area": "Gabon"
     },
     {
@@ -1410,7 +1381,6 @@
         "IATA": "",
         "ICAO": "ARC",
         "name": "Air Routing International Corp.",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -1445,7 +1415,6 @@
         "IATA": "",
         "ICAO": "AIG",
         "name": "Air Inter Gabon",
-        "callsign": "",
         "area": "Gabon"
     },
     {
@@ -1487,7 +1456,6 @@
         "IATA": "",
         "ICAO": "ATS",
         "name": "Air Transport Service",
-        "callsign": "",
         "area": "Democratic Republic of the Congo"
     },
     {
@@ -1501,7 +1469,6 @@
         "IATA": "",
         "ICAO": "AUX",
         "name": "Air Uganda International Ltd.",
-        "callsign": "",
         "area": "Uganda"
     },
     {
@@ -1781,7 +1748,6 @@
         "IATA": "",
         "ICAO": "ATA",
         "name": "Air Transport Association",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -1795,7 +1761,6 @@
         "IATA": "",
         "ICAO": "XAC",
         "name": "Air Charter World",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -1837,7 +1802,6 @@
         "IATA": "",
         "ICAO": "ASN",
         "name": "Air and Sea Transport",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -1858,7 +1822,6 @@
         "IATA": "",
         "ICAO": "NPR",
         "name": "Air Napier",
-        "callsign": "",
         "area": "New Zealand"
     },
     {
@@ -1879,7 +1842,6 @@
         "IATA": "",
         "ICAO": "AWZ",
         "name": "AirWest",
-        "callsign": "",
         "area": "Sudan"
     },
     {
@@ -1942,7 +1904,6 @@
         "IATA": "",
         "ICAO": "ABJ",
         "name": "Abaeté Linhas Aéreas",
-        "callsign": "",
         "area": "Brazil"
     },
     {
@@ -2005,7 +1966,6 @@
         "IATA": "",
         "ICAO": "ACC",
         "name": "Avcard Services",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -2038,16 +1998,13 @@
     },
     {
         "IATA": "4G*",
-        "ICAO": "",
         "name": "Advance Leasing Company",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "8T",
         "ICAO": "TID",
         "name": "Air Tindi",
-        "callsign": "",
         "area": "Canada"
     },
     {
@@ -2061,7 +2018,6 @@
         "IATA": "",
         "ICAO": "ADD",
         "name": "Advanced Air Co.",
-        "callsign": "",
         "area": "Japan"
     },
     {
@@ -2180,7 +2136,6 @@
         "IATA": "",
         "ICAO": "AED",
         "name": "Aerotrans Airlines",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -2298,7 +2253,7 @@
     {
         "IATA": "AX",
         "ICAO": "—",
-        "name": "AmericanConnection[5]",
+        "name": "AmericanConnection",
         "callsign": "—",
         "area": "United States"
     },
@@ -2453,7 +2408,6 @@
         "IATA": "5Z",
         "ICAO": "AFX",
         "name": "Airfreight Express",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -2474,7 +2428,6 @@
         "IATA": "",
         "ICAO": "AGA",
         "name": "Aeronaves Del Centro",
-        "callsign": "",
         "area": "Venezuela"
     },
     {
@@ -2782,7 +2735,6 @@
         "IATA": "",
         "ICAO": "AIT",
         "name": "Airest",
-        "callsign": " ",
         "area": "Estonia"
     },
     {
@@ -2964,7 +2916,6 @@
         "IATA": "4A",
         "ICAO": "AKL",
         "name": "Air Kiribati",
-        "callsign": "",
         "area": "Kiribati"
     },
     {
@@ -3146,7 +3097,6 @@
         "IATA": "",
         "ICAO": "ALZ",
         "name": "Alta Flights (Charters) Ltd.",
-        "callsign": " ",
         "area": "Canada"
     },
     {
@@ -3230,7 +3180,6 @@
         "IATA": "",
         "ICAO": "AMV",
         "name": "AMC Airlines",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -3405,7 +3354,6 @@
         "IATA": "",
         "ICAO": "AOK",
         "name": "Aeroatlantico Colombia",
-        "callsign": "",
         "area": "Colombia"
     },
     {
@@ -3454,7 +3402,6 @@
         "IATA": "",
         "ICAO": "VJE",
         "name": "AvJet Routing",
-        "callsign": "",
         "area": "United Arab Emirates"
     },
     {
@@ -3741,14 +3688,12 @@
         "IATA": "",
         "ICAO": "ARJ",
         "name": "Aerojet de Costa Rica, S.A.",
-        "callsign": "",
         "area": "Costa Rica"
     },
     {
         "IATA": "",
         "ICAO": "SUN",
         "name": "Antillana De Navegación Aérea",
-        "callsign": "",
         "area": "Dominican Republic"
     },
     {
@@ -4000,7 +3945,6 @@
         "IATA": "HC",
         "ICAO": "ATI",
         "name": "Aero-Tropics Air Services",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -4126,7 +4070,6 @@
         "IATA": "",
         "ICAO": "TUR",
         "name": "ATUR",
-        "callsign": "",
         "area": "Ecuador"
     },
     {
@@ -4182,7 +4125,6 @@
         "IATA": "",
         "ICAO": "AUP",
         "name": "Avia Business Group",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -4203,7 +4145,6 @@
         "IATA": "NO",
         "ICAO": "AUS",
         "name": "Aus-Air",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -4399,7 +4340,6 @@
         "IATA": "",
         "ICAO": "XXX",
         "name": "ASL (Air Service Liege)",
-        "callsign": "",
         "area": "Belgium"
     },
     {
@@ -4413,14 +4353,12 @@
         "IATA": "K8",
         "ICAO": "ZAK",
         "name": "Airlink Zambia",
-        "callsign": "",
         "area": "Zambia"
     },
     {
         "IATA": "",
         "ICAO": "ZZM",
         "name": "Agence Nationale des Aerodromes et de la Meteorologie",
-        "callsign": "",
         "area": "Ivory Coast"
     },
     {
@@ -4693,7 +4631,6 @@
         "IATA": "",
         "ICAO": "AYK",
         "name": "Aykavia Aircompany",
-        "callsign": "",
         "area": "Armenia"
     },
     {
@@ -4742,7 +4679,6 @@
         "IATA": "",
         "ICAO": "AYS",
         "name": "Awsaj Aviation Services",
-        "callsign": "",
         "area": "Libya"
     },
     {
@@ -4882,7 +4818,6 @@
         "IATA": "",
         "ICAO": "NFF",
         "name": "Aircraft Support and Services",
-        "callsign": "",
         "area": "Lebanon"
     },
     {
@@ -4910,7 +4845,6 @@
         "IATA": "",
         "ICAO": "NFS",
         "name": "Afrique CArgo Service Senegal",
-        "callsign": "",
         "area": "Senegal"
     },
     {
@@ -4966,7 +4900,6 @@
         "IATA": "",
         "ICAO": "XTJ",
         "name": "Advance Aviation Services",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -4980,7 +4913,6 @@
         "IATA": "",
         "ICAO": "OVC",
         "name": "Aerovic",
-        "callsign": "",
         "area": "Ecuador"
     },
     {
@@ -5162,7 +5094,6 @@
         "IATA": "",
         "ICAO": "PUT",
         "name": "Aeroput",
-        "callsign": "",
         "area": "Serbia"
     },
     {
@@ -5174,9 +5105,7 @@
     },
     {
         "IATA": "FF",
-        "ICAO": "",
         "name": "Airshop",
-        "callsign": "",
         "area": "Netherlands"
     },
     {
@@ -5288,7 +5217,6 @@
         "IATA": "",
         "ICAO": "XAA",
         "name": "Aeronautical Radio Inc",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -5323,7 +5251,6 @@
         "IATA": "",
         "ICAO": "XPR",
         "name": "Air-Rep",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -5358,7 +5285,6 @@
         "IATA": "",
         "ICAO": "XEC",
         "name": "Air Executive Charter",
-        "callsign": "",
         "area": "Germany"
     },
     {
@@ -5421,7 +5347,6 @@
         "IATA": "",
         "ICAO": "XLB",
         "name": "Aircraft Performance Group",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -5470,7 +5395,6 @@
         "IATA": "",
         "ICAO": "VAB",
         "name": "Airtrans Ltd",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -5589,7 +5513,6 @@
         "IATA": "",
         "ICAO": "XAO",
         "name": "Airline Operations Services",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -5631,14 +5554,12 @@
         "IATA": "",
         "ICAO": "XKX",
         "name": "ASECNA",
-        "callsign": "",
         "area": "France"
     },
     {
         "IATA": "",
         "ICAO": "XAT",
         "name": "AT and T Aviation Division",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -5715,14 +5636,12 @@
         "IATA": "",
         "ICAO": "XJA",
         "name": "Assistance Aeroportuaire de L'Aeroport de Paris",
-        "callsign": "",
         "area": "France"
     },
     {
         "IATA": "",
         "ICAO": "XFS",
         "name": "American Flight Service Systems",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -5736,7 +5655,6 @@
         "IATA": "",
         "ICAO": "XMG",
         "name": "AMS Group",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -5806,7 +5724,6 @@
         "IATA": "",
         "ICAO": "CDU",
         "name": "Aerotrans",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -5834,7 +5751,6 @@
         "IATA": "",
         "ICAO": "CFR",
         "name": "Africa One",
-        "callsign": "",
         "area": "Democratic Republic of the Congo"
     },
     {
@@ -6212,7 +6128,6 @@
         "IATA": "",
         "ICAO": "DML",
         "name": "Aerotaxis Dosmil",
-        "callsign": "",
         "area": "Mexico"
     },
     {
@@ -6485,7 +6400,6 @@
         "IATA": "",
         "ICAO": "ESO",
         "name": "Avitat",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -6534,7 +6448,6 @@
         "IATA": "",
         "ICAO": "EWE",
         "name": "Eurowings Europe",
-        "callsign": "",
         "area": "Austria"
     },
     {
@@ -6576,7 +6489,6 @@
         "IATA": "",
         "ICAO": "FBW",
         "name": "Aviation Data Systems",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -6597,7 +6509,6 @@
         "IATA": "",
         "ICAO": "FCU",
         "name": "Alfa 4",
-        "callsign": "",
         "area": "Mexico"
     },
     {
@@ -6660,7 +6571,6 @@
         "IATA": "",
         "ICAO": "FLD",
         "name": "Air Falcon",
-        "callsign": "",
         "area": "Pakistan"
     },
     {
@@ -6681,14 +6591,12 @@
         "IATA": "",
         "ICAO": "FMT",
         "name": "Air Fret De Mauritanie",
-        "callsign": "",
         "area": "Mauritania"
     },
     {
         "IATA": "",
         "ICAO": "FNM",
         "name": "Avio Nord",
-        "callsign": "",
         "area": "Italy"
     },
     {
@@ -6737,7 +6645,6 @@
         "IATA": "",
         "ICAO": "FRT",
         "name": "Aerofreight Airlines",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -6926,7 +6833,6 @@
         "IATA": "",
         "ICAO": "GRI",
         "name": "Air Cargo Center",
-        "callsign": "",
         "area": "São Tomé and Príncipe"
     },
     {
@@ -7115,7 +7021,6 @@
         "IATA": "",
         "ICAO": "HQO",
         "name": "Avinor",
-        "callsign": "",
         "area": "Norway"
     },
     {
@@ -7136,7 +7041,6 @@
         "IATA": "",
         "ICAO": "IAE",
         "name": "AC Insat-Aero",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -7269,7 +7173,6 @@
         "IATA": "",
         "ICAO": "IWS",
         "name": "Aviainvest",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -7304,7 +7207,6 @@
         "IATA": "",
         "ICAO": "UTX",
         "name": "Avfinity",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -7325,7 +7227,6 @@
         "IATA": "",
         "ICAO": "JOA",
         "name": "Air Swift Aviation",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -7430,7 +7331,6 @@
         "IATA": "",
         "ICAO": "KHH",
         "name": "Alexandria Airlines",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -7540,7 +7440,6 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Aerovías De Lagos",
         "callsign": "AEROLAGOS",
         "area": "Mexico"
@@ -7598,7 +7497,6 @@
         "IATA": "",
         "ICAO": "LEM",
         "name": "Aleem",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -7612,7 +7510,6 @@
         "IATA": "",
         "ICAO": "LFA",
         "name": "Air Alfa",
-        "callsign": "",
         "area": "Turkey"
     },
     {
@@ -7801,7 +7698,6 @@
         "IATA": "",
         "ICAO": "LSM",
         "name": "Aerobusinessservice",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -7829,7 +7725,6 @@
         "IATA": "TD",
         "ICAO": "LUR",
         "name": "Atlantis European Airways",
-        "callsign": "",
         "area": "Armenia"
     },
     {
@@ -8004,7 +7899,7 @@
         "IATA": "9U",
         "ICAO": "MLD",
         "name": "Air Moldova",
-        "callsign": "AIR MOLDOVA",
+        "callsign": "AIR  MOLDOVA",
         "area": "Moldova"
     },
     {
@@ -8151,7 +8046,6 @@
         "IATA": "",
         "ICAO": "MSC",
         "name": "Air Cairo",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -8228,7 +8122,6 @@
         "IATA": "",
         "ICAO": "MZK",
         "name": "AVC Airlines",
-        "callsign": "",
         "area": "Japan"
     },
     {
@@ -8242,21 +8135,17 @@
         "IATA": "3S*",
         "ICAO": "AEN",
         "name": "Aeroland Airways",
-        "callsign": "",
         "area": "Greece"
     },
     {
         "IATA": "2V*",
-        "ICAO": "",
         "name": "Amtrak",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "8D*",
         "ICAO": "SUW",
         "name": "Astair",
-        "callsign": "",
         "area": "Russian Federation"
     },
     {
@@ -8333,7 +8222,6 @@
         "IATA": "",
         "ICAO": "NTD",
         "name": "Aero Norte",
-        "callsign": "",
         "area": "Mexico"
     },
     {
@@ -8438,7 +8326,6 @@
         "IATA": "",
         "ICAO": "OSO",
         "name": "Aviapartner Limited Company",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -8627,7 +8514,6 @@
         "IATA": "",
         "ICAO": "QEA",
         "name": "Aviation Consultancy Office",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -8928,7 +8814,6 @@
         "IATA": "",
         "ICAO": "RLK",
         "name": "Air Nelson",
-        "callsign": "",
         "area": "New Zealand"
     },
     {
@@ -9194,7 +9079,6 @@
         "IATA": "",
         "ICAO": "RWB",
         "name": "Alliance Express Rwanda",
-        "callsign": "",
         "area": "Rwanda"
     },
     {
@@ -9222,7 +9106,6 @@
         "IATA": "",
         "ICAO": "RWS",
         "name": "Air Whitsunday",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -9887,7 +9770,6 @@
         "IATA": "",
         "ICAO": "SRY",
         "name": "As-Aero",
-        "callsign": "",
         "area": "Armenia"
     },
     {
@@ -9901,7 +9783,6 @@
         "IATA": "",
         "ICAO": "AAT",
         "name": "Air Central Asia",
-        "callsign": "",
         "area": "Kyrgyzstan"
     },
     {
@@ -10020,7 +9901,6 @@
         "IATA": "",
         "ICAO": "AAV",
         "name": "Aly Aviation",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -10034,7 +9914,6 @@
         "IATA": "SM",
         "ICAO": "AAW",
         "name": "Aberdeen Airways",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -10048,7 +9927,6 @@
         "IATA": "KJ",
         "ICAO": "AAZ",
         "name": "Asian Air",
-        "callsign": "",
         "area": "Kyrgyzstan"
     },
     {
@@ -10083,14 +9961,12 @@
         "IATA": "",
         "ICAO": "ACE",
         "name": "Air Charter Express",
-        "callsign": "",
         "area": "Ghana"
     },
     {
         "IATA": "YE",
         "ICAO": "ACQ",
         "name": "Aryan Cargo Express",
-        "callsign": "",
         "area": "India"
     },
     {
@@ -10125,14 +10001,12 @@
         "IATA": "",
         "ICAO": "ADZ",
         "name": "Avio Delta",
-        "callsign": "",
         "area": "Bulgaria"
     },
     {
         "IATA": "",
         "ICAO": "ADW",
         "name": "ADC Airways",
-        "callsign": "",
         "area": "Lebanon"
     },
     {
@@ -10195,7 +10069,6 @@
         "IATA": "",
         "ICAO": "AFM",
         "name": "Air Four",
-        "callsign": "",
         "area": "Italy"
     },
     {
@@ -10321,14 +10194,12 @@
         "IATA": "",
         "ICAO": "DVN",
         "name": "Adventia",
-        "callsign": "",
         "area": "Spain"
     },
     {
         "IATA": "",
         "ICAO": "EBS",
         "name": "AEG Aviation Services",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -10342,7 +10213,6 @@
         "IATA": "",
         "ICAO": "AEF",
         "name": "Aerea",
-        "callsign": "",
         "area": "Spain"
     },
     {
@@ -10391,7 +10261,6 @@
         "IATA": "",
         "ICAO": "RRB",
         "name": "Aero Club de Castellon",
-        "callsign": "",
         "area": "Spain"
     },
     {
@@ -10412,21 +10281,18 @@
         "IATA": "",
         "ICAO": "XPN",
         "name": "Aero Express",
-        "callsign": "",
         "area": "Niger"
     },
     {
         "IATA": "",
         "ICAO": "TEJ",
         "name": "AeroJet",
-        "callsign": "",
         "area": "Angola"
     },
     {
         "IATA": "",
         "ICAO": "GHM",
         "name": "Aero Service Bolivia",
-        "callsign": "",
         "area": "Bolivia"
     },
     {
@@ -10468,28 +10334,24 @@
         "IATA": "",
         "ICAO": "ERC",
         "name": "Aerocharter",
-        "callsign": "",
         "area": "Guatemala"
     },
     {
         "IATA": "",
         "ICAO": "BSO",
         "name": "Aeroclub Barcelona-Sabadell",
-        "callsign": "",
         "area": "Spain"
     },
     {
         "IATA": "",
         "ICAO": "NVA",
         "name": "Aeroclub de Albacete",
-        "callsign": "",
         "area": "Spain"
     },
     {
         "IATA": "",
         "ICAO": "LUE",
         "name": "Aeroclub de Alicante",
-        "callsign": "",
         "area": "Spain"
     },
     {
@@ -10503,7 +10365,6 @@
         "IATA": "",
         "ICAO": "AVX",
         "name": "Aeroclub de Vitoria",
-        "callsign": "",
         "area": "Spain"
     },
     {
@@ -10517,14 +10378,12 @@
         "IATA": "",
         "ICAO": "RRO",
         "name": "Aerocredo",
-        "callsign": "",
         "area": "Russia"
     },
     {
         "IATA": "",
         "ICAO": "FAQ",
         "name": "Aerofaq",
-        "callsign": "",
         "area": "Ecuador"
     },
     {
@@ -10573,7 +10432,6 @@
         "IATA": "",
         "ICAO": "LDL",
         "name": "Aerologic",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -10587,7 +10445,6 @@
         "IATA": "",
         "ICAO": "VSC",
         "name": "Aeronautic de Los Pirineos",
-        "callsign": "",
         "area": "Spain"
     },
     {
@@ -10671,7 +10528,6 @@
         "IATA": "",
         "ICAO": "OUF",
         "name": "Beijing Eofa International Jet",
-        "callsign": "",
         "area": "China"
     },
     {
@@ -10790,7 +10646,6 @@
         "IATA": "",
         "ICAO": "BAC",
         "name": "BAC Leasing Limited",
-        "callsign": " ",
         "area": "United Kingdom"
     },
     {
@@ -10881,14 +10736,12 @@
         "IATA": "",
         "ICAO": "BAX",
         "name": "Best Aero Handling Ltd",
-        "callsign": "",
         "area": "Russia"
     },
     {
         "IATA": "",
         "ICAO": "BAY",
         "name": "Bravo Airways",
-        "callsign": "",
         "area": "Ukraine"
     },
     {
@@ -10951,7 +10804,6 @@
         "IATA": "",
         "ICAO": "BCL",
         "name": "British Caribbean Airways",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -11229,23 +11081,17 @@
     },
     {
         "IATA": "E6",
-        "ICAO": "",
         "name": "Bringer Air Cargo Taxi Aéreo",
-        "callsign": "",
         "area": "Brazil"
     },
     {
         "IATA": "LZ",
-        "ICAO": "",
         "name": "Balkan Bulgarian Airlines",
-        "callsign": "",
         "area": "Bulgaria"
     },
     {
         "IATA": "TH",
-        "ICAO": "",
         "name": "BA Connect",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -11686,7 +11532,6 @@
         "IATA": "",
         "ICAO": "BPX",
         "name": "British Petroleum Exploration",
-        "callsign": "",
         "area": "Colombia"
     },
     {
@@ -11826,7 +11671,6 @@
         "IATA": "",
         "ICAO": "BSM",
         "name": "Blue Sky Aviation",
-        "callsign": "",
         "area": "Lebanon"
     },
     {
@@ -11980,7 +11824,6 @@
         "IATA": "",
         "ICAO": "BVU",
         "name": "Bellview Airlines, Sierra Leone",
-        "callsign": "",
         "area": "Sierra Leone"
     },
     {
@@ -12027,10 +11870,7 @@
     },
     {
         "IATA": "8W?",
-        "ICAO": "",
-        "name": "BAX Global",
-        "callsign": "",
-        "area": ""
+        "name": "BAX Global"
     },
     {
         "IATA": "",
@@ -12064,7 +11904,6 @@
         "IATA": "",
         "ICAO": "BYR",
         "name": "Berytos Airlines",
-        "callsign": "",
         "area": "Lebanon"
     },
     {
@@ -12176,7 +12015,6 @@
         "IATA": "",
         "ICAO": "FOS",
         "name": "Bel Limited",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -12414,14 +12252,12 @@
         "IATA": "",
         "ICAO": "XBO",
         "name": "Baseops International",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "",
         "ICAO": "XDA",
         "name": "Bureau Veritas",
-        "callsign": "",
         "area": "France"
     },
     {
@@ -12491,7 +12327,6 @@
         "IATA": "",
         "ICAO": "CNW",
         "name": "Continental Airways",
-        "callsign": "",
         "area": "Moldovoa"
     },
     {
@@ -12540,7 +12375,6 @@
         "IATA": "",
         "ICAO": "BFN",
         "name": "Compagnie Nationale Naganagani",
-        "callsign": "",
         "area": "Burkino Faso"
     },
     {
@@ -12587,21 +12421,18 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Cambridge Recurrent Training",
         "callsign": "CAMBRIDGE",
         "area": "United Kingdom"
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "California Department of Forestry and Fire Protection",
         "callsign": "CALFIRE",
         "area": "United States"
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Careflight Queensland",
         "callsign": "SAMARITAN",
         "area": "Australia"
@@ -12615,49 +12446,42 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Castle Air Charter",
         "callsign": "CASTLEFILM",
         "area": "United Kingdom"
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Challenges Aviation",
         "callsign": "TIGER",
         "area": "United Kingdom"
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Challenges Limited",
         "callsign": "HERITAGE",
         "area": "United Kingdom"
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Cheqair",
         "callsign": "ASTON",
         "area": "United Kingdom"
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Clacton Aero Club",
         "callsign": "CLASSIC WINGS",
         "area": "United Kingdom"
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Coral Sun Airways",
         "callsign": "CORAL SUN",
         "area": "Kirbati"
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Cowan Group",
         "callsign": "COWAN",
         "area": "United States"
@@ -12855,7 +12679,6 @@
         "IATA": "",
         "ICAO": "CKC",
         "name": "CKC Services",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -12946,7 +12769,6 @@
         "IATA": "",
         "ICAO": "CCE",
         "name": "Cairo Air Transport Company",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -13079,7 +12901,6 @@
         "IATA": "",
         "ICAO": "XNC",
         "name": "Canadian National Telecommunications",
-        "callsign": "",
         "area": "Canada"
     },
     {
@@ -13142,7 +12963,6 @@
         "IATA": "",
         "ICAO": "CTO",
         "name": "Cape Air Transport",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -13387,7 +13207,6 @@
         "IATA": "",
         "ICAO": "CLT",
         "name": "Club Aerocelta de Vuelo Con Motor",
-        "callsign": "",
         "area": "Spain"
     },
     {
@@ -13702,7 +13521,6 @@
         "IATA": "",
         "ICAO": "CQC",
         "name": "Central Queensland Aviation College",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -13772,14 +13590,12 @@
         "IATA": "",
         "ICAO": "HAI",
         "name": "Century Aviation International",
-        "callsign": "",
         "area": "Canada"
     },
     {
         "IATA": "",
         "ICAO": "XAD",
         "name": "Certified Air Dispatch",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -13912,7 +13728,6 @@
         "IATA": "",
         "ICAO": "CGD",
         "name": "Charlotte Air National Guard",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -13947,7 +13762,6 @@
         "IATA": "",
         "ICAO": "CHM",
         "name": "Chemech Aviation",
-        "callsign": "",
         "area": "Pakistan"
     },
     {
@@ -14262,7 +14076,6 @@
         "IATA": "",
         "ICAO": "JTI",
         "name": "Cirrus Middle East",
-        "callsign": "",
         "area": "Lebanon"
     },
     {
@@ -14276,7 +14089,6 @@
         "IATA": "",
         "ICAO": "XCX",
         "name": "Citibank",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -14304,7 +14116,6 @@
         "IATA": "",
         "ICAO": "XBG",
         "name": "City of Bangor",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -14463,7 +14274,6 @@
     },
     {
         "IATA": "DQ",
-        "ICAO": "",
         "name": "Coastal Air",
         "callsign": "U.S. Virgin Islands",
         "area": "United States"
@@ -14528,14 +14338,12 @@
         "IATA": "YD",
         "ICAO": "CAT",
         "name": "Cologne Air Transport GmbH",
-        "callsign": "",
         "area": "Germany"
     },
     {
         "IATA": "",
         "ICAO": "CCX",
         "name": "Colt International",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -14668,7 +14476,6 @@
         "IATA": "",
         "ICAO": "GAR",
         "name": "Commodore Aviation",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -14710,7 +14517,6 @@
         "IATA": "",
         "ICAO": "CPM",
         "name": "Compagnie Mauritanienne Des Transports",
-        "callsign": "",
         "area": "Mauritania"
     },
     {
@@ -14724,7 +14530,6 @@
         "IATA": "",
         "ICAO": "AIF",
         "name": "Compañía Aérea de Valencia",
-        "callsign": "",
         "area": "Spain"
     },
     {
@@ -14808,14 +14613,12 @@
         "IATA": "",
         "ICAO": "XCO",
         "name": "Compuflight Operations Service",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "",
         "ICAO": "XCS",
         "name": "Compuserve Incorporated",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -14864,7 +14667,6 @@
         "IATA": "",
         "ICAO": "CAK",
         "name": "Congo Air",
-        "callsign": "",
         "area": "Bahamas"
     },
     {
@@ -14878,7 +14680,6 @@
         "IATA": "",
         "ICAO": "ROY",
         "name": "Conifair Aviation",
-        "callsign": "",
         "area": "Canada"
     },
     {
@@ -14927,7 +14728,6 @@
         "IATA": "",
         "ICAO": "XCL",
         "name": "Contel ASC",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -14946,7 +14746,6 @@
     },
     {
         "IATA": "CO",
-        "ICAO": "",
         "name": "Continental Express",
         "callsign": "JETLINK",
         "area": "United States"
@@ -15067,7 +14866,6 @@
         "IATA": "",
         "ICAO": "CGY",
         "name": "Corporacion Paraguaya De Aeronautica",
-        "callsign": "",
         "area": "Paraguay"
     },
     {
@@ -15151,7 +14949,6 @@
         "IATA": "",
         "ICAO": "COT",
         "name": "Costa Airlines",
-        "callsign": "",
         "area": "Venezuela"
     },
     {
@@ -15172,7 +14969,6 @@
         "IATA": "",
         "ICAO": "NSW",
         "name": "Country Connection Airlines",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -15438,7 +15234,6 @@
         "IATA": "8L",
         "ICAO": "CGP",
         "name": "Cargo Plus Aviation",
-        "callsign": "",
         "area": "United Arab Emirates"
     },
     {
@@ -15536,14 +15331,12 @@
         "IATA": "",
         "ICAO": "DNS",
         "name": "Dniproaviaservis Company",
-        "callsign": "",
         "area": "Ukraine"
     },
     {
         "IATA": "",
         "ICAO": "DRF",
         "name": "Dream Flyers Training Center",
-        "callsign": "",
         "area": "Spain"
     },
     {
@@ -15564,7 +15357,6 @@
         "IATA": "",
         "ICAO": "GDF",
         "name": "DF Aviation",
-        "callsign": "",
         "area": "Ukraine"
     },
     {
@@ -15690,7 +15482,6 @@
         "IATA": "L3",
         "ICAO": "JOS",
         "name": "DHL de Guatemala",
-        "callsign": "",
         "area": "Guatemala"
     },
     {
@@ -15718,7 +15509,6 @@
         "IATA": "",
         "ICAO": "DHA",
         "name": "Dahla Airlines",
-        "callsign": "",
         "area": "Democratic Republic of Congo"
     },
     {
@@ -15739,7 +15529,6 @@
         "IATA": "",
         "ICAO": "DKA",
         "name": "Daka",
-        "callsign": "",
         "area": "Kazakhstan"
     },
     {
@@ -15795,7 +15584,6 @@
         "IATA": "DD",
         "ICAO": "DDL",
         "name": "Danish Air Lines",
-        "callsign": "",
         "area": "Denmark"
     },
     {
@@ -15865,7 +15653,6 @@
         "IATA": "",
         "ICAO": "DAB",
         "name": "Dassault Aviation",
-        "callsign": "",
         "area": "France"
     },
     {
@@ -15893,7 +15680,6 @@
         "IATA": "",
         "ICAO": "XDT",
         "name": "Date Transformation Corp",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -15907,7 +15693,6 @@
         "IATA": "",
         "ICAO": "DCO",
         "name": "David Crawshaw Consultants Limited",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -16061,7 +15846,6 @@
         "IATA": "",
         "ICAO": "DRX",
         "name": "Des R Cargo Express",
-        "callsign": "",
         "area": "Mauritania"
     },
     {
@@ -16080,9 +15864,7 @@
     },
     {
         "IATA": "2A",
-        "ICAO": "",
         "name": "Deutsche Bahn",
-        "callsign": "",
         "area": "Germany"
     },
     {
@@ -16159,7 +15941,6 @@
         "IATA": "",
         "ICAO": "DCT",
         "name": "Direct Flight",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -16194,7 +15975,6 @@
         "IATA": "",
         "ICAO": "XDS",
         "name": "Dispatch Services",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -16453,7 +16233,6 @@
         "IATA": "",
         "ICAO": "XDY",
         "name": "Dynair Services",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -16488,14 +16267,12 @@
         "IATA": "",
         "ICAO": "EES",
         "name": "Eagle Express",
-        "callsign": "",
         "area": "Serbia"
     },
     {
         "IATA": "",
         "ICAO": "EBF",
         "name": "Echo Airlines",
-        "callsign": "",
         "area": "Bahamas"
     },
     {
@@ -16530,7 +16307,6 @@
         "IATA": "",
         "ICAO": "EVT",
         "name": "Everett Limited",
-        "callsign": "",
         "area": "Tanzania"
     },
     {
@@ -16612,16 +16388,13 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Europe Jet",
         "callsign": "EUROPE JET",
         "area": "Turkey"
     },
     {
         "IATA": "E1",
-        "ICAO": "",
         "name": "Everbread",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -16633,16 +16406,12 @@
     },
     {
         "IATA": "1C",
-        "ICAO": "",
         "name": "Electronic Data Systems",
-        "callsign": "",
         "area": "Switzerland"
     },
     {
         "IATA": "1Y",
-        "ICAO": "",
         "name": "Electronic Data Systems",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -16731,9 +16500,7 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Eagle Air",
-        "callsign": "",
         "area": "Indonesia"
     },
     {
@@ -16838,7 +16605,6 @@
         "IATA": "",
         "ICAO": "EMU",
         "name": "East Asia Airlines",
-        "callsign": "",
         "area": "Macao"
     },
     {
@@ -16985,7 +16751,6 @@
         "IATA": "DK",
         "ICAO": "ELA",
         "name": "Eastland Air",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -17027,7 +16792,6 @@
         "IATA": "",
         "ICAO": "DEI",
         "name": "Ecoair",
-        "callsign": "",
         "area": "Algeria"
     },
     {
@@ -17132,21 +16896,18 @@
         "IATA": "",
         "ICAO": "EGY",
         "name": "Egyptian Air Force",
-        "callsign": "",
         "area": "Egypt"
     },
     {
         "IATA": "",
         "ICAO": "EJX",
         "name": "Egyptian Aviation",
-        "callsign": "",
         "area": "Egypt"
     },
     {
         "IATA": "",
         "ICAO": "EMA",
         "name": "Egyptian Aviation Company",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -17342,7 +17103,6 @@
         "IATA": "",
         "ICAO": "ELR",
         "name": "Elrom Aviation and Investments",
-        "callsign": "",
         "area": "Israel"
     },
     {
@@ -17426,7 +17186,6 @@
         "IATA": "",
         "ICAO": "MPR",
         "name": "Empire Aviation Services",
-        "callsign": "",
         "area": "Nigeria"
     },
     {
@@ -17580,7 +17339,6 @@
         "IATA": "",
         "ICAO": "EQT",
         "name": "Equatorial Airlines",
-        "callsign": "",
         "area": "Equatorial Guinea"
     },
     {
@@ -17650,7 +17408,6 @@
         "IATA": "E7",
         "ICAO": "ESF",
         "name": "Estafeta Carga Aérea",
-        "callsign": "",
         "area": "Mexico"
     },
     {
@@ -17718,9 +17475,7 @@
     },
     {
         "IATA": "RZ",
-        "ICAO": "",
         "name": "Euro Exec Express",
-        "callsign": "",
         "area": "Sweden"
     },
     {
@@ -17783,7 +17538,6 @@
         "IATA": "",
         "ICAO": "EUC",
         "name": "Eurocontrol",
-        "callsign": "",
         "area": "Belgium"
     },
     {
@@ -17888,7 +17642,6 @@
         "IATA": "",
         "ICAO": "EAG",
         "name": "European Aeronautical Group UK",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -17916,7 +17669,6 @@
         "IATA": "",
         "ICAO": "EBJ",
         "name": "European Business Jets",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -18070,7 +17822,6 @@
         "IATA": "",
         "ICAO": "XAF",
         "name": "Executive Air Fleet",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -18084,7 +17835,6 @@
         "IATA": "",
         "ICAO": "XAH",
         "name": "Executive Aircraft Services",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -18126,7 +17876,6 @@
         "IATA": "",
         "ICAO": "EXJ",
         "name": "Executive Jet Charter",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -18252,7 +18001,6 @@
         "IATA": "",
         "ICAO": "ABU",
         "name": "Eagle Aviation Services",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -18509,9 +18257,7 @@
     },
     {
         "IATA": "IH",
-        "ICAO": "",
         "name": "Falcon Aviation",
-        "callsign": "",
         "area": "Sweden"
     },
     {
@@ -18544,7 +18290,6 @@
     },
     {
         "IATA": "FD",
-        "ICAO": "",
         "name": "Royal Flying Doctor Service",
         "callsign": "FLYDOC",
         "area": "Australia"
@@ -18763,7 +18508,6 @@
         "IATA": "",
         "ICAO": "JRF",
         "name": "First Air Transport",
-        "callsign": "",
         "area": "Japan"
     },
     {
@@ -18896,7 +18640,6 @@
         "IATA": "",
         "ICAO": "FXT",
         "name": "Flexflight",
-        "callsign": "",
         "area": "Denmark"
     },
     {
@@ -18938,7 +18681,6 @@
         "IATA": "",
         "ICAO": "FDP",
         "name": "Flight Dispatch Services",
-        "callsign": "",
         "area": "Poland"
     },
     {
@@ -18980,7 +18722,6 @@
         "IATA": "",
         "ICAO": "FOI",
         "name": "Flight Ops International",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -19008,7 +18749,6 @@
         "IATA": "",
         "ICAO": "FSU",
         "name": "Flight Support Sweden",
-        "callsign": "",
         "area": "Sweden"
     },
     {
@@ -19155,7 +18895,6 @@
         "IATA": "",
         "ICAO": "FWZ",
         "name": "Flugwerkzeuge Aviation Software",
-        "callsign": "",
         "area": "Austria"
     },
     {
@@ -19295,7 +19034,6 @@
         "IATA": "",
         "ICAO": "FPA",
         "name": "Flygprestanda",
-        "callsign": "",
         "area": "Sweden"
     },
     {
@@ -19372,7 +19110,6 @@
         "IATA": "",
         "ICAO": "FOP",
         "name": "Fokker",
-        "callsign": "",
         "area": "Netherlands"
     },
     {
@@ -19393,7 +19130,6 @@
         "IATA": "VY",
         "ICAO": "FOS",
         "name": "Formosa Airlines",
-        "callsign": "",
         "area": "Taiwan"
     },
     {
@@ -19419,9 +19155,7 @@
     },
     {
         "IATA": "BN",
-        "ICAO": "",
         "name": "Forward Air International Airlines",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -19596,7 +19330,6 @@
         "IATA": "",
         "ICAO": "FGY",
         "name": "Froggy Corporate Aviation",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -19701,7 +19434,6 @@
         "IATA": "",
         "ICAO": "FWK",
         "name": "Flightworks",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -19737,7 +19469,7 @@
         "ICAO": "GRL",
         "name": "Air Greenland",
         "callsign": "GREENLAND",
-        "area": "Greenland\n\n\nDenmark"
+        "area": "Greenland\nDenmark"
     },
     {
         "IATA": "",
@@ -19778,7 +19510,6 @@
         "IATA": "",
         "ICAO": "GRE",
         "name": "Greenlandcopter",
-        "callsign": "",
         "area": "Denmark"
     },
     {
@@ -19806,7 +19537,6 @@
         "IATA": "",
         "ICAO": "GBH",
         "name": "Global Avia Handling",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -19904,7 +19634,6 @@
         "IATA": "",
         "ICAO": "GFW",
         "name": "GFW Aviation",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -19918,7 +19647,6 @@
         "IATA": "",
         "ICAO": "GHI",
         "name": "GH Stansted Limited",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -19981,7 +19709,6 @@
         "IATA": "",
         "ICAO": "GRT",
         "name": "Gabon-Air-Transport",
-        "callsign": "",
         "area": "Gabon"
     },
     {
@@ -20042,9 +19769,7 @@
     },
     {
         "IATA": "1G",
-        "ICAO": "",
         "name": "Galileo International",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -20205,7 +19930,6 @@
         "IATA": "",
         "ICAO": "XGA",
         "name": "General Aviation Terminal",
-        "callsign": "",
         "area": "Canada"
     },
     {
@@ -20219,7 +19943,6 @@
         "IATA": "",
         "ICAO": "GNX",
         "name": "Genex",
-        "callsign": "",
         "area": "Belarus"
     },
     {
@@ -20259,9 +19982,7 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Great Barrier Airlines",
-        "callsign": "",
         "area": "New Zealand"
     },
     {
@@ -20310,7 +20031,6 @@
         "IATA": "",
         "ICAO": "GDN",
         "name": "Gerry's Dnata",
-        "callsign": "",
         "area": "Pakistan"
     },
     {
@@ -20352,7 +20072,6 @@
         "IATA": "",
         "ICAO": "GHT",
         "name": "Ghadames Air Transport",
-        "callsign": "",
         "area": "Libya"
     },
     {
@@ -20408,21 +20127,17 @@
         "IATA": "",
         "ICAO": "GLC",
         "name": "Global Aircargo",
-        "callsign": "",
         "area": "Bahrain"
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Global Airways (Turks and Caicos)",
-        "callsign": "",
         "area": "Turks and Caicos Islands"
     },
     {
         "IATA": "",
         "ICAO": "BSP",
         "name": "Global Airways (BSP)",
-        "callsign": "",
         "area": "Democratic Republic of Congo"
     },
     {
@@ -20492,28 +20207,24 @@
         "IATA": "",
         "ICAO": "XGS",
         "name": "Global System",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "",
         "ICAO": "XGW",
         "name": "Global Weather Dynamics",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "",
         "ICAO": "GLW",
         "name": "Global Wings",
-        "callsign": "",
         "area": "Japan"
     },
     {
         "IATA": "",
         "ICAO": "GJA",
         "name": "Globe Jet",
-        "callsign": "",
         "area": "Lebanon"
     },
     {
@@ -20525,9 +20236,7 @@
     },
     {
         "IATA": "GK",
-        "ICAO": "",
         "name": "Go One Airways",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -20541,7 +20250,6 @@
         "IATA": "",
         "ICAO": "GGE",
         "name": "Gobierno De Guinea Ecuatorial",
-        "callsign": "",
         "area": "Equatorial Guinea"
     },
     {
@@ -20625,7 +20333,6 @@
         "IATA": "",
         "ICAO": "GOS",
         "name": "Goldfields Air Services",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -20665,7 +20372,6 @@
     },
     {
         "IATA": "G1",
-        "ICAO": "",
         "name": "Gorkha Airlines",
         "callsign": "GORKHA AIRLINES",
         "area": "Nepal"
@@ -21043,10 +20749,7 @@
     },
     {
         "IATA": "GY",
-        "ICAO": "",
-        "name": "Guyana Airways 2000",
-        "callsign": "",
-        "area": ""
+        "name": "Guyana Airways 2000"
     },
     {
         "IATA": "",
@@ -21162,9 +20865,7 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Hacienda Airlines",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -21197,9 +20898,7 @@
     },
     {
         "IATA": "H1",
-        "ICAO": "",
         "name": "Hahn Air Systems",
-        "callsign": "",
         "area": "Germany"
     },
     {
@@ -21211,23 +20910,19 @@
     },
     {
         "IATA": "1R",
-        "ICAO": "",
         "name": "Hainan Phoenix Information Systems",
-        "callsign": "",
         "area": "China"
     },
     {
         "IATA": "",
         "ICAO": "HLS",
         "name": "Haiti Air Freight",
-        "callsign": "",
         "area": "Haiti"
     },
     {
         "IATA": "2T",
         "ICAO": "HAM",
         "name": "Haiti Ambassador Airlines",
-        "callsign": "",
         "area": "Haiti"
     },
     {
@@ -21255,7 +20950,6 @@
         "IATA": "",
         "ICAO": "HTN",
         "name": "Haiti North Airline",
-        "callsign": "",
         "area": "Haiti"
     },
     {
@@ -21407,9 +21101,7 @@
     },
     {
         "IATA": "HP",
-        "ICAO": "",
         "name": "Hawaiian Pacific Airlines",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -21428,9 +21120,7 @@
     },
     {
         "IATA": "BH",
-        "ICAO": "",
         "name": "Hawkair",
-        "callsign": "",
         "area": "Canada"
     },
     {
@@ -21857,7 +21547,6 @@
         "IATA": "",
         "ICAO": "HAC",
         "name": "Henebury Aviation",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -21962,7 +21651,6 @@
         "IATA": "",
         "ICAO": "ABH",
         "name": "Hokuriki-Koukuu Company",
-        "callsign": "",
         "area": "Japan"
     },
     {
@@ -22058,7 +21746,6 @@
     },
     {
         "IATA": "HH",
-        "ICAO": "",
         "name": "Hope Air",
         "callsign": "HOPE AIR",
         "area": "Canada"
@@ -22212,9 +21899,7 @@
     },
     {
         "IATA": "H4",
-        "ICAO": "",
         "name": "Héli Sécurité Helicopter Airlines",
-        "callsign": "",
         "area": "France"
     },
     {
@@ -22242,7 +21927,6 @@
         "IATA": "",
         "ICAO": "IIC",
         "name": "Inter Island Air Charter",
-        "callsign": "",
         "area": "Bahamas"
     },
     {
@@ -22256,7 +21940,6 @@
         "IATA": "",
         "ICAO": "IWL",
         "name": "Island Wings",
-        "callsign": "",
         "area": "Bahamas"
     },
     {
@@ -22270,7 +21953,6 @@
         "IATA": "",
         "ICAO": "ICN",
         "name": "Iconair",
-        "callsign": "",
         "area": "Pakistan"
     },
     {
@@ -22291,7 +21973,6 @@
         "IATA": "",
         "ICAO": "ITC",
         "name": "International Air Carrier Association",
-        "callsign": "",
         "area": "Belgium"
     },
     {
@@ -22318,9 +21999,7 @@
     {
         "IATA": "",
         "ICAO": "YYY",
-        "name": "ICAO",
-        "callsign": "",
-        "area": ""
+        "name": "ICAO"
     },
     {
         "IATA": "C3",
@@ -22389,14 +22068,11 @@
         "IATA": "",
         "ICAO": "XGG",
         "name": "IMP Group Aviation Services",
-        "callsign": "",
         "area": "Canada"
     },
     {
         "IATA": "1F",
-        "ICAO": "",
         "name": "INFINI Travel Information",
-        "callsign": "",
         "area": "Japan"
     },
     {
@@ -22429,16 +22105,13 @@
     },
     {
         "IATA": "1U",
-        "ICAO": "",
         "name": "ITA Software",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "",
         "ICAO": "FDF",
         "name": "IVV Femida",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -22494,7 +22167,6 @@
         "IATA": "",
         "ICAO": "AKI",
         "name": "Ibk-Petra",
-        "callsign": " ",
         "area": "Sudan"
     },
     {
@@ -22599,7 +22271,6 @@
         "IATA": "",
         "ICAO": "ILP",
         "name": "Ilpo Aruba Cargo",
-        "callsign": "",
         "area": "Aruba"
     },
     {
@@ -22746,7 +22417,6 @@
         "IATA": "",
         "ICAO": "INS",
         "name": "Inflite The Jet Centre",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -22788,7 +22458,6 @@
         "IATA": "",
         "ICAO": "FFL",
         "name": "Intavia Limited",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -22816,7 +22485,6 @@
         "IATA": "H4",
         "ICAO": "IIN",
         "name": "Inter Island Airways",
-        "callsign": "",
         "area": "Cape Verde"
     },
     {
@@ -22928,7 +22596,6 @@
         "IATA": "",
         "ICAO": "IJT",
         "name": "Interflight (Learjet)",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -23089,7 +22756,6 @@
         "IATA": "",
         "ICAO": "ISF",
         "name": "International Stabilisation Assistance Force",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -23180,7 +22846,6 @@
         "IATA": "",
         "ICAO": "IRB",
         "name": "Iranair Tours",
-        "callsign": "",
         "area": "Iran"
     },
     {
@@ -23264,7 +22929,6 @@
         "IATA": "",
         "ICAO": "ISA",
         "name": "Island Airlines",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -23278,7 +22942,6 @@
         "IATA": "",
         "ICAO": "DQA",
         "name": "Island Aviation Services",
-        "callsign": "",
         "area": "Maldives"
     },
     {
@@ -23306,7 +22969,6 @@
         "IATA": "",
         "ICAO": "ILC",
         "name": "ILAS Air",
-        "callsign": "",
         "area": "Japan"
     },
     {
@@ -23318,9 +22980,7 @@
     },
     {
         "IATA": "CN",
-        "ICAO": "",
         "name": "Islands Nationair",
-        "callsign": "",
         "area": "Papua New Guinea"
     },
     {
@@ -23348,7 +23008,6 @@
         "IATA": "WC",
         "ICAO": "ISV",
         "name": "Islena De Inversiones",
-        "callsign": "",
         "area": "Honduras"
     },
     {
@@ -23369,7 +23028,6 @@
         "IATA": "",
         "ICAO": "IAF",
         "name": "Israeli Air Force",
-        "callsign": "",
         "area": "Israel"
     },
     {
@@ -23432,7 +23090,6 @@
         "IATA": "",
         "ICAO": "OIC",
         "name": "Iwamoto Crane Co Ltd",
-        "callsign": "",
         "area": "Japan"
     },
     {
@@ -23458,9 +23115,7 @@
     },
     {
         "IATA": "HC",
-        "ICAO": "",
         "name": "Iceland Express",
-        "callsign": "",
         "area": "Iceland"
     },
     {
@@ -23481,7 +23136,6 @@
         "IATA": "",
         "ICAO": "JAS",
         "name": "Jet Aviation Flight Services Inc",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -23516,7 +23170,6 @@
         "IATA": "",
         "ICAO": "JWD",
         "name": "Jayawijaya Dirgantara",
-        "callsign": "",
         "area": "Indonesia"
     },
     {
@@ -23542,7 +23195,6 @@
     },
     {
         "IATA": "XM",
-        "ICAO": "",
         "name": "J-Air",
         "callsign": "J AIR",
         "area": "Japan"
@@ -23579,7 +23231,6 @@
         "IATA": "",
         "ICAO": "JHM",
         "name": "JHM Cargo Expreso",
-        "callsign": "",
         "area": "Costa Rica"
     },
     {
@@ -23598,9 +23249,7 @@
     },
     {
         "IATA": "1M",
-        "ICAO": "",
         "name": "JSC Transport Automated Information Systems",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -23656,7 +23305,6 @@
         "IATA": "",
         "ICAO": "FJX",
         "name": "Jet Sky Cargo and Air Charter",
-        "callsign": "",
         "area": "Kenya"
     },
     {
@@ -23684,7 +23332,6 @@
         "IATA": "",
         "ICAO": "JSV",
         "name": "Japan Aircraft Service",
-        "callsign": "",
         "area": "Japan"
     },
     {
@@ -23754,7 +23401,6 @@
         "IATA": "",
         "ICAO": "XLD",
         "name": "Jeppesen Data Plan",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -23787,9 +23433,7 @@
     },
     {
         "IATA": "QJ",
-        "ICAO": "",
         "name": "Jet Airways",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -24006,7 +23650,6 @@
         "IATA": "",
         "ICAO": "JMK",
         "name": "Jetmagic",
-        "callsign": "",
         "area": "Malta"
     },
     {
@@ -24069,7 +23712,6 @@
         "IATA": "",
         "ICAO": "JXA",
         "name": "Jetex Aviation",
-        "callsign": "",
         "area": "Lebanon"
     },
     {
@@ -24111,7 +23753,6 @@
         "IATA": "",
         "ICAO": "JLH",
         "name": "Jetlink Holland",
-        "callsign": "",
         "area": "Netherlands"
     },
     {
@@ -24349,7 +23990,6 @@
         "IATA": "J4",
         "ICAO": "JCI",
         "name": "Jordan International Air Cargo",
-        "callsign": "",
         "area": "Jordan"
     },
     {
@@ -24580,7 +24220,6 @@
         "IATA": "",
         "ICAO": "KIZ",
         "name": "Kanaf-Arkia Airlines",
-        "callsign": "",
         "area": "Israel"
     },
     {
@@ -24664,7 +24303,6 @@
         "IATA": "",
         "ICAO": "XKA",
         "name": "Kavouras Inc",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -25133,7 +24771,6 @@
         "IATA": "",
         "ICAO": "KZA",
         "name": "Kurzemes Avio",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -25238,7 +24875,6 @@
         "IATA": "",
         "ICAO": "LBR",
         "name": "Lepl Project Limited (Air Costa)",
-        "callsign": "",
         "area": "India"
     },
     {
@@ -25252,7 +24888,6 @@
         "IATA": "",
         "ICAO": "LLD",
         "name": "Lloyd Aviation",
-        "callsign": "",
         "area": "Venezuela"
     },
     {
@@ -25294,7 +24929,6 @@
         "IATA": "",
         "ICAO": "LAX",
         "name": "Laminar Air",
-        "callsign": "",
         "area": "Spain"
     },
     {
@@ -25446,9 +25080,7 @@
     },
     {
         "IATA": "NI",
-        "ICAO": "",
         "name": "LANICA",
-        "callsign": "",
         "area": "Nicaragua"
     },
     {
@@ -25481,9 +25113,7 @@
     },
     {
         "IATA": "L5",
-        "ICAO": "",
         "name": "Línea Aérea Cuencana",
-        "callsign": "",
         "area": "Ecuador"
     },
     {
@@ -25567,7 +25197,6 @@
         "IATA": "N6",
         "ICAO": "JEV",
         "name": "Lagun Air",
-        "callsign": "",
         "area": "Spain"
     },
     {
@@ -25868,7 +25497,6 @@
         "IATA": "",
         "ICAO": "LIQ",
         "name": "Lid Air",
-        "callsign": "",
         "area": "Sweden"
     },
     {
@@ -25903,14 +25531,12 @@
         "IATA": "",
         "ICAO": "GDQ",
         "name": "Lincoln Air National Guard",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "",
         "ICAO": "LRT",
         "name": "Lincoln Airlines",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -25959,7 +25585,6 @@
         "IATA": "",
         "ICAO": "LSE",
         "name": "Línea De Aeroservicios",
-        "callsign": "",
         "area": "Chile"
     },
     {
@@ -26064,7 +25689,6 @@
         "IATA": "",
         "ICAO": "LAW",
         "name": "Link Airways of Australia",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -26127,7 +25751,6 @@
         "IATA": "",
         "ICAO": "XLG",
         "name": "Lockheed Air Terminal",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -26141,7 +25764,6 @@
         "IATA": "",
         "ICAO": "XDD",
         "name": "Lockheed DUATS",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -26307,9 +25929,7 @@
     },
     {
         "IATA": "L1",
-        "ICAO": "",
         "name": "Lufthansa Systems",
-        "callsign": "",
         "area": "Germany"
     },
     {
@@ -26379,7 +25999,6 @@
         "IATA": "",
         "ICAO": "LXO",
         "name": "Luxor Air",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -26442,7 +26061,6 @@
         "IATA": "Z8",
         "ICAO": "AZN",
         "name": "Línea Aérea Amaszonas",
-        "callsign": "",
         "area": "Bolivia"
     },
     {
@@ -26498,7 +26116,6 @@
         "IATA": "",
         "ICAO": "MTS",
         "name": "Med Jets",
-        "callsign": "",
         "area": "Mexico"
     },
     {
@@ -26610,7 +26227,6 @@
         "IATA": "",
         "ICAO": "MSN",
         "name": "Milenium Air Servicios Aereos Integrados",
-        "callsign": "",
         "area": "Mexico"
     },
     {
@@ -26764,14 +26380,12 @@
         "IATA": "",
         "ICAO": "MTD",
         "name": "MacKnight Airlines",
-        "callsign": "",
         "area": "Australia"
     },
     {
         "IATA": "CC",
         "ICAO": "MCK",
         "name": "Macair Airlines",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -26790,9 +26404,7 @@
     },
     {
         "IATA": "DM",
-        "ICAO": "",
         "name": "Maersk",
-        "callsign": "",
         "area": "Denmark"
     },
     {
@@ -26855,7 +26467,6 @@
         "IATA": "",
         "ICAO": "MLG",
         "name": "Malagasy Airlines",
-        "callsign": "",
         "area": "Madagascar"
     },
     {
@@ -26932,7 +26543,6 @@
         "IATA": "",
         "ICAO": "MAY",
         "name": "Malta Air",
-        "callsign": "",
         "area": "Malta"
     },
     {
@@ -27093,7 +26703,6 @@
         "IATA": "",
         "ICAO": "XMA",
         "name": "Martin Aviation Services",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -27163,7 +26772,6 @@
         "IATA": "",
         "ICAO": "MPL",
         "name": "Master Planner",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -27175,9 +26783,7 @@
     },
     {
         "IATA": "Q4",
-        "ICAO": "",
         "name": "Mastertop Linhas Aéreas",
-        "callsign": "",
         "area": "Brazil"
     },
     {
@@ -27373,7 +26979,6 @@
         "IATA": "",
         "ICAO": "MDY",
         "name": "Mediterranean Airways",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -27413,9 +27018,7 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Mercer Airlines",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -27527,7 +27130,6 @@
         "IATA": "",
         "ICAO": "MVI",
         "name": "Metro Business Aviation",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -27625,7 +27227,6 @@
         "IATA": "",
         "ICAO": "BIB",
         "name": "Michelin Air Services",
-        "callsign": "",
         "area": "France"
     },
     {
@@ -27667,7 +27268,6 @@
         "IATA": "",
         "ICAO": "MID",
         "name": "Midland Airport Services",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -27723,7 +27323,6 @@
         "IATA": "MY",
         "ICAO": "MWA",
         "name": "Midwest Airlines (Egypt)",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -27807,7 +27406,6 @@
         "IATA": "",
         "ICAO": "NAB",
         "name": "Mina Airline Company",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -27884,7 +27482,6 @@
         "IATA": "",
         "ICAO": "MOS",
         "name": "Misr Overseas Airways",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -28008,9 +27605,7 @@
     },
     {
         "IATA": "8I",
-        "ICAO": "",
         "name": "Myway Airlines",
-        "callsign": "",
         "area": "Italy"
     },
     {
@@ -28171,7 +27766,6 @@
         "IATA": "",
         "ICAO": "MDN",
         "name": "Mudan Airlines",
-        "callsign": "",
         "area": "Somali Republic"
     },
     {
@@ -28199,8 +27793,7 @@
         "IATA": "",
         "ICAO": "MFT",
         "name": "Multiflight",
-        "callsign": "YORKAIR",
-        "area": ""
+        "callsign": "YORKAIR"
     },
     {
         "IATA": "",
@@ -28332,7 +27925,6 @@
         "IATA": "",
         "ICAO": "NHV",
         "name": "NHV Aviation",
-        "callsign": "",
         "area": "Ghana"
     },
     {
@@ -28423,7 +28015,6 @@
         "IATA": "",
         "ICAO": "BFN",
         "name": "Compangnie Nationale Naganagani",
-        "callsign": "",
         "area": "Burkina Faso"
     },
     {
@@ -28491,9 +28082,7 @@
     },
     {
         "IATA": "P9",
-        "ICAO": "",
         "name": "Nas Air",
-        "callsign": "",
         "area": "Mali"
     },
     {
@@ -28505,9 +28094,7 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Nas Air",
-        "callsign": "",
         "area": "Saudi Arabia"
     },
     {
@@ -28556,7 +28143,6 @@
         "IATA": "N4",
         "ICAO": "NCN",
         "name": "National Airlines",
-        "callsign": "",
         "area": "Chile"
     },
     {
@@ -28596,9 +28182,7 @@
     },
     {
         "IATA": "9O",
-        "ICAO": "",
         "name": "National Airways Cameroon",
-        "callsign": "",
         "area": "Cameroon"
     },
     {
@@ -28612,7 +28196,6 @@
         "IATA": "",
         "ICAO": "GTY",
         "name": "National Aviation Company",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -28731,7 +28314,6 @@
         "IATA": "",
         "ICAO": "NVP",
         "name": "Navegacao Aérea De Portugal",
-        "callsign": "",
         "area": "Portugal"
     },
     {
@@ -28766,28 +28348,23 @@
         "IATA": "",
         "ICAO": "XNV",
         "name": "Navinc Airlines Services",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "1N",
-        "ICAO": "",
         "name": "Navitaire",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "",
         "ICAO": "XNS",
         "name": "Navtech System Support",
-        "callsign": "",
         "area": "Canada"
     },
     {
         "IATA": "",
         "ICAO": "NZA",
         "name": "Nayzak Air Transport",
-        "callsign": "",
         "area": "Libya"
     },
     {
@@ -29032,7 +28609,6 @@
         "IATA": "",
         "ICAO": "NVA",
         "name": "Nile Valley Aviation Company",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -29067,14 +28643,12 @@
         "IATA": "",
         "ICAO": "SRG",
         "name": "Search and Rescue 202",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
         "IATA": "",
         "ICAO": "SRD",
         "name": "Search and Rescue 22",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -29165,7 +28739,6 @@
         "IATA": "",
         "ICAO": "NDS",
         "name": "Nordstree (Australia)",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -29184,9 +28757,7 @@
     },
     {
         "IATA": "N5",
-        "ICAO": "",
         "name": "Norfolk Air",
-        "callsign": "",
         "area": "Norfolk Island"
     },
     {
@@ -29317,9 +28888,7 @@
     },
     {
         "IATA": "N9",
-        "ICAO": "",
         "name": "North Coast Aviation",
-        "callsign": "",
         "area": "Papua New Guinea"
     },
     {
@@ -29457,9 +29026,7 @@
     },
     {
         "IATA": "U7",
-        "ICAO": "",
         "name": "Northern Dene Airways",
-        "callsign": "",
         "area": "Canada"
     },
     {
@@ -29522,7 +29089,6 @@
         "IATA": "",
         "ICAO": "NWE",
         "name": "Northwest Aero Associates",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -29536,7 +29102,6 @@
         "IATA": "FY",
         "ICAO": "NWR",
         "name": "Northwest Regional Airlines",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -29620,7 +29185,6 @@
         "IATA": "",
         "ICAO": "XNT",
         "name": "Notams International",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -29842,7 +29406,6 @@
     },
     {
         "IATA": "O2",
-        "ICAO": "",
         "name": "Linear Air",
         "callsign": "HARPOON",
         "area": "United States"
@@ -29865,7 +29428,6 @@
         "IATA": "",
         "ICAO": "GBO",
         "name": "Ogooue Air Cargo",
-        "callsign": "",
         "area": "Gabon"
     },
     {
@@ -30012,14 +29574,12 @@
         "IATA": "",
         "ICAO": "OPA",
         "name": "Opal Air",
-        "callsign": "",
         "area": "Australia"
     },
     {
         "IATA": "",
         "ICAO": "OSA",
         "name": "Open Sky Aviation",
-        "callsign": "",
         "area": "Lebanon"
     },
     {
@@ -30068,7 +29628,6 @@
         "IATA": "",
         "ICAO": "OAX",
         "name": "Operational Aviation Services",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -30306,7 +29865,6 @@
         "IATA": "",
         "ICAO": "OAA",
         "name": "Oxley Aviation",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -30460,7 +30018,6 @@
         "IATA": "",
         "ICAO": "XAS",
         "name": "PHH Aviation System",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -30572,7 +30129,6 @@
         "IATA": "",
         "ICAO": "PCX",
         "name": "Pacific Aviation (United States)",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -30654,9 +30210,7 @@
     },
     {
         "IATA": "GX",
-        "ICAO": "",
         "name": "Pacificair",
-        "callsign": "",
         "area": "Philippines"
     },
     {
@@ -30754,7 +30308,6 @@
         "IATA": "",
         "ICAO": "ODM",
         "name": "Pan African Airways",
-        "callsign": "",
         "area": "Kenya"
     },
     {
@@ -30768,28 +30321,23 @@
         "IATA": "",
         "ICAO": "XPA",
         "name": "Pan Am Weather Systems",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "7N",
         "ICAO": "PWD",
         "name": "PAWA Dominicana",
-        "callsign": "",
         "area": "Dominican Republic"
     },
     {
         "IATA": "PN",
-        "ICAO": "",
         "name": "Pan American Airways",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "PA",
         "ICAO": "PAA",
         "name": "Pan American Airways",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -30803,7 +30351,6 @@
         "IATA": "",
         "ICAO": "PEA",
         "name": "Pan Europeenne Air Service",
-        "callsign": "",
         "area": "France"
     },
     {
@@ -30852,7 +30399,6 @@
         "IATA": "",
         "ICAO": "PVI",
         "name": "Panavia",
-        "callsign": "",
         "area": "Panama"
     },
     {
@@ -30929,7 +30475,6 @@
         "IATA": "",
         "ICAO": "PGF",
         "name": "Paragon Global Flight Support",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -30978,7 +30523,6 @@
         "IATA": "",
         "ICAO": "FAP",
         "name": "Parsons Airways Northern",
-        "callsign": "",
         "area": "Canada"
     },
     {
@@ -31088,7 +30632,6 @@
     },
     {
         "IATA": "1I",
-        "ICAO": "",
         "name": "Pegasus Hava Tasimaciligi",
         "callsign": "Sunturk",
         "area": "Turkey"
@@ -31195,21 +30738,18 @@
         "IATA": "P9",
         "ICAO": "PVN",
         "name": "Peruvian Airlines",
-        "callsign": "",
         "area": "Peru"
     },
     {
         "IATA": "",
         "ICAO": "FPR",
         "name": "Peruvian Air Force",
-        "callsign": "",
         "area": "Peru"
     },
     {
         "IATA": "",
         "ICAO": "INP",
         "name": "Peruvian Navy",
-        "callsign": "",
         "area": "Peru"
     },
     {
@@ -31361,9 +30901,7 @@
     },
     {
         "IATA": "HP",
-        "ICAO": "",
         "name": "Phoenix Airways",
-        "callsign": "",
         "area": "Switzerland"
     },
     {
@@ -31384,7 +30922,6 @@
         "IATA": "",
         "ICAO": "XPX",
         "name": "Phoenix Flight Operations",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -31468,7 +31005,6 @@
         "IATA": "",
         "ICAO": "PER",
         "name": "Pioneers Limited",
-        "callsign": "",
         "area": "Pakistan"
     },
     {
@@ -31725,9 +31261,7 @@
     },
     {
         "IATA": "1U",
-        "ICAO": "",
         "name": "Polyot Sirena",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -31888,21 +31422,18 @@
         "IATA": "",
         "ICAO": "BFA",
         "name": "Presidence Du Faso",
-        "callsign": "",
         "area": "Burkina Faso"
     },
     {
         "IATA": "",
         "ICAO": "ONM",
         "name": "Presidencia de La Republica de Guinea Ecuatorial",
-        "callsign": "",
         "area": "Equatorial Guinea"
     },
     {
         "IATA": "TO",
         "ICAO": "PSD",
         "name": "President Airlines",
-        "callsign": "",
         "area": "Cambodia"
     },
     {
@@ -31977,10 +31508,7 @@
     },
     {
         "IATA": "8Q",
-        "ICAO": "",
-        "name": "Princess Air",
-        "callsign": "",
-        "area": ""
+        "name": "Princess Air"
     },
     {
         "IATA": "",
@@ -32126,7 +31654,6 @@
         "IATA": "",
         "ICAO": "AWD",
         "name": "Providence Aviation Services",
-        "callsign": "",
         "area": "Pakistan"
     },
     {
@@ -32182,7 +31709,6 @@
         "IATA": "",
         "ICAO": "PNG",
         "name": "Puerto Rico National Guard",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -32196,7 +31722,6 @@
         "IATA": "",
         "ICAO": "PGH",
         "name": "Pulkovo Aircraft Services",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -32259,7 +31784,6 @@
         "IATA": "",
         "ICAO": "QQE",
         "name": "Qatar Executive",
-        "callsign": "",
         "area": "Qatar"
     },
     {
@@ -32385,7 +31909,6 @@
         "IATA": "",
         "ICAO": "QWA",
         "name": "Qwestair",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -32406,28 +31929,24 @@
         "IATA": "",
         "ICAO": "RGV",
         "name": "RG Aviation",
-        "callsign": "",
         "area": "Venezuela"
     },
     {
         "IATA": "",
         "ICAO": "WHH",
         "name": "Richy Skylark",
-        "callsign": "",
         "area": "Sri Lanka"
     },
     {
         "IATA": "",
         "ICAO": "KRS",
         "name": "Rosen Aviation",
-        "callsign": "",
         "area": "Japan"
     },
     {
         "IATA": "",
         "ICAO": "VCB",
         "name": "Real Aero Club de Vizcaya",
-        "callsign": "",
         "area": "Spain"
     },
     {
@@ -32488,16 +32007,13 @@
     },
     {
         "IATA": "R6",
-        "ICAO": "",
         "name": "RACSA",
-        "callsign": "",
         "area": "Guatemala"
     },
     {
         "IATA": "",
         "ICAO": "BKH",
         "name": "RAF Barkston Heath",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -32581,7 +32097,6 @@
         "IATA": "",
         "ICAO": "NWO",
         "name": "RAF Northwood",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -32602,7 +32117,6 @@
         "IATA": "",
         "ICAO": "SMG",
         "name": "RAF St Mawgan Search and Rescue",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -32623,7 +32137,6 @@
         "IATA": "",
         "ICAO": "VLL",
         "name": "RAF Valley SAR Training Unit",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -32684,9 +32197,7 @@
     },
     {
         "IATA": "1D",
-        "ICAO": "",
         "name": "Radixx",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -32777,7 +32288,6 @@
         "IATA": "",
         "ICAO": "RYT",
         "name": "Raya Jet",
-        "callsign": "",
         "area": "Jordan"
     },
     {
@@ -32959,7 +32469,6 @@
         "IATA": "",
         "ICAO": "RIL",
         "name": "Regional Air",
-        "callsign": "",
         "area": "Mauritania"
     },
     {
@@ -33162,7 +32671,6 @@
         "IATA": "",
         "ICAO": "POL",
         "name": "Rikspolisstyrelsen",
-        "callsign": "",
         "area": "Sweden"
     },
     {
@@ -33267,7 +32775,6 @@
         "IATA": "",
         "ICAO": "ROC",
         "name": "Rocky Mountain Airlines",
-        "callsign": "",
         "area": "Canada"
     },
     {
@@ -33365,7 +32872,6 @@
         "IATA": "",
         "ICAO": "RFS",
         "name": "Rossair",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -33645,7 +33151,6 @@
         "IATA": "",
         "ICAO": "ROP",
         "name": "Royal Oman Police",
-        "callsign": "",
         "area": "Oman"
     },
     {
@@ -33715,14 +33220,12 @@
         "IATA": "",
         "ICAO": "RUR",
         "name": "Rusaero",
-        "callsign": "",
         "area": "Russia"
     },
     {
         "IATA": "",
         "ICAO": "KLE",
         "name": "Rusaero",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -33736,7 +33239,6 @@
         "IATA": "",
         "ICAO": "RUH",
         "name": "Rusich-T",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -33792,14 +33294,12 @@
         "IATA": "",
         "ICAO": "RUA",
         "name": "Rwanda Airlines",
-        "callsign": "",
         "area": "Rwanda"
     },
     {
         "IATA": "",
         "ICAO": "RWA",
         "name": "Rwanda Airways",
-        "callsign": "",
         "area": "Rwanda"
     },
     {
@@ -33869,7 +33369,6 @@
         "IATA": "RT",
         "ICAO": "BUG",
         "name": "UVT Aero",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -33911,7 +33410,6 @@
         "IATA": "",
         "ICAO": "SOG",
         "name": "Solenta Aviation Ghana",
-        "callsign": "",
         "area": "Ghana"
     },
     {
@@ -34044,7 +33542,6 @@
         "IATA": "",
         "ICAO": "LSV",
         "name": "Slovenian Ministry of Defence",
-        "callsign": "",
         "area": "Slovenia"
     },
     {
@@ -34065,7 +33562,6 @@
         "IATA": "",
         "ICAO": "SAQ",
         "name": "Safe Air Company",
-        "callsign": "",
         "area": "Kenya"
     },
     {
@@ -34107,7 +33603,6 @@
         "IATA": "",
         "ICAO": "SYH",
         "name": "Sky Handling",
-        "callsign": "",
         "area": "Ukraine"
     },
     {
@@ -34184,7 +33679,6 @@
         "IATA": "",
         "ICAO": "BEC",
         "name": "State Air Company Berkut",
-        "callsign": "",
         "area": "Kazakhstan"
     },
     {
@@ -34296,7 +33790,6 @@
         "IATA": "",
         "ICAO": "SAV",
         "name": "Samal Air",
-        "callsign": "",
         "area": "Kazakhstan"
     },
     {
@@ -34373,7 +33866,6 @@
         "IATA": "",
         "ICAO": "SBG",
         "name": "Sabre Incorporated",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -34989,7 +34481,6 @@
         "IATA": "",
         "ICAO": "SGX",
         "name": "Saga Airlines",
-        "callsign": "",
         "area": "Turkey"
     },
     {
@@ -35017,7 +34508,6 @@
         "IATA": "",
         "ICAO": "SHD",
         "name": "Sahara Airlines",
-        "callsign": "",
         "area": "Algeria"
     },
     {
@@ -35045,7 +34535,6 @@
         "IATA": "",
         "ICAO": "SHK",
         "name": "Shorouk Air",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -35073,7 +34562,6 @@
         "IATA": "",
         "ICAO": "SHO",
         "name": "Sheremetyevo-Cargo",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -35120,10 +34608,7 @@
     },
     {
         "IATA": "8S",
-        "ICAO": "",
-        "name": "Scorpio Aviation",
-        "callsign": "",
-        "area": ""
+        "name": "Scorpio Aviation"
     },
     {
         "IATA": "",
@@ -35185,7 +34670,6 @@
         "IATA": "",
         "ICAO": "SIJ",
         "name": "Seco International",
-        "callsign": "",
         "area": "Japan"
     },
     {
@@ -35199,7 +34683,6 @@
         "IATA": "",
         "ICAO": "SIM",
         "name": "Star Air",
-        "callsign": "",
         "area": "Sierra Leone"
     },
     {
@@ -35220,14 +34703,12 @@
         "IATA": "",
         "ICAO": "SIS",
         "name": "Saber Airlines",
-        "callsign": "",
         "area": "Egypt"
     },
     {
         "IATA": "XS",
         "ICAO": "SIT",
         "name": "SITA",
-        "callsign": "",
         "area": "Belgium"
     },
     {
@@ -35346,7 +34827,6 @@
         "IATA": "",
         "ICAO": "SPX",
         "name": "Service People Gesellschaft für Charter und Service",
-        "callsign": "",
         "area": "Germany"
     },
     {
@@ -35647,7 +35127,6 @@
         "IATA": "",
         "ICAO": "STF",
         "name": "SFT-Sudanese Flight",
-        "callsign": "",
         "area": "Sudan"
     },
     {
@@ -35661,7 +35140,6 @@
         "IATA": "",
         "ICAO": "STH",
         "name": "South-Airlines",
-        "callsign": "",
         "area": "Armenia"
     },
     {
@@ -35829,7 +35307,6 @@
         "IATA": "",
         "ICAO": "SUR",
         "name": "Sun Air",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -35906,7 +35383,6 @@
         "IATA": "",
         "ICAO": "SVJ",
         "name": "Silver Air",
-        "callsign": "",
         "area": "Djibouti"
     },
     {
@@ -35988,7 +35464,6 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Spurling Aviation",
         "callsign": "AIR SEATTLE",
         "area": "United States"
@@ -36200,7 +35675,6 @@
         "IATA": "",
         "ICAO": "SYE",
         "name": "Sheba Aviation",
-        "callsign": "",
         "area": "Yemen"
     },
     {
@@ -36221,14 +35695,12 @@
         "IATA": "",
         "ICAO": "SYI",
         "name": "Sonalysts",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "",
         "ICAO": "SYJ",
         "name": "Slate Falls Airways",
-        "callsign": "",
         "area": "Canada"
     },
     {
@@ -36473,7 +35945,6 @@
         "IATA": "",
         "ICAO": "ENR",
         "name": "Scenic Air",
-        "callsign": "",
         "area": "Namibia"
     },
     {
@@ -36494,7 +35965,6 @@
         "IATA": "CQ",
         "ICAO": "EXL",
         "name": "Sunshine Express Airlines",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -36571,7 +36041,6 @@
         "IATA": "",
         "ICAO": "GSW",
         "name": "Sky Wings Airlines",
-        "callsign": "",
         "area": "Greece"
     },
     {
@@ -36655,7 +36124,6 @@
         "IATA": "",
         "ICAO": "IJS",
         "name": "Silvair",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -36788,7 +36256,6 @@
         "IATA": "",
         "ICAO": "LRS",
         "name": "Sansa",
-        "callsign": "",
         "area": "Costa Rica"
     },
     {
@@ -36858,42 +36325,32 @@
         "IATA": "",
         "ICAO": "MTG",
         "name": "Servicios Aéreos MTT",
-        "callsign": "",
         "area": "Mexico"
     },
     {
         "IATA": "1Z",
         "ICAO": "APD",
         "name": "Sabre Pacific",
-        "callsign": "",
         "area": "Australia"
     },
     {
         "IATA": "1S",
-        "ICAO": "",
         "name": "Sabre",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "1I",
-        "ICAO": "",
         "name": "Sierra Nevada Airlines",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "1H",
-        "ICAO": "",
         "name": "Siren-Travel",
-        "callsign": "",
         "area": "Russia"
     },
     {
         "IATA": "1Q",
-        "ICAO": "",
         "name": "Sirena",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -36905,30 +36362,22 @@
     },
     {
         "IATA": "1K",
-        "ICAO": "",
         "name": "Southern Cross Distribution",
-        "callsign": "",
         "area": "Australia"
     },
     {
         "IATA": "1K",
-        "ICAO": "",
         "name": "Sutra",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "2C",
-        "ICAO": "",
         "name": "SNCF",
-        "callsign": "",
         "area": "France"
     },
     {
         "IATA": "2S",
-        "ICAO": "",
         "name": "Star Equatorial Airlines",
-        "callsign": "",
         "area": "Guinea"
     },
     {
@@ -37285,7 +36734,6 @@
         "IATA": "",
         "ICAO": "SKS",
         "name": "Sky Link Aviation",
-        "callsign": "",
         "area": "Pakistan"
     },
     {
@@ -37493,9 +36941,7 @@
     },
     {
         "IATA": "8D",
-        "ICAO": "",
         "name": "Servant Air",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -37656,7 +37102,6 @@
         "IATA": "",
         "ICAO": "SNS",
         "name": "Societe Centrafricaine De Transport Aerien",
-        "callsign": "",
         "area": "Central African Republic"
     },
     {
@@ -37670,7 +37115,6 @@
         "IATA": "",
         "ICAO": "SNU",
         "name": "Snunit Aviation",
-        "callsign": "",
         "area": "Israel"
     },
     {
@@ -37705,7 +37149,6 @@
         "IATA": "",
         "ICAO": "SOC",
         "name": "Southern Cargo Air Lines",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -38090,21 +37533,18 @@
         "IATA": "",
         "ICAO": "XPG",
         "name": "Southport Air Service",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "",
         "ICAO": "XSA",
         "name": "Spectrum Air Service",
-        "callsign": "",
         "area": "United States"
     },
     {
         "IATA": "",
         "ICAO": "XSN",
         "name": "Stephenville Aviation Services",
-        "callsign": "",
         "area": "Canada"
     },
     {
@@ -38125,7 +37565,6 @@
         "IATA": "",
         "ICAO": "XXS",
         "name": "Skyplan Services",
-        "callsign": "",
         "area": "Canada"
     },
     {
@@ -38137,16 +37576,11 @@
     },
     {
         "IATA": "R1",
-        "ICAO": "",
-        "name": "Sirin",
-        "callsign": "",
-        "area": ""
+        "name": "Sirin"
     },
     {
         "IATA": "S6",
-        "ICAO": "",
         "name": "Star Air",
-        "callsign": "",
         "area": "Denmark"
     },
     {
@@ -38187,9 +37621,7 @@
     {
         "IATA": "SO",
         "ICAO": "AAS",
-        "name": "Sunshine Airlines",
-        "callsign": "",
-        "area": ""
+        "name": "Sunshine Airlines"
     },
     {
         "IATA": "O3",
@@ -38227,6 +37659,2542 @@
         "area": "Germany"
     },
     {
+        "IATA": "IATA",
+        "ICAO": "ICAO",
+        "name": "Airline",
+        "callsign": "Call sign",
+        "area": "Country"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TEZ",
+        "name": "TezJet Airlines",
+        "area": "Kyrgyzstan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TXZ",
+        "name": "Thai Express Air",
+        "callsign": "EXPRESS AIR",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "WE",
+        "ICAO": "THD",
+        "name": "Thai Smile Airways",
+        "callsign": "THAI SMILE",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "VZ",
+        "ICAO": "TVJ",
+        "name": "Thai Vietjet Air",
+        "callsign": "THAIVIET JET",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TQE",
+        "name": "Taxair Mexiqienses",
+        "callsign": "TAXAIR",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "XJ",
+        "ICAO": "TAX",
+        "name": "Thai AirAsia X",
+        "callsign": "EXPRESS WING",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "SL",
+        "ICAO": "TLM",
+        "name": "Thai Lion Mentari",
+        "callsign": "MENTARI",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCB",
+        "name": "Transporte Aereo De Colombia",
+        "callsign": "AERO COLOMBIA",
+        "area": "Colombia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TDA",
+        "name": "Trend Aviation",
+        "callsign": "TREND AIR",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "THS",
+        "name": "Turkish Aerospace Industries",
+        "callsign": "TUSAS",
+        "area": "Turkey"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMD",
+        "name": "Transmandu",
+        "callsign": "TRANSMANDU",
+        "area": "Venezuela"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRK",
+        "name": "Turkish Airlines  General Aviation",
+        "callsign": "TURKISH REPUBLIC",
+        "area": "Turkey"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TKJ",
+        "name": "Tarkim Aviation",
+        "callsign": "TARKIM AVIATION",
+        "area": "Turkey"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCG",
+        "name": "Transafricaine Air Cargo",
+        "callsign": "AFRICARGO",
+        "area": "Burkina Faso"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMC",
+        "name": "Travel Management Company",
+        "callsign": "TRAIL BLAZER",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "SWD",
+        "name": "Trifly",
+        "callsign": "SAWBLADE",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "SWL",
+        "name": "Trans Jet Airways",
+        "callsign": "TRANSJET",
+        "area": "Sweden"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TAC",
+        "name": "Turbot Air Cargo",
+        "callsign": "TURBOT",
+        "area": "Senegal"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TAD",
+        "name": "Transporte Aéreo Dominicano",
+        "callsign": "TRANS DOMINICAN",
+        "area": "Dominican Republic"
+    },
+    {
+        "IATA": "EQ",
+        "ICAO": "TAE",
+        "name": "TAME",
+        "callsign": "TAME",
+        "area": "Ecuador"
+    },
+    {
+        "IATA": "",
+        "ICAO": "BAP",
+        "name": "Trans International Express Aviation",
+        "callsign": "BIG APPLE",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TAG",
+        "name": "TAG Aviation USA",
+        "callsign": "TAG U-S",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TAL",
+        "name": "Talair",
+        "callsign": "TALAIR",
+        "area": "Papua New Guinea"
+    },
+    {
+        "IATA": "JJ",
+        "ICAO": "TAM",
+        "name": "LATAM Brasil",
+        "callsign": "TAM",
+        "area": "Brazil"
+    },
+    {
+        "IATA": "",
+        "ICAO": "AUC",
+        "name": "Transaustralian Air Express",
+        "callsign": "AUSCARGO",
+        "area": "Australia"
+    },
+    {
+        "IATA": "TP",
+        "ICAO": "TAP",
+        "name": "TAP Portugal",
+        "callsign": "AIR PORTUGAL",
+        "area": "Portugal"
+    },
+    {
+        "IATA": "TU",
+        "ICAO": "TAR",
+        "name": "Tunisair",
+        "callsign": "TUNAIR",
+        "area": "Tunisia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TAU",
+        "name": "Transportes Aéreos Tauro",
+        "callsign": "TRANSTAURO",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TAX",
+        "name": "Travel Air",
+        "callsign": "TRAVELAIR",
+        "area": "United States"
+    },
+    {
+        "IATA": "3V",
+        "ICAO": "TAY",
+        "name": "TNT Airways",
+        "callsign": "QUALITY",
+        "area": "Belgium"
+    },
+    {
+        "IATA": "TR",
+        "ICAO": "TBA",
+        "name": "Transbrasil",
+        "callsign": "TRANSBRASIL",
+        "area": "Brazil"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TBC",
+        "name": "Turbine Air Cargo UK",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TBD",
+        "name": "Thunderbird Tours",
+        "callsign": "ORCA",
+        "area": "Canada"
+    },
+    {
+        "IATA": "M7",
+        "ICAO": "TBG",
+        "name": "Tropical Airways",
+        "area": "Haiti"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TBH",
+        "name": "Trinity Air Bahamas",
+        "area": "Bahamas"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TBI",
+        "name": "TAB Express International",
+        "callsign": "TAB INTERNATIONAL",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TBM",
+        "name": "Taban Air Lines",
+        "callsign": "TABAN AIR",
+        "area": "Iran"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TBN",
+        "name": "Teebah Airlines",
+        "callsign": "TEEBAH",
+        "area": "Sierra Leone"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TBR",
+        "name": "Tubelair",
+        "callsign": "TUBELAIR",
+        "area": "Tunisia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TBX",
+        "name": "Tobago Express",
+        "callsign": "TABEX",
+        "area": "Trinidad and Tobago"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCA",
+        "name": "Tropican Air Services",
+        "callsign": "TROPICANA",
+        "area": "Egypt"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCB",
+        "name": "Transporte del Caribe",
+        "callsign": "TRANSCARIBE",
+        "area": "Colombia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCC",
+        "name": "Trans Continental Airlines",
+        "callsign": "TRANSCAL",
+        "area": "Sudan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCD",
+        "name": "Tchad Airlines",
+        "callsign": "TCHADLINES",
+        "area": "Chad"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCE",
+        "name": "Trans-Colorado Airlines",
+        "callsign": "TRANS-COLORADO",
+        "area": "United States"
+    },
+    {
+        "IATA": "T2",
+        "ICAO": "TCG",
+        "name": "Thai Air Cargo",
+        "callsign": "THAI CARGO",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCH",
+        "name": "Transcontinental Air",
+        "callsign": "TRANS GULF",
+        "area": "Bahrain"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCM",
+        "name": "Teledyne Continental Motors",
+        "callsign": "TELEDYNE",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCN",
+        "name": "Trans Continental Airlines",
+        "callsign": "TRANSCON",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCP",
+        "name": "Transcorp Airways",
+        "callsign": "TRANSCORP",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCT",
+        "name": "Transcontinental Sur",
+        "callsign": "TRANS-CONT",
+        "area": "Uruguay"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCU",
+        "name": "Transglobal Airways Corporation",
+        "callsign": "TRANSGLOBAL",
+        "area": "Philippines"
+    },
+    {
+        "IATA": "HQ",
+        "ICAO": "TCW",
+        "name": "Thomas Cook Airlines",
+        "callsign": "THOMAS COOK",
+        "area": "Belgium"
+    },
+    {
+        "IATA": "MT",
+        "ICAO": "TCX",
+        "name": "Thomas Cook Airlines",
+        "callsign": "THOMAS COOK",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TCY",
+        "name": "Twin Cities Air Service",
+        "callsign": "TWIN CITY",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TDC",
+        "name": "Tadair",
+        "callsign": "TADAIR",
+        "area": "Spain"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TDE",
+        "name": "Tellavia / Flight One",
+        "callsign": "TELLURIDE",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TDI",
+        "name": "Transportes Aéreos de Ixtlán",
+        "callsign": "TRANSIXTLAN",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "TQ",
+        "ICAO": "TDM",
+        "name": "Tandem Aero",
+        "callsign": "TANDEM",
+        "area": "Moldova"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TDO",
+        "name": "TRADO",
+        "callsign": "TRADO",
+        "area": "Dominican Republic"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TDR",
+        "name": "Trade Air",
+        "callsign": "TRADEAIR",
+        "area": "Croatia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TDV",
+        "name": "Taxi Aero Nacional Del Evora",
+        "callsign": "TAXI EVORA",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TDX",
+        "name": "Tradewinds Airlines",
+        "callsign": "TRADEWINDS EXPRESS",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TEB",
+        "name": "Tenir Airlines",
+        "callsign": "TENIR AIR",
+        "area": "Kyrgyzstan"
+    },
+    {
+        "IATA": "L9",
+        "ICAO": "TLW",
+        "name": "Teamline Air",
+        "callsign": "Teamline",
+        "area": "Austria"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TEF",
+        "name": "Tecnicas Fotograficas",
+        "callsign": "TECFOTO",
+        "area": "Spain"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TEH",
+        "name": "Tempelhof Airways",
+        "callsign": "TEMPELHOF",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TEL",
+        "name": "Telford Aviation",
+        "callsign": "TELFORD",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TEM",
+        "name": "Tech-Mont Helicopter Company",
+        "callsign": "TECHMONT",
+        "area": "Slovakia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TEN",
+        "name": "Tennessee Airways",
+        "callsign": "TENNESSEE",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TER",
+        "name": "Territorial Airlines",
+        "callsign": "TERRI-AIRE",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TES",
+        "name": "Taespejo Portugal LDA",
+        "callsign": "Tesaban",
+        "area": "Portugal"
+    },
+    {
+        "IATA": "UE",
+        "ICAO": "TEP",
+        "name": "Transeuropean Airlines",
+        "callsign": "TRANSEURLINE",
+        "area": "Russia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TET",
+        "name": "Tepavia-Trans Airlines",
+        "callsign": "TEPAVIA",
+        "area": "Moldova"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TFA",
+        "name": "Trans-Florida Airlines",
+        "callsign": "TRANS FLORIDA",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TFB",
+        "name": "Tair Airways",
+        "callsign": "ROYAL TEE-AIR",
+        "area": "Philippines"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TFF",
+        "name": "Talon Air",
+        "callsign": "TALON FLIGHT",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "AIM",
+        "name": "Trabajos Aéreos Murcianos",
+        "callsign": "PIJO",
+        "area": "Spain"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TFH",
+        "name": "Thai Flying Helicopter Service",
+        "callsign": "THAI HELICOPTER",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TFI",
+        "name": "Transport Facilitators",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TFK",
+        "name": "Transafrik International",
+        "area": "São Tomé and Príncipe"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TFO",
+        "name": "Transportes Aéreos del Pacífico",
+        "callsign": "TRANSPORTES PACIFICO",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TFT",
+        "name": "Thai Flying Service",
+        "callsign": "THAI FLYING",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "SRF",
+        "name": "Transportes Aéreos San Rafael",
+        "callsign": "SAN RAFEAL",
+        "area": "Chile"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TFY",
+        "name": "Tayside Aviation",
+        "callsign": "TAYSIDE",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TGC",
+        "name": "TG Aviation",
+        "callsign": "THANET",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TGE",
+        "name": "Trabajos Aéreos",
+        "callsign": "TASA",
+        "area": "Spain"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TGI",
+        "name": "Transportes Aéreos Regionales",
+        "callsign": "TRANSPORTE REGIONAL",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TGM",
+        "name": "TAG Aviation Espana",
+        "callsign": "TAG ESPANA",
+        "area": "Spain"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TGN",
+        "name": "Trigana Air Service",
+        "callsign": "TRIGANA",
+        "area": "Indonesia"
+    },
+    {
+        "IATA": "2S",
+        "ICAO": "TGR",
+        "name": "Satgur Air Transport",
+        "callsign": "SATGURAIR",
+        "area": "Liberia"
+    },
+    {
+        "IATA": "ZT",
+        "ICAO": "AWC",
+        "name": "Titan Airways",
+        "callsign": "ZAP",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TGO",
+        "name": "Transport Canada",
+        "callsign": "TRANSPORT",
+        "area": "Canada"
+    },
+    {
+        "IATA": "TR",
+        "ICAO": "TGW",
+        "name": "Tigerair Singapore",
+        "callsign": "GO CAT",
+        "area": "Singapore"
+    },
+    {
+        "IATA": "TT",
+        "ICAO": "TGG",
+        "name": "Tigerair Australia",
+        "callsign": "TIGGOZ",
+        "area": "Australia"
+    },
+    {
+        "IATA": "IT",
+        "ICAO": "TTW",
+        "name": "Tigerair Taiwan",
+        "callsign": "SMART CAT",
+        "area": "Taiwan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "MDL",
+        "name": "Tigerair Mandala",
+        "callsign": "MANDALA",
+        "area": "Indonesia"
+    },
+    {
+        "IATA": "DG",
+        "ICAO": "SRQ",
+        "name": "Cebgo",
+        "callsign": "BLUE JAY",
+        "area": "Philippines"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TGX",
+        "name": "Transair Gabon",
+        "callsign": "TRANSGABON",
+        "area": "Gabon"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TGY",
+        "name": "Trans Guyana Airways",
+        "callsign": "TRANS GUYANA",
+        "area": "Guyana"
+    },
+    {
+        "IATA": "TG",
+        "ICAO": "THA",
+        "name": "Thai Airways International",
+        "callsign": "THAI",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "THC",
+        "name": "Tar Heel Aviation",
+        "callsign": "TARHEEL",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "THE",
+        "name": "Toumai Air Tchad",
+        "callsign": "TOUMAI AIR",
+        "area": "Chad"
+    },
+    {
+        "IATA": "",
+        "ICAO": "THF",
+        "name": "Touraine Helicoptere",
+        "callsign": "TOURAINE HELICO",
+        "area": "France"
+    },
+    {
+        "IATA": "",
+        "ICAO": "THG",
+        "name": "Thai Global Airline",
+        "callsign": "THAI GLOBAL",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "THJ",
+        "name": "Thai Jet Intergroup",
+        "callsign": "THAI JET",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "THK",
+        "name": "Turk Hava Kurumu Hava Taksi Isletmesi",
+        "callsign": "HUR KUS",
+        "area": "Turkey"
+    },
+    {
+        "IATA": "FD",
+        "ICAO": "AIQ",
+        "name": "Thai AirAsia",
+        "callsign": "THAI ASIA",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "THO",
+        "name": "TACA De Honduras",
+        "callsign": "LEMPIRA",
+        "area": "Honduras"
+    },
+    {
+        "IATA": "",
+        "ICAO": "THR",
+        "name": "Tehran Airline",
+        "callsign": "TEHRAN AIR",
+        "area": "Iran"
+    },
+    {
+        "IATA": "",
+        "ICAO": "THU",
+        "name": "Thunder Airlines",
+        "callsign": "AIR THUNDER",
+        "area": "Canada"
+    },
+    {
+        "IATA": "TK",
+        "ICAO": "THY",
+        "name": "Turkish Airlines",
+        "callsign": "TURKISH",
+        "area": "Turkey"
+    },
+    {
+        "IATA": "",
+        "ICAO": "THZ",
+        "name": "Trans Helicoptere Service",
+        "callsign": "LYON HELIJET",
+        "area": "France"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TIA",
+        "name": "Trans International Airlines",
+        "callsign": "TRANS INTERNATIONAL",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TIC",
+        "name": "Travel International Air Charters",
+        "callsign": "TRAVEL INTERNATIONAL",
+        "area": "Zambia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TIE",
+        "name": "Time Air",
+        "callsign": "TIME AIR",
+        "area": "Czech Republic"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TIK",
+        "name": "Tic Air",
+        "callsign": "TICAIR",
+        "area": "Australia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TIM",
+        "name": "TEAM Linhas Aéreas",
+        "callsign": "TEAM BRASIL",
+        "area": "Brazil"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TIN",
+        "name": "Taino Tours",
+        "callsign": "TAINO",
+        "area": "Dominican Republic"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TIS",
+        "name": "Tesis",
+        "callsign": "TESIS",
+        "area": "Russia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TIW",
+        "name": "Transcarga Intl Airways",
+        "callsign": "TIACA",
+        "area": "Venezuela"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TJK",
+        "name": "Tajikair",
+        "callsign": "TAJIKAIR",
+        "area": "Tajikistan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TJN",
+        "name": "Tien-Shan",
+        "callsign": "NERON",
+        "area": "Kazakhstan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TJS",
+        "name": "Tyrolean Jet Services",
+        "callsign": "TYROLJET",
+        "area": "Austria"
+    },
+    {
+        "IATA": "T7",
+        "ICAO": "TJT",
+        "name": "Twin Jet",
+        "callsign": "TWINJET",
+        "area": "France"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TKC",
+        "name": "Tikal Jets Airlines",
+        "callsign": "TIKAL",
+        "area": "Guatemala"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TKE",
+        "name": "Take Air Line",
+        "callsign": "ISLAND BIRD",
+        "area": "France"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TKX",
+        "name": "Tropical International Airways",
+        "callsign": "TROPEXPRESS",
+        "area": "Saint Kitts and Nevis"
+    },
+    {
+        "IATA": "9I",
+        "ICAO": "LLR",
+        "name": "Thai Sky Airlines",
+        "callsign": "THAI SKY AIR",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TLA",
+        "name": "Translift Airways",
+        "callsign": "TRANSLIFT",
+        "area": "Ireland"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TLF",
+        "name": "Transport Africa",
+        "callsign": "TRANS-LEONE",
+        "area": "Sierra Leone"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TLL",
+        "name": "Trans Atlantic Airlines",
+        "callsign": "ATLANTIC LEONE",
+        "area": "Sierra Leone"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TLO",
+        "name": "Eagle Canyon Airlines",
+        "callsign": "TALON AIR",
+        "area": "United States"
+    },
+    {
+        "IATA": "TD",
+        "ICAO": "TLP",
+        "name": "Tulip Air",
+        "callsign": "TULIPAIR",
+        "area": "Netherlands"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TAJ",
+        "name": "Tunisavia",
+        "callsign": "TUNISAVIA",
+        "area": "Tunisia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TLS",
+        "name": "TLC Air",
+        "callsign": "TEALSY",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TLT",
+        "name": "Turtle Airways",
+        "callsign": "TURTLE",
+        "area": "Fiji"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TLV",
+        "name": "Travelair",
+        "callsign": "PAJAROS",
+        "area": "Uruguay"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TLX",
+        "name": "Telesis Transair",
+        "callsign": "TELESIS",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TLY",
+        "name": "Top Fly",
+        "callsign": "TOPFLY",
+        "area": "Spain"
+    },
+    {
+        "IATA": "TL",
+        "ICAO": "TMA",
+        "name": "Trans Mediterranean Airlines",
+        "callsign": "TANGO LIMA",
+        "area": "Lebanon"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMD",
+        "name": "Transmed Airlines",
+        "area": "Egypt"
+    },
+    {
+        "IATA": "GY",
+        "ICAO": "TMG",
+        "name": "Tri-MG Intra Asia Airlines",
+        "callsign": "TRILINES",
+        "area": "Indonesia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMH",
+        "name": "Taxis Turisticos Marakame",
+        "callsign": "TAXIMARAKAME",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMI",
+        "name": "Tamir Airways",
+        "callsign": "TAMIRWAYS",
+        "area": "Israel"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMK",
+        "name": "Tomahawk Airways",
+        "callsign": "TOMAHAWK",
+        "area": "United States"
+    },
+    {
+        "IATA": "OF",
+        "ICAO": "TML",
+        "name": "Transports et Travaux Aériens de Madagascar",
+        "callsign": "TAM AIRLINE",
+        "area": "Madagascar"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMM",
+        "name": "TMC Airlines",
+        "callsign": "WILLOW RUN",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMQ",
+        "name": "TRAM",
+        "callsign": "TRAM AIR",
+        "area": "Mauritania"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMR",
+        "name": "Timberline Air",
+        "callsign": "TIMBER",
+        "area": "Canada"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMS",
+        "name": "Temsco Helicopters",
+        "callsign": "TEMSCO",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMT",
+        "name": "Trans Midwest Airlines",
+        "callsign": "TRANS MIDWEST",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMX",
+        "name": "Tramon Air",
+        "callsign": "TRAMON",
+        "area": "South Africa"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMY",
+        "name": "Transportes Aéreos del Mundo Maya",
+        "callsign": "MUNDO MAYA",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TMZ",
+        "name": "Transporte Amazonair",
+        "callsign": "TRANS AMAZON",
+        "area": "Venezuela"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TNB",
+        "name": "Trans Air-Benin",
+        "callsign": "TRANS-BENIN",
+        "area": "Benin"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TNE",
+        "name": "Taxis Aéreos del Noroeste",
+        "callsign": "TAXINOROESTE",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TNF",
+        "name": "Transafricaine",
+        "callsign": "TRANSFAS",
+        "area": "Burkina Faso"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TNG",
+        "name": "Tennessee Air National Guard 164th Airlift Group",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TNI",
+        "name": "Transair International Linhas Aéreas",
+        "callsign": "TRANSINTER",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TNL",
+        "name": "Tengeriyn Ulaach Shine",
+        "callsign": "SKY HORSE",
+        "area": "Mongolia"
+    },
+    {
+        "IATA": "3P",
+        "ICAO": "TNM",
+        "name": "Tiara Air",
+        "callsign": "TIARA",
+        "area": "Aruba"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TNP",
+        "name": "Transped Aviation",
+        "callsign": "TRANSPED",
+        "area": "Austria"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TNR",
+        "name": "Tanana Air Services",
+        "callsign": "TAN AIR",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TNT",
+        "name": "Trans North Turbo Air",
+        "callsign": "TRANS NORTH",
+        "area": "Canada"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TNV",
+        "name": "Transnorthern",
+        "callsign": "TRANSNORTHERN",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TNW",
+        "name": "Trans Nation Airways",
+        "callsign": "TRANS-NATION",
+        "area": "Ethiopia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TNX",
+        "name": "Trener Ltd",
+        "callsign": "TRAINER",
+        "area": "Hungary"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TNY",
+        "name": "Twin Town Leasing Company",
+        "callsign": "TWINCAL",
+        "area": "United States"
+    },
+    {
+        "IATA": "7T",
+        "ICAO": "TOB",
+        "name": "Tobruk Air",
+        "callsign": "TOBRUK AIR",
+        "area": "Libya"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TOJ",
+        "name": "TOJ Airlines",
+        "callsign": "TOJ AIRLINE",
+        "area": "Tajikistan"
+    },
+    {
+        "IATA": "TI",
+        "ICAO": "TOL",
+        "name": "Tol-Air Services",
+        "callsign": "TOL AIR",
+        "area": "United States"
+    },
+    {
+        "IATA": "BY",
+        "ICAO": "TOM",
+        "name": "Thomson Airways",
+        "callsign": "TUI AIR",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TOP",
+        "name": "Top Air",
+        "callsign": "AIR TOP",
+        "area": "Indonesia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TOR",
+        "name": "Toronto Airways",
+        "callsign": "TORONTAIR",
+        "area": "Canada"
+    },
+    {
+        "IATA": "PM",
+        "ICAO": "TOS",
+        "name": "Tropic Air",
+        "callsign": "TROPISER",
+        "area": "Belize"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TOT",
+        "name": "Totavia",
+        "area": "Canada"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TOW",
+        "name": "Tower Air",
+        "callsign": "TEE AIR",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TOY",
+        "name": "Toyota Canada",
+        "callsign": "TOYOTA",
+        "area": "Canada"
+    },
+    {
+        "IATA": "QT",
+        "ICAO": "TPA",
+        "name": "TAMPA",
+        "callsign": "TAMPA",
+        "area": "Colombia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPD",
+        "name": "Top Speed",
+        "callsign": "TOP SPEED",
+        "area": "Austria"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPF",
+        "name": "Taxis Aéreos del Pacífico",
+        "callsign": "TAXIPACIFICO",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPG",
+        "name": "Transportes Aéreos Pegaso",
+        "callsign": "TRANSPEGASO",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPL",
+        "name": "TAR Interpilot",
+        "callsign": "INTERPILOT",
+        "area": "Mauritania"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPM",
+        "name": "Transpaís Aéreo",
+        "callsign": "TRANSPAIS",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPN",
+        "name": "Transportación Aérea del Norte",
+        "callsign": "AEREA DELNORTE",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPP",
+        "name": "Transpac Express",
+        "callsign": "TRANS EXPRESS",
+        "area": "Australia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPR",
+        "name": "Taxis Aéreos De Parral",
+        "callsign": "TAXIS PARRAL",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPS",
+        "name": "TAPSA Transportes Aéreos Petroleros",
+        "callsign": "TAPSA",
+        "area": "Argentina"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPT",
+        "name": "Transportes Aéreo del Sureste",
+        "callsign": "TASSA",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPU",
+        "name": "Trans American Airlines (Trans Am)",
+        "callsign": "TRANS PERU",
+        "area": "Peru"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPV",
+        "name": "Thai Pacific Airlines Business",
+        "callsign": "THAI PACIFIC",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPX",
+        "name": "Transportes Aéreos De Xalapa",
+        "callsign": "TRANSXALAPA",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPY",
+        "name": "Trans-Provincial Airlines",
+        "callsign": "TRANS PROVINCIAL",
+        "area": "Canada"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TPZ",
+        "name": "Transportes La Paz",
+        "callsign": "TRANSPAZ",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "K3",
+        "ICAO": "TQN",
+        "name": "Taquan Air Services",
+        "callsign": "TAQUAN",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TQR",
+        "name": "Transportación Aérea De Querétaro",
+        "callsign": "TRANSQUERETARO",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "GE",
+        "ICAO": "TNA",
+        "name": "TransAsia Airways",
+        "area": "Taiwan"
+    },
+    {
+        "IATA": "TO",
+        "ICAO": "TVF",
+        "name": "Transavia France",
+        "callsign": "FRANCE SOLEIL",
+        "area": "France"
+    },
+    {
+        "IATA": "HV",
+        "ICAO": "TRA",
+        "name": "Transavia Holland",
+        "callsign": "TRANSAVIA",
+        "area": "Netherlands"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRC",
+        "name": "Trans Air Charter",
+        "callsign": "TRACKER",
+        "area": "United States"
+    },
+    {
+        "IATA": "VR",
+        "ICAO": "TCV",
+        "name": "TACV",
+        "callsign": "CABOVERDE",
+        "area": "Cape Verde"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRD",
+        "name": "Trans Island Air",
+        "callsign": "TRANS ISLAND",
+        "area": "Barbados"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRF",
+        "name": "Taxi Air Fret",
+        "callsign": "TAXI JET",
+        "area": "France"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRG",
+        "name": "TRAGSA (Medios Aéreos)",
+        "area": "Spain"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRJ",
+        "name": "Trans Euro Air",
+        "callsign": "HIGH TIDE",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRM",
+        "name": "Transport Aerien de Mauritanie",
+        "callsign": "SOTRANS",
+        "area": "Mauritania"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRO",
+        "name": "Tropic Airlines-Air Molokai",
+        "callsign": "MOLOKAI",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRQ",
+        "name": "Turdus Airways",
+        "callsign": "HUNTER",
+        "area": "Netherlands"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRR",
+        "name": "Tramson Limited",
+        "callsign": "TRAMSON",
+        "area": "Sudan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRT",
+        "name": "Trans Arabian Air Transport",
+        "callsign": "TRANS ARABIAN",
+        "area": "Sudan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRU",
+        "name": "Triangle Airline (Uganda)",
+        "callsign": "TRI AIR",
+        "area": "Uganda"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRW",
+        "name": "Transwestern Airlines of Utah",
+        "callsign": "TRANS-WEST",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TRY",
+        "name": "Tristar Airlines",
+        "callsign": "TRISTAR AIR",
+        "area": "United States"
+    },
+    {
+        "IATA": "T9",
+        "ICAO": "TRZ",
+        "name": "TransMeridian Airlines",
+        "callsign": "TRANS-MERIDIAN",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSA",
+        "name": "Transair France",
+        "callsign": "AIRTRAF",
+        "area": "France"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSD",
+        "name": "TAF-Linhas Aéreas",
+        "callsign": "TAFI",
+        "area": "Brazil"
+    },
+    {
+        "IATA": "TH",
+        "ICAO": "TSE",
+        "name": "Transmile Air Services",
+        "callsign": "TRANSMILE",
+        "area": "Malaysia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSG",
+        "name": "Trans-Air-Congo",
+        "callsign": "TRANS-CONGO",
+        "area": "Republic of the Congo"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSI",
+        "name": "Transport'air",
+        "callsign": "TRANSPORTAIR",
+        "area": "France"
+    },
+    {
+        "IATA": "S5",
+        "ICAO": "TSJ",
+        "name": "Trast Aero",
+        "callsign": "TRAST AERO",
+        "area": "Kyrgyzstan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSK",
+        "name": "Trast Aero",
+        "callsign": "TOMSK-AVIA",
+        "area": "Kyrgyzstan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSL",
+        "name": "Thai Aviation Services",
+        "callsign": "THAI AVIATION",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "SBT",
+        "name": "Taftan Airlines",
+        "callsign": "TAFTAN",
+        "area": "Iran"
+    },
+    {
+        "IATA": "9T",
+        "ICAO": "ABS",
+        "name": "Transwest Air",
+        "callsign": "ATHABASKA",
+        "area": "Canada"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSM",
+        "name": "Trans Sayegh Airport Services",
+        "area": "Lebanon"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSN",
+        "name": "Trans-Air Services",
+        "callsign": "AIR TRANS",
+        "area": "Nigeria"
+    },
+    {
+        "IATA": "UN",
+        "ICAO": "TSO",
+        "name": "Transaero Airlines",
+        "callsign": "TRANSOVIET",
+        "area": "Russia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSP",
+        "name": "Transportes Aéreos Inter",
+        "callsign": "TRANSPO-INTER",
+        "area": "Guatemala"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSR",
+        "name": "TJS San Marino S.r.L.",
+        "callsign": "SAN MARINO",
+        "area": "San Marino"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSS",
+        "name": "Tri-State Aero",
+        "callsign": "TRI-STATE",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TST",
+        "name": "TRAST",
+        "callsign": "TRAST",
+        "area": "Kazakhstan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSV",
+        "name": "Tropair Airservices",
+        "callsign": "TROPIC",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSW",
+        "name": "Transwings",
+        "callsign": "SWISSTRANS",
+        "area": "Switzerland"
+    },
+    {
+        "IATA": "T9",
+        "ICAO": "TSX",
+        "name": "Thai Star Airlines",
+        "callsign": "THAI STAR",
+        "area": "Thailand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TSY",
+        "name": "Tristar Air",
+        "callsign": "TRIPLE STAR",
+        "area": "Egypt"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TTA",
+        "name": "TTA - Sociedade de Transporte e Trabalho Aéreo",
+        "callsign": "KANIMANBO",
+        "area": "Mozambique"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TTC",
+        "name": "Transteco",
+        "callsign": "TRANSTECO",
+        "area": "Angola"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TTH",
+        "name": "Tarhan Tower Airlines",
+        "area": "Turkey"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TTL",
+        "name": "Total Linhas Aéreas",
+        "callsign": "TOTAL",
+        "area": "Brazil"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TTP",
+        "name": "Triple O Aviation",
+        "callsign": "MIGHTY WING",
+        "area": "Nigeria"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TTR",
+        "name": "Transportaciones Y Servicios Aéreos",
+        "callsign": "TRANSPORTACIONES",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TTS",
+        "name": "Transporte Aéreo Técnico Ejecutivo",
+        "callsign": "TECNICO",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "T5",
+        "ICAO": "TUA",
+        "name": "Turkmenhovayollary",
+        "callsign": "TURKMENISTAN",
+        "area": "Turkmenistan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TUC",
+        "name": "Turismo Aéreo de Chile",
+        "callsign": "TURICHILE",
+        "area": "Chile"
+    },
+    {
+        "IATA": "UG",
+        "ICAO": "TUI",
+        "name": "Tuninter",
+        "area": "Tunisia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TUL",
+        "name": "Tulpar Air",
+        "callsign": "URSAL",
+        "area": "Russia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TUM",
+        "name": "Tyumenspecavia",
+        "callsign": "TUMTEL",
+        "area": "Russia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TUO",
+        "name": "Taxi Aéreo Turístico",
+        "callsign": "TURISTICO",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TUX",
+        "name": "Tulpar Air Service",
+        "callsign": "TULPA",
+        "area": "Kazakhstan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TUZ",
+        "name": "Tuna Aero",
+        "callsign": "TUNA",
+        "area": "Sweden"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TVA",
+        "name": "Trans America Airlines",
+        "callsign": "TRANS-AMERICA",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TVH",
+        "name": "Trabajos Aéreos Vascongados",
+        "callsign": "TRAVASA",
+        "area": "Spain"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TVI",
+        "name": "Tiramavia",
+        "callsign": "TIRAMAVIA",
+        "area": "Moldova"
+    },
+    {
+        "IATA": "7O[49]",
+        "ICAO": "TVL",
+        "name": "Travel Service",
+        "callsign": "TRAVEL SERVICE",
+        "area": "Hungary"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TVO",
+        "name": "Transavio",
+        "callsign": "TRANS-BALLERIO",
+        "area": "Italy"
+    },
+    {
+        "IATA": "T6",
+        "ICAO": "TVR",
+        "name": "Tavrey Airlines",
+        "callsign": "TAVREY",
+        "area": "Ukraine"
+    },
+    {
+        "IATA": "TW",
+        "ICAO": "TWB",
+        "name": "T'way Air",
+        "callsign": "TWAYAIR",
+        "area": "Republic of Korea"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TWE",
+        "name": "Transwede Airways",
+        "callsign": "TRANSWEDE",
+        "area": "Sweden"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TWJ",
+        "name": "Twinjet Aircraft Sales",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TWL",
+        "name": "Tradewinds Aviation",
+        "callsign": "TRADEWINDS CANADA",
+        "area": "Canada"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TWM",
+        "name": "Transairways",
+        "area": "Mozambique"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TWO",
+        "name": "Twente Airlines",
+        "callsign": "COLIBRI",
+        "area": "Netherlands"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TWW",
+        "name": "Trans Air Welwitchia",
+        "callsign": "WELWITCHIA",
+        "area": "Angola"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TXA",
+        "name": "Texair Charter",
+        "callsign": "OKAY AIR",
+        "area": "United States"
+    },
+    {
+        "IATA": "AL",
+        "ICAO": "TXC",
+        "name": "TransAVIAexport Airlines",
+        "callsign": "TRANSEXPORT",
+        "area": "Belarus"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TXE",
+        "name": "Transilvania Express",
+        "callsign": "TRANSAIR EXPRESS",
+        "area": "Romania"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TXL",
+        "name": "Taxi Aéreo Cozatl",
+        "callsign": "TAXI COZATL",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TXM",
+        "name": "Taxi Aéreo de México",
+        "callsign": "TAXIMEX",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TXN",
+        "name": "Texas National Airlines",
+        "callsign": "TEXAS NATIONAL",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TXO",
+        "name": "Taxis Aéreos de Sinaloa",
+        "callsign": "TAXIS SINALOA",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TXR",
+        "name": "Taxirey",
+        "callsign": "TAXIREY",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TXS",
+        "name": "Texas Airlines",
+        "callsign": "TEXAIR",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TXT",
+        "name": "Texas Air Charters",
+        "callsign": "TEXAS CHARTER",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TXZ",
+        "name": "Tex Star Air Freight",
+        "callsign": "TEX STAR",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TYF",
+        "name": "Tayflite",
+        "callsign": "TAYFLITE",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TYG",
+        "name": "Trygg-Flyg",
+        "callsign": "TRYGG",
+        "area": "Sweden"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TYJ",
+        "name": "TJS Malta Ltd.",
+        "callsign": "TYROLMALTA",
+        "area": "Malta"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TYW",
+        "name": "Tyrol Air Ambulance",
+        "callsign": "TYROL AMBULANCE",
+        "area": "Austria"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TZE",
+        "name": "Transporte Aéreo Ernesto Saenz",
+        "callsign": "TRANSPORTE SAENZ",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TZK",
+        "name": "Tajikistan International Airlines",
+        "callsign": "TAJIKSTAN",
+        "area": "Tajikistan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "BLI",
+        "name": "Thyssen Krupp AG",
+        "callsign": "BLUELINE",
+        "area": "Germany"
+    },
+    {
+        "IATA": "6B",
+        "ICAO": "BLX",
+        "name": "TUIfly Nordic",
+        "callsign": "BLUESCAN",
+        "area": "Sweden"
+    },
+    {
+        "IATA": "",
+        "ICAO": "BOL",
+        "name": "Transportes Aéreos Bolivianos",
+        "callsign": "BOL",
+        "area": "Bolivia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "BOX",
+        "name": "Tiphook PLC",
+        "callsign": "BOX",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "CHE",
+        "name": "Top Flight Air Service",
+        "callsign": "CHECK AIR",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "CLR",
+        "name": "Trans America",
+        "callsign": "CLINTON AIRWAYS",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "CLU",
+        "name": "Triple Alpha",
+        "callsign": "CAROLUS",
+        "area": "Germany"
+    },
+    {
+        "IATA": "",
+        "ICAO": "CTP",
+        "name": "Tashkent Aircraft Production Corporation",
+        "callsign": "CORTAS",
+        "area": "Uzbekistan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "CWT",
+        "name": "Texas Airways",
+        "callsign": "TEXAS AIRWAYS",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "DCL",
+        "name": "Transportes Aéreos Don Carlos",
+        "callsign": "DON CARLOS",
+        "area": "Chile"
+    },
+    {
+        "IATA": "",
+        "ICAO": "DOT",
+        "name": "Telnic Limited",
+        "callsign": "DOT TEL",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "DRC",
+        "name": "Triton Airlines",
+        "callsign": "TRITON AIR",
+        "area": "Canada"
+    },
+    {
+        "IATA": "DT",
+        "ICAO": "DTA",
+        "name": "TAAG Angola Airlines",
+        "callsign": "DTA",
+        "area": "Angola"
+    },
+    {
+        "IATA": "SF",
+        "ICAO": "DTH",
+        "name": "Tassili Airlines",
+        "callsign": "TASSILI AIR",
+        "area": "Algeria"
+    },
+    {
+        "IATA": "",
+        "ICAO": "EAR",
+        "name": "Transporte Ejecutivo Aéreo",
+        "callsign": "EJECUTIVO-AEREO",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "ELV",
+        "name": "Transportes Aéreos Nacionales De Selva Tans",
+        "callsign": "AEREOS SELVA",
+        "area": "Peru"
+    },
+    {
+        "IATA": "",
+        "ICAO": "FBO",
+        "name": "TAG Farnborough Airport",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "FNV",
+        "name": "Transaviaservice",
+        "callsign": "TRANSAVIASERVICE",
+        "area": "Georgia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "FPG",
+        "name": "TAG Aviation",
+        "callsign": "TAG AVIATION",
+        "area": "Switzerland"
+    },
+    {
+        "IATA": "",
+        "ICAO": "GFN",
+        "name": "The 955 Preservation Group",
+        "callsign": "GRIFFON",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "GJB",
+        "name": "Trans-Air-Link",
+        "callsign": "SKY TRUCK",
+        "area": "United States"
+    },
+    {
+        "IATA": "TJ",
+        "ICAO": "GPD",
+        "name": "Tradewind Aviation",
+        "callsign": "GOODSPEED",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "HBA",
+        "name": "Trail Lake Flying Service",
+        "callsign": "HARBOR AIR",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "HET",
+        "name": "TAF Helicopters",
+        "callsign": "HELITAF",
+        "area": "Spain"
+    },
+    {
+        "IATA": "",
+        "ICAO": "HTO",
+        "name": "Tango Bravo",
+        "callsign": "HELI TANGO",
+        "area": "France"
+    },
+    {
+        "IATA": "",
+        "ICAO": "HVK",
+        "name": "Turkish Air Force",
+        "callsign": "TURKISH AIRFORCE",
+        "area": "Turkey"
+    },
+    {
+        "IATA": "",
+        "ICAO": "IHS",
+        "name": "Thryluthjonustan",
+        "area": "Iceland"
+    },
+    {
+        "IATA": "",
+        "ICAO": "TBA",
+        "name": "Tibet Airlines",
+        "callsign": "TIBET",
+        "area": "China"
+    },
+    {
+        "IATA": "",
+        "ICAO": "IRF",
+        "name": "TA-Air Airline",
+        "callsign": "TA-AIR",
+        "area": "Iran"
+    },
+    {
+        "IATA": "",
+        "ICAO": "IRR",
+        "name": "Tara Air Line",
+        "callsign": "TARAIR",
+        "area": "Iran"
+    },
+    {
+        "IATA": "",
+        "ICAO": "JCH",
+        "name": "Trading Air Cargo",
+        "callsign": "TRADING CARGO",
+        "area": "Mauritania"
+    },
+    {
+        "IATA": "",
+        "ICAO": "KCA",
+        "name": "Trans-Kiev",
+        "callsign": "TRANS-KIEV",
+        "area": "Ukraine"
+    },
+    {
+        "IATA": "",
+        "ICAO": "JEL",
+        "name": "Tal Air Charters",
+        "callsign": "JETEL",
+        "area": "Canada"
+    },
+    {
+        "IATA": "",
+        "ICAO": "KRA",
+        "name": "Transcontinental Airlines",
+        "callsign": "REGATA",
+        "area": "Kazakhstan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "KTB",
+        "name": "Transaviabaltika",
+        "callsign": "TRANSBALTIKA",
+        "area": "Lithuania"
+    },
+    {
+        "IATA": "",
+        "ICAO": "KTS",
+        "name": "Transair-Gyraintiee",
+        "callsign": "KOTAIR",
+        "area": "Russia"
+    },
+    {
+        "IATA": "PZ",
+        "ICAO": "LAP",
+        "name": "TAM Mercosur",
+        "callsign": "PARAGUAYA",
+        "area": "Paraguay"
+    },
+    {
+        "IATA": "",
+        "ICAO": "LCC",
+        "name": "The Lancair Company",
+        "callsign": "LANCAIR",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "LEG",
+        "name": "The Army Aviation Heritage Foundation",
+        "callsign": "LEGACY",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "LKW",
+        "name": "Top Sky International",
+        "callsign": "TOPINTER",
+        "area": "Indonesia"
+    },
+    {
+        "IATA": "AX",
+        "ICAO": "LOF",
+        "name": "Trans States Airlines",
+        "callsign": "WATERSKI",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "LTA",
+        "name": "Trans Atlantis",
+        "callsign": "LANTRA",
+        "area": "Canada"
+    },
+    {
+        "IATA": "",
+        "ICAO": "MCT",
+        "name": "Transportación Aérea Del Mar De Cortés",
+        "callsign": "TRANS CORTES",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "MGM",
+        "name": "Transporte Aero MGM",
+        "callsign": "AERO EMM-GEE-EMM",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "MOH",
+        "name": "Tigerfly",
+        "callsign": "MOTH",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "",
+        "ICAO": "MPO",
+        "name": "Transportes Aéreos Amparo",
+        "callsign": "AMPARO",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "MUI",
+        "name": "Trans Air",
+        "callsign": "MAUI",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "MXQ",
+        "name": "Transportes Aéreos Mexiquenses",
+        "callsign": "MEXIQUENSES",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "1E",
+        "name": "Travelsky Technology",
+        "area": "China"
+    },
+    {
+        "IATA": "2H",
+        "name": "Thalys",
+        "area": "Belgium"
+    },
+    {
+        "IATA": "",
+        "ICAO": "NTR",
+        "name": "TNT International Aviation",
+        "callsign": "NITRO",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "1L",
+        "ICAO": "OSY",
+        "name": "Open Skies Consultative Commission",
+        "callsign": "OPEN SKIES",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "PCW",
+        "name": "Trans-Pacific Orient Airways",
+        "callsign": "PACIFIC ORIENT",
+        "area": "Philippines"
+    },
+    {
+        "IATA": "",
+        "ICAO": "PGS",
+        "name": "Tauranga Aer Club",
+        "area": "New Zealand"
+    },
+    {
+        "IATA": "",
+        "ICAO": "PSS",
+        "name": "TSSKB-Progress",
+        "callsign": "PROGRESS",
+        "area": "Russia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "RBD",
+        "name": "Trans World Express",
+        "callsign": "RED BIRD",
+        "area": "United States"
+    },
+    {
+        "IATA": "",
+        "ICAO": "REC",
+        "name": "Trans Reco",
+        "callsign": "TRANS-RECO",
+        "area": "Mauritania"
+    },
+    {
+        "IATA": "",
+        "ICAO": "RMS",
+        "name": "Tas Aviation",
+        "callsign": "TASS AIR",
+        "area": "United States"
+    },
+    {
+        "IATA": "RO",
+        "ICAO": "ROT",
+        "name": "Tarom",
+        "callsign": "TAROM",
+        "area": "Romania"
+    },
+    {
+        "IATA": "",
+        "ICAO": "ROU",
+        "name": "Transportes Aéreos I. R. Crusoe",
+        "callsign": "ROBINSON CRUSOE",
+        "area": "Chile"
+    },
+    {
+        "IATA": "",
+        "ICAO": "RRT",
+        "name": "Transportes Aéreos Sierra",
+        "callsign": "SIERRA ALTA",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "RRY",
+        "name": "Tbilisi Aviation University",
+        "callsign": "AIRFERRY",
+        "area": "Georgia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "RTM",
+        "name": "Trans Am Compania",
+        "callsign": "AERO TRANSAM",
+        "area": "Ecuador"
+    },
+    {
+        "IATA": "",
+        "ICAO": "SBJ",
+        "name": "Trans Sahara Air",
+        "callsign": "TRANS SAHARA",
+        "area": "Nigeria"
+    },
+    {
+        "IATA": "",
+        "ICAO": "SEI",
+        "name": "Transportes Aéreos Sierra Madre",
+        "callsign": "TRANSPORTE SIERRA",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "",
+        "ICAO": "SRT",
+        "name": "Trans Asian Airlines",
+        "callsign": "TRASER",
+        "area": "Kazakhstan"
+    },
+    {
+        "IATA": "3T",
+        "ICAO": "URN",
+        "name": "Turan Air",
+        "callsign": "TURAN",
+        "area": "Azerbaijan"
+    },
+    {
+        "IATA": "T4",
+        "ICAO": "TIB",
+        "name": "TRIP Linhas Aéreas",
+        "callsign": "TRIP",
+        "area": "Brazil"
+    },
+    {
+        "IATA": "",
+        "ICAO": "USB",
+        "name": "Tusheti",
+        "callsign": "TUSHETI",
+        "area": "Georgia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "UTM",
+        "name": "TAPC Aviatrans Aircompany",
+        "callsign": "AVIATAPS",
+        "area": "Uzbekistan"
+    },
+    {
+        "IATA": "",
+        "ICAO": "UTN",
+        "name": "Trans-Ulgii",
+        "callsign": "TRANS-ULGII",
+        "area": "Mongolia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "UTT",
+        "name": "Transarabian Transportation Services",
+        "callsign": "ARABIAN TRANSPORT",
+        "area": "Uganda"
+    },
+    {
+        "IATA": "",
+        "ICAO": "VEN",
+        "name": "Transaven",
+        "callsign": "TRANSAVEN AIRLINE",
+        "area": "Venezuela"
+    },
+    {
+        "IATA": "",
+        "ICAO": "VIP",
+        "name": "Tag Aviation UK",
+        "callsign": "SOVEREIGN",
+        "area": "United Kingdom"
+    },
+    {
+        "IATA": "L6",
+        "ICAO": "VNZ",
+        "name": "Tbilaviamsheni",
+        "callsign": "TBILAVIA",
+        "area": "Georgia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "VRC",
+        "name": "Taxi de Veracruz",
+        "callsign": "VERACRUZ",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "XN",
+        "ICAO": "XAR",
+        "name": "XpressAir",
+        "callsign": "XPRESS",
+        "area": "Indonesia"
+    },
+    {
+        "IATA": "",
+        "ICAO": "XNR",
+        "name": "Taxi Aero Del Norte",
+        "callsign": "TAXI NORTE",
+        "area": "Mexico"
+    },
+    {
+        "IATA": "VO",
+        "ICAO": "TYR",
+        "name": "Tyrolean Airways",
+        "callsign": "TYROLEAN",
+        "area": "Austria"
+    },
+    {
+        "IATA": "TX",
+        "ICAO": "TAN",
+        "name": "Transportes Aéreos Nacionales",
+        "area": "Honduras"
+    },
+    {
+        "IATA": "OR",
+        "ICAO": "TFL",
+        "name": "TUI Airlines Netherlands",
+        "callsign": "ORANGE",
+        "area": "Netherlands"
+    },
+    {
+        "IATA": "GS",
+        "ICAO": "GCR",
+        "name": "Tianjin Airlines",
+        "callsign": "BO HAI",
+        "area": "China"
+    },
+    {
+        "IATA": "TZ",
+        "name": "Tsaradia",
+        "area": "Madagascar"
+    },
+    {
+        "IATA": "TC",
+        "ICAO": "ATC",
+        "name": "Air Tanzania Company Limited",
+        "callsign": "TANZANIA",
+        "area": "Tanzania"
+    },
+    {
         "IATA": "",
         "ICAO": "TUM",
         "name": "UTAir",
@@ -38258,7 +40226,6 @@
         "IATA": "",
         "ICAO": "DOD",
         "name": "USAF Air Mobility Operations Control Center",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -38412,28 +40379,24 @@
         "IATA": "",
         "ICAO": "UAD",
         "name": "University Air Squadron",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
         "IATA": "",
         "ICAO": "UAJ",
         "name": "University Air Squadron",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
         "IATA": "",
         "ICAO": "UAA",
         "name": "University Air Squadron",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
         "IATA": "",
         "ICAO": "UAS",
         "name": "University Air Squadron",
-        "callsign": "",
         "area": "United Kingdom"
     },
     {
@@ -38487,7 +40450,6 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Upali Air",
         "callsign": "UPALI",
         "area": "Sri Lanka"
@@ -38790,7 +40752,6 @@
         "IATA": "",
         "ICAO": "UTU",
         "name": "Urartu-Air",
-        "callsign": "",
         "area": "Armenia"
     },
     {
@@ -38851,9 +40812,7 @@
     },
     {
         "IATA": "US",
-        "ICAO": "",
         "name": "Unavia Suisse",
-        "callsign": "",
         "area": "Switzerland"
     },
     {
@@ -38888,7 +40847,6 @@
         "IATA": "",
         "ICAO": "VAI",
         "name": "Volant Aviation International",
-        "callsign": "",
         "area": "Pakistan"
     },
     {
@@ -39112,14 +41070,11 @@
         "IATA": "",
         "ICAO": "MVY",
         "name": "VIM-Aviaservice",
-        "callsign": "",
         "area": "Russia"
     },
     {
         "IATA": "2R",
-        "ICAO": "",
         "name": "Via Rail Canada",
-        "callsign": "",
         "area": "Canada"
     },
     {
@@ -39173,9 +41128,7 @@
     },
     {
         "IATA": "VA",
-        "ICAO": "",
         "name": "Viasa",
-        "callsign": "",
         "area": "Venezuela"
     },
     {
@@ -39434,7 +41387,6 @@
         "IATA": "",
         "ICAO": "VNK",
         "name": "Vipport Joint Stock Company",
-        "callsign": "",
         "area": "Russia"
     },
     {
@@ -39679,7 +41631,6 @@
         "IATA": "",
         "ICAO": "XWS",
         "name": "WSI Corporation",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -39733,7 +41684,6 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Wayraperú",
         "callsign": "WAYRAPERÚ",
         "area": "Peru"
@@ -39791,7 +41741,6 @@
         "IATA": "WZ",
         "ICAO": "WSF",
         "name": "West African Airlines",
-        "callsign": "",
         "area": "Benin"
     },
     {
@@ -39838,9 +41787,7 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "West Coast Airlines",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -40036,14 +41983,12 @@
         "IATA": "",
         "ICAO": "WRA",
         "name": "White River Air Services",
-        "callsign": "",
         "area": "Canada"
     },
     {
         "IATA": "",
         "ICAO": "WWL",
         "name": "Whyalla Airlines",
-        "callsign": "",
         "area": "Australia"
     },
     {
@@ -40141,7 +42086,6 @@
         "IATA": "",
         "ICAO": "WAT",
         "name": "Wings Air Transport",
-        "callsign": "",
         "area": "Sudan"
     },
     {
@@ -40183,7 +42127,6 @@
         "IATA": "",
         "ICAO": "WAG",
         "name": "Wisconsin Air National Guard",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -40239,7 +42182,6 @@
         "IATA": "",
         "ICAO": "XWW",
         "name": "World Weatherwatch",
-        "callsign": "",
         "area": "Canada"
     },
     {
@@ -40251,9 +42193,7 @@
     },
     {
         "IATA": "1P",
-        "ICAO": "",
         "name": "Worldspan",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -40267,7 +42207,6 @@
         "IATA": "",
         "ICAO": "WWS",
         "name": "Worldwide Aviation Services",
-        "callsign": "",
         "area": "Pakistan"
     },
     {
@@ -40344,7 +42283,6 @@
         "IATA": "",
         "ICAO": "XJE",
         "name": "X-Jet",
-        "callsign": "",
         "area": "Austria"
     },
     {
@@ -40433,7 +42371,6 @@
     },
     {
         "IATA": "",
-        "ICAO": "",
         "name": "Xpedite",
         "callsign": "BIGSPLASH",
         "area": "United Kingdom"
@@ -40540,7 +42477,6 @@
         "IATA": "Y0",
         "ICAO": "EMJ",
         "name": "Yellow Air Taxi/Friendship Airways",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -40582,7 +42518,6 @@
         "IATA": "",
         "ICAO": "AYU",
         "name": "Yuhi Air Lines",
-        "callsign": "",
         "area": "Japan"
     },
     {
@@ -40596,7 +42531,6 @@
         "IATA": "4Y",
         "ICAO": "UYA",
         "name": "Yute Air Alaska",
-        "callsign": "",
         "area": "United States"
     },
     {
@@ -40631,7 +42565,6 @@
         "IATA": "",
         "ICAO": "AZJ",
         "name": "Zas Air",
-        "callsign": "",
         "area": "Egypt"
     },
     {
@@ -40701,14 +42634,12 @@
         "IATA": "",
         "ICAO": "KVZ",
         "name": "Z-Aero Airlines",
-        "callsign": "",
         "area": "Ukraine"
     },
     {
         "IATA": "",
         "ICAO": "KZH",
         "name": "Zhez Air",
-        "callsign": "",
         "area": "Kazakhstan"
     },
     {
@@ -40729,7 +42660,6 @@
         "IATA": "",
         "ICAO": "MZE",
         "name": "Zenith Aviation (Malta)",
-        "callsign": "",
         "area": "Malta"
     },
     {

@@ -7,7 +7,10 @@
     "build:min": "webpack  --config build/webpack.prodmin.config.js",
     "build:full": "webpack --config build/webpack.prod.config.js",
     "build": "npm run build:full && npm run build:min",
-    "uploadcty": "rm -f ./dist/data/cty.json && node tools/ctytojson.js",
+    "uploaddata:cty": "node tools/ctytojson.js",
+    "uploaddata:aircraftDB": "node tools/spider-aircraft.js",
+    "uploaddata:airlineDB": "node tools/spider-airline.js",
+    "uploaddata":"npm run uploaddata:cty && npm run uploaddata:aircraftDB && npm run uploaddata:airlineDB",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -19,7 +22,11 @@
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
     "babel-loader": "^8.0.6",
+    "cheerio": "^1.0.0-rc.3",
+    "cheerio-tableparser": "^1.0.1",
     "path": "^0.12.7",
+    "superagent": "^5.1.0",
+    "superagent-proxy": "^2.0.0",
     "webpack": "^4.36.1",
     "webpack-cli": "^3.3.6"
   },
