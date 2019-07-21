@@ -1,6 +1,6 @@
 {
   "name": "callsign",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Amateur radio and airline call sign inquiry",
   "main": "src/esm/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "uploaddata:cty": "node tools/ctytojson.js",
     "uploaddata:aircraftDB": "node tools/spider-aircraft.js",
     "uploaddata:airlineDB": "node tools/spider-airline.js",
-    "uploaddata":"npm run uploaddata:cty && npm run uploaddata:aircraftDB && npm run uploaddata:airlineDB",
+    "uploaddata": "npm run uploaddata:cty && npm run uploaddata:aircraftDB && npm run uploaddata:airlineDB",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
