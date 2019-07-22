@@ -3,7 +3,7 @@ English | [简体中文](./README.zh-CN.md)
 <h1 align="center">Callsign.js</h1>
 
 <div align="center">
-    Callsign.js is a library for fuzzy querying amateur radio callsign information
+    Callsign.js is a library for fuzzy querying various radio stations callsign information
     <br/>
     <br/>
   <a href="https://npmcharts.com/compare/callsign?minimal=true"><img src="https://img.shields.io/npm/dm/callsign.svg" alt="Downloads"></a>
@@ -12,6 +12,12 @@ English | [简体中文](./README.zh-CN.md)
   <!-- <a href="https://t.me/"><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" alt="Chat"></a> -->
   <!-- <br> -->
 </div>
+
+## Features
+
+- 📻 **Amateur Radio Callsign** Support to query the amateur station callsign attribution
+- ✈️ **Aircraft Callsign (Tail Code)** Support for querying aircraft callsign (tail code)
+- 🛫 **Flight Number** Support for querying airline callsign (flight number)
 
 ## Quick start
 
