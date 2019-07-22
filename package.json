@@ -1,6 +1,6 @@
 {
   "name": "callsign",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Amateur radio and airline call sign inquiry",
   "main": "src/esm/index.js",
   "scripts": {
