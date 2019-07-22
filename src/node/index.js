@@ -1,5 +1,3 @@
-const searchAmateurRadioCallsign = require('./modules/searchAmateurRadioCallsign')
-
 ;(function(factory) {
   if (typeof module !== 'undefined') {
     module.exports = factory()
@@ -25,4 +23,22 @@ function Callsign(){}
  * Search DXCC information for amateur radio callsign
  * @param {String} callsign HamRadio Callsign
  */
-Callsign.prototype.searchAmateurRadioCallsign = searchAmateurRadioCallsign
+Callsign.prototype.searchAmateurRadioCallsign = require('./modules/searchAmateurRadioCallsign')
+
+/**
+ * Search DXCC information for amateur radio callsign
+ * @param {String} callsign Amateur Callsign
+ */
+Callsign.prototype.getARCallsignDetailed = require('./modules/getARCallsignDetailed')
+
+/**
+ * Search attribution based on the Tail code
+ * @param {String} tailcode Aircraft Tail Code
+ */
+Callsign.prototype.getAircraftRegistInfoByTailCode = require('./modules/getAircraftRegistInfoByTailCode')
+
+/**
+ * Get airline information by flight number
+ * @param {String} flightnumber Flight Number
+ */
+Callsign.prototype.getAirlineInfoByFlightNumber = require('./modules/getAirlineInfoByFlightNumber')

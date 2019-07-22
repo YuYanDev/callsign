@@ -3,7 +3,7 @@ import { ajax } from '../utils'
 const getAirlineInfoByFlightNumber = (arelineDB, flightnumber) => {
   let three = flightnumber.substr(2, 1)
   let result
-  if ((three >= 'a' && three <= 'z') || (three >= 'A' && three <= 'Z')) {
+  if (three >= 'A' && three <= 'Z') {
     result = arelineDB.find(x => {
       return x.ICAO === flightnumber.substring(0, 3)
     })
@@ -35,7 +35,7 @@ const asyncGetAirlineInfoByFlightNumber = (flightnumber, url) => {
         resolve(getDetail)
       })
       .catch(e => {
-        reject('[flightnumber.js]: Network Error')
+        reject('[callsign.js]: Network Error')
       })
   })
 }
