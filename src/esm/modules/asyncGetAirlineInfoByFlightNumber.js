@@ -23,7 +23,7 @@ const asyncGetAirlineInfoByFlightNumber = (flightnumber, url) => {
   }
   flightnumber = flightnumber.toUpperCase()
   if (url === undefined) {
-    url = 'https://unpkg.com/callsign/dist/data/arelineDB.json'
+    url = 'https://unpkg.com/callsign/dist/data/airlineDB.json'
   }
   return new Promise((resolve, reject) => {
     ajax('GET', url)
