@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Callsign.js</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <style>
+        .center {
+            overflow: auto;
+            -ms-overflow-style: none;
+            overflow: -moz-scrollbars-none;
+        }
+
+        .center::-webkit-scrollbar {
+            width: 0 !important
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="light-red lighten-1" role="navigation">
+        <a href="https://github.com/YuYanDev" style="position: absolute;right: 0;top: 0;"><img width="149" height="149"
+                src="https://github.blog/wp-content/uploads/2008/12/forkme_right_red_aa0000.png?resize=149%2C149"
+                class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a>
+        <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Callsign.js</a>
+            <ul class="right hide-on-med-and-down">
+                <li><a href="https://github.com/YuYanDev/callsign">Github</a></li>
+            </ul>
+
+            <ul id="nav-mobile" class="sidenav">
+                <li><a href="https://github.com/YuYanDev/callsign">Github</a></li>
+            </ul>
+            <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+        </div>
+    </nav>
+    <div class="section no-pad-bot" id="index-banner">
+        <div class="container">
+            <br><br>
+            <h1 class="header center red-text">Callsign.js</h1>
+            <div class="row center">
+                <h5 class="header col s12 light">Callsign.js is a library for fuzzy querying various radio stations
+                    callsign information</h5>
+            </div>
+            <div class="row center">
+                <a href="https://github.com/YuYanDev/callsign/archive/v1.0.0.zip" id="download-button"
+                    class="btn-large waves-effect waves-light red lighten-1">Download</a>
+                <a href="https://github.com/YuYanDev/callsign/tree/master/docs" id="download-button"
+                    class="btn-large waves-effect waves-light red lighten-1" style="margin-left:10px;">Read Docs</a>
+            </div>
+            <br><br>
+
+        </div>
+    </div>
+
+
+    <div class="container">
+        <div class="section">
+
+            <!--   Icon Section   -->
+            <div class="row">
+                <div class="col s12 m3">
+                    <div class="card">
+                        <div class="card-content">
+                            <h5 class="center">getAmateurRadioInfoByCallsign</h5>
+                            <p class="light">Search DXCC information for amateur radio callsign</p>
+                            <input value="" id="get-amateur-radio-info-by-callsign" type="text" class="validate" placeholder="Amateur Radio Callsign">
+                            <button class="waves-effect waves-light btn" id="get-amateur-radio-info-by-callsign-btn" >search</button>
+                            <div id="get-amateur-radio-info-by-callsign-res"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col s12 m3">
+                    <div class="card">
+                        <div class="card-content">
+                            <h5 class="center">asyncGetAmateurRadioDetailedByCallsign (browser noly)</h5>
+                            <h5 class="center">getAmateurRadioDetailedByCallsign (Node.js noly)</h5>
+
+                            <p class="light">Get the detailed data of the call sign</p>
+                            <input value="" id="get-amateur-radio-detailed-by-callsign" type="text" class="validate" placeholder="Amateur Radio Callsign">
+                            <button class="waves-effect waves-light btn" id="get-amateur-radio-detailed-by-callsign-btn" >search</button>
+                            <div id="get-amateur-radio-detailed-by-callsign-res"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col s12 m3">
+                    <div class="card">
+                        <div class="card-content">
+                            <h5 class="center">getAircraftRegistInfoByTailCode</h5>
+
+                            <p class="light">Inquire about the registered place of the aircraft based on the aircraft
+                                tail number</p>
+                            <input value="" id="get-aircraft-regist-info-by-tail-code" type="text" class="validate" placeholder="Tail Code (B-HVP)">
+                            <button class="waves-effect waves-light btn" id="get-aircraft-regist-info-by-tail-code-btn" >search</button>
+                            <div id="get-aircraft-regist-info-by-tail-code-res"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col s12 m3">
+                    <div class="card">
+                        <div class="card-content">
+                            <h5 class="center">asyncGetAirlineInfoByFlightNumber (browser noly)</h5>
+                            <h5 class="center">getAirlineInfoByFlightNumber (Node.js noly)</h5>
+
+                            <p class="light">Get airline information based on flight number</p>
+                            
+                            <input value="" id="get-airline-info-by-flight-number" type="text" class="validate" placeholder="Flight Number (NH17)">
+                            <button class="waves-effect waves-light btn" id="get-airline-info-by-flight-number-btn" >search</button>
+                            <div id="get-airline-info-by-flight-number-res"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <br><br>
+    </div>
+
+    <footer class="page-footer light-red lighten-1">
+        <div class="footer-copyright">
+            <div class="container">
+                &copy;Copyright (c) 2019-present, YuYan (BG6TTI)
+            </div>
+        </div>
+    </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="https://unpkg.com/callsign/dist/callsign.min.js"></script>
+    <script>
+        (function ($) {
+            $(function () {
+                $('.sidenav').sidenav();
+                $("#get-amateur-radio-info-by-callsign-btn").click(function(){
+                    
+                    let res = callsign.getAmateurRadioInfoByCallsign($('#get-amateur-radio-info-by-callsign').val())
+                    let html = 
+                    `
+                    <ul class="collection">
+                        <li class="collection-item">prefix: ${res.prefix}</li>
+                        <li class="collection-item">DXCC: ${res.area}</li>
+                        <li class="collection-item">DXCC cn: ${res.areacn}</li>
+                        <li class="collection-item">areacode: ${res.areacode}</li>
+                    </ul>
+                    `
+                    document.getElementById('get-amateur-radio-info-by-callsign-res').innerHTML = html
+                });
+                $("#get-amateur-radio-detailed-by-callsign-btn").click(function(){
+                    document.getElementById('get-amateur-radio-detailed-by-callsign-res').innerHTML = `Loading...`
+                    let res = callsign.asyncGetAmateurRadioDetailedByCallsign($('#get-amateur-radio-detailed-by-callsign').val()).then(res=>{
+                        let html = 
+                        `
+                        <ul class="collection">
+                            <li class="collection-item">prefix: ${res.prefix}</li>
+                            <li class="collection-item">DXCC: ${res.areaname}</li>
+                            <li class="collection-item">DXCC cn: ${res.areacn}</li>
+                            <li class="collection-item">CQ Zone: ${res.cqzone}</li>
+                            <li class="collection-item">ITU Zone: ${res.ituzone}</li>
+                            <li class="collection-item">Time Zone: ${res.timezone}</li>
+                            <li class="collection-item">areacode: ${res.areacode}</li>
+                        </ul>
+                        `
+                        document.getElementById('get-amateur-radio-detailed-by-callsign-res').innerHTML = html
+                    })
+                });
+                
+                $("#get-aircraft-regist-info-by-tail-code-btn").click(function(){
+                    
+                    let res = callsign.getAircraftRegistInfoByTailCode($('#get-aircraft-regist-info-by-tail-code').val())
+                    let html = 
+                    `
+                    <ul class="collection">
+                        <li class="collection-item">prefix: ${res.prefix}</li>
+                        <li class="collection-item">area: ${res.area}</li>
+                    </ul>
+                    `
+                    document.getElementById('get-aircraft-regist-info-by-tail-code-res').innerHTML = html
+                });
+
+                $("#get-airline-info-by-flight-number-btn").click(function(){
+                    document.getElementById('get-airline-info-by-flight-number-res').innerHTML = `Loading...`
+                    let res = callsign.asyncGetAirlineInfoByFlightNumber($('#get-airline-info-by-flight-number').val()).then(res=>{
+                        let html = 
+                        `
+                        <ul class="collection">
+                            <li class="collection-item">IATA: ${res.IATA}</li>
+                            <li class="collection-item">ICAO: ${res.ICAO}</li>
+                            <li class="collection-item">Airline Name: ${res.name}</li>
+                            <li class="collection-item">Airline Callsign: ${res.callsign}</li>
+                            <li class="collection-item">area: ${res.area}</li>
+                        </ul>
+                        `
+                        document.getElementById('get-airline-info-by-flight-number-res').innerHTML = html
+                    })
+                });
+            });
+        })(jQuery);
+    </script>
+</body>
+
+</html>
