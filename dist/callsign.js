@@ -340,9 +340,11 @@ var getAircraftRegistInfoByTailCode = function getAircraftRegistInfoByTailCode(t
         } else {
           if (tailcode.length === 7 && result1.prefix === 'B') {
             result1.area = "Taiwan";
+          } else if (tailcode.length === 6 && result1.prefix === 'B') {
+            result1.area = "China";
+          } else {
+            result = undefined;
           }
-
-          result = result1;
         }
       } else {
         result = result2;
