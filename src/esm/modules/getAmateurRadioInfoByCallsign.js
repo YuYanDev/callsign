@@ -1,9 +1,9 @@
-const FirstLetterIndex = require ('../../lib/HamCallsignDB/callsignindexone.json')
-const SecondLetterIndex = require ('../../lib/HamCallsignDB/callsignindextwo.json')
-const ThirdLetterIndex = require ('../../lib/HamCallsignDB/callsignindexthree.json')
-const FourthLetterIndex = require ('../../lib/HamCallsignDB/callsignindexfour.json')
+import FirstLetterIndex from '../../lib/HamCallsignDB/callsignindexone.json'
+import SecondLetterIndex from '../../lib/HamCallsignDB/callsignindextwo.json'
+import ThirdLetterIndex from '../../lib/HamCallsignDB/callsignindexthree.json'
+import FourthLetterIndex from '../../lib/HamCallsignDB/callsignindexfour.json'
 
-const searchAmateurRadioCallsign = (callsign) => {
+const getAmateurRadioInfoByCallsign = (callsign) => {
     if(typeof callsign !== 'string'){
         console.error('[callsign.js]: Callsign must be string')
         return;
@@ -41,5 +41,4 @@ const searchAmateurRadioCallsign = (callsign) => {
     }
     return result
 }   
-
-module.exports = searchAmateurRadioCallsign
+export default getAmateurRadioInfoByCallsign
