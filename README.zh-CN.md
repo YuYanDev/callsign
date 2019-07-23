@@ -34,7 +34,7 @@ via Browser
   </head>
   <body>
     <script>
-      console.log(callsign.searchAmateurRadioCallsign('ab1aa'))
+      console.log(callsign.getAmateurRadioInfoByCallsign('ab1aa'))
     </script>
   </body>
 </html>
@@ -49,7 +49,7 @@ via NPM
 ```js
 import callsign from 'callsign'
 // const callsign = require('callsign/src/node') // via Node.js
-console.log(callsign.searchAmateurRadioCallsign('ab1aa'))
+console.log(callsign.getAmateurRadioInfoByCallsign('ab1aa'))
 ```
 
 ## 文档

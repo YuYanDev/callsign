@@ -23,13 +23,13 @@ function Callsign(){}
  * Search DXCC information for amateur radio callsign
  * @param {String} callsign HamRadio Callsign
  */
-Callsign.prototype.searchAmateurRadioCallsign = require('./modules/searchAmateurRadioCallsign')
+Callsign.prototype.getAmateurRadioInfoByCallsign = require('./modules/getAmateurRadioInfoByCallsign')
 
 /**
  * Search DXCC information for amateur radio callsign
  * @param {String} callsign Amateur Callsign
  */
-Callsign.prototype.getARCallsignDetailed = require('./modules/getARCallsignDetailed')
+Callsign.prototype.getAmateurRadioDetailedByCallsign = require('./modules/getAmateurRadioDetailedByCallsign')
 
 /**
  * Search attribution based on the Tail code

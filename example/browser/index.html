@@ -6,14 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Callsign Demo</title>
-    <script src="https://unpkg.com/callsign/dist/callsign.min.js"></script>
-    <!-- <script src="../../dist/callsign.js"></script> -->
+    <!-- <script src="https://unpkg.com/callsign/dist/callsign.min.js"></script> -->
+    <script src="../../dist/callsign.js"></script>
 </head>
 
 <body>
     <script>
-        console.log('AR Callsign: ab1aa \n' + JSON.stringify(callsign.searchAmateurRadioCallsign('ab1aa')))
-        callsign.asyncGetARCallsignDetailed('ba1aa').then(res=>{
+        console.log('AR Callsign: ab1aa \n' + JSON.stringify(callsign.getAmateurRadioInfoByCallsign('ab1aa')))
+        callsign.asyncGetAmateurRadioDetailedByCallsign('ba1aa').then(res=>{
             console.log('AR Callsign: ba1aa \n' + JSON.stringify(res))
         })
         console.log('TailCode: N1AAA \n' + JSON.stringify(callsign.getAircraftRegistInfoByTailCode('N1AAA')))

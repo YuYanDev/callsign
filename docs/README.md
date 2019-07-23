@@ -2,10 +2,10 @@
 
 Callsign.js Docs
 
-##### searchAmateurRadioCallsign
+##### getAmateurRadioInfoByCallsign
 
 Search DXCC information for amateur radio callsign
-`searchAmateurRadioCallsign('aa1aa')`
+`getAmateurRadioInfoByCallsign('aa1aa')`
 
 return info
 
@@ -18,26 +18,26 @@ return info
 // },
 ```
 
-##### asyncGetARCallsignDetailed (browser noly) || getARCallsignDetailed (Node.js noly)
+##### asyncGetAmateurRadioDetailedByCallsign (browser noly) || getAmateurRadioDetailedByCallsign (Node.js noly)
 
 Get the detailed data of the call sign
 
-`asyncGetARCallsignDetailed(callsign,url)`
+`asyncGetAmateurRadioDetailedByCallsign(callsign,url)`
 Url is the address where the full information JSON is stored.
 default is [https://unpkg.com/callsign/dist/data/cty.json](https://unpkg.com/callsign/dist/data/cty.json)
 
-`getARCallsignDetailed(callsign)`
+`getAmateurRadioDetailedByCallsign(callsign)`
 
 You can use the tools in the tools directory to customize your data with CTY.csv.
 
 ```js
 // browser
-callsign.asyncGetARCallsignDetailed('ba1aa').then(res => {
+callsign.asyncGetAmateurRadioDetailedByCallsign('ba1aa').then(res => {
   console.log(res)
 })
 
 // Node.js
-callsign.getARCallsignDetailed('BA1AA')
+callsign.getAmateurRadioDetailedByCallsign('BA1AA')
 
 // {
 //     "prefix": "CE",

@@ -1,11 +1,6 @@
-const callsignDB = require('../../lib/HamCallsignDB/cty.json')
+import { ajax } from '../utils'
 
-const getARCallsignDetailed = callsign => {
-    if (typeof callsign !== 'string') {
-    console.error('[callsign.js]: Callsign must be string')
-    return
-    }
-    callsign = callsign.toUpperCase()
+const getAmateurRadioDetailedByCallsign = (callsignDB, callsign) => {
   let result1 = callsignDB['1'].find(x => {
     return x.prefix === callsign.substring(0, 1)
   })
@@ -39,4 +34,25 @@ const getARCallsignDetailed = callsign => {
   return result
 }
 
-module.exports = getARCallsignDetailed
+const asyncGetAmateurRadioDetailedByCallsign = (callsign, url) => {
+  if (typeof callsign !== 'string') {
+    console.error('[callsign.js]: Callsign must be string')
+    return
+  }
+  callsign = callsign.toUpperCase()
+  if (url === undefined) {
+    url = 'https://unpkg.com/callsign/dist/data/cty.json'
+  }
+  return new Promise((resolve, reject) => {
+    ajax('GET', url)
+      .then(res => {
+        let getDetail = getAmateurRadioDetailedByCallsign(JSON.parse(res), callsign)
+        resolve(getDetail)
+      })
+      .catch(e => {
+        reject('[callsign.js]: Network Error')
+      })
+  })
+}
+
+export default asyncGetAmateurRadioDetailedByCallsign

@@ -1,9 +1,10 @@
 var callsign = require('../../src/node')
 
-console.log(callsign.searchAmateurRadioCallsign('ab1aa'))
+console.log(callsign.getAmateurRadioInfoByCallsign('ab1aa'))
+console.log(callsign.getAmateurRadioInfoByCallsign('CT1A'))
 
-console.log(callsign.getARCallsignDetailed('BV7RR'))
-console.log(callsign.getARCallsignDetailed('BS7H'))
+console.log(callsign.getAmateurRadioDetailedByCallsign('BV7RR'))
+console.log(callsign.getAmateurRadioDetailedByCallsign('BS7H'))
 
 console.log(callsign.getAircraftRegistInfoByTailCode('RA-55956'))
 console.log(callsign.getAircraftRegistInfoByTailCode('B-HVP'))

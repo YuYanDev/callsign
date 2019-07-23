@@ -1,5 +1,5 @@
-import searchAmateurRadioCallsignModules from './modules/searchAmateurRadioCallsign'
-import asyncGetARCallsignDetailedModules from './modules/asyncGetARCallsignDetailed'
+import getAmateurRadioInfoByCallsignModules from './modules/getAmateurRadioInfoByCallsign'
+import asyncGetAmateurRadioDetailedByCallsignModules from './modules/asyncGetAmateurRadioDetailedByCallsign'
 import getAircraftRegistInfoByTailCodeModules from './modules/getAircraftRegistInfoByTailCode'
 import asyncGetAirlineInfoByFlightNumberModules from './modules/asyncGetAirlineInfoByFlightNumber'
 
@@ -10,8 +10,8 @@ class Callsign{
      * Search DXCC information for amateur radio callsign
      * @param {String} callsign HamRadio Callsign
      */
-    searchAmateurRadioCallsign(callsign){
-        return searchAmateurRadioCallsignModules(callsign)
+    getAmateurRadioInfoByCallsign(callsign){
+        return getAmateurRadioInfoByCallsignModules(callsign)
     }
 
     /**
@@ -20,8 +20,8 @@ class Callsign{
      * @param {String} callsign Amateur Callsign
      * @param {String} url Amateur Callsign DataBase Network address
      */
-    asyncGetARCallsignDetailed(callsign,url){
-        return asyncGetARCallsignDetailedModules(callsign,url)
+    asyncGetAmateurRadioDetailedByCallsign(callsign,url){
+        return asyncGetAmateurRadioDetailedByCallsignModules(callsign,url)
     }
 
     /**

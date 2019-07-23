@@ -95,8 +95,8 @@
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _modules_searchAmateurRadioCallsign__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./modules/searchAmateurRadioCallsign */ "./src/esm/modules/searchAmateurRadioCallsign.js");
-/* harmony import */ var _modules_asyncGetARCallsignDetailed__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/asyncGetARCallsignDetailed */ "./src/esm/modules/asyncGetARCallsignDetailed.js");
+/* harmony import */ var _modules_getAmateurRadioInfoByCallsign__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./modules/getAmateurRadioInfoByCallsign */ "./src/esm/modules/getAmateurRadioInfoByCallsign.js");
+/* harmony import */ var _modules_asyncGetAmateurRadioDetailedByCallsign__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/asyncGetAmateurRadioDetailedByCallsign */ "./src/esm/modules/asyncGetAmateurRadioDetailedByCallsign.js");
 /* harmony import */ var _modules_getAircraftRegistInfoByTailCode__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modules/getAircraftRegistInfoByTailCode */ "./src/esm/modules/getAircraftRegistInfoByTailCode.js");
 /* harmony import */ var _modules_asyncGetAirlineInfoByFlightNumber__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modules/asyncGetAirlineInfoByFlightNumber */ "./src/esm/modules/asyncGetAirlineInfoByFlightNumber.js");
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -123,9 +123,9 @@ function () {
 
 
   _createClass(Callsign, [{
-    key: "searchAmateurRadioCallsign",
-    value: function searchAmateurRadioCallsign(callsign) {
-      return Object(_modules_searchAmateurRadioCallsign__WEBPACK_IMPORTED_MODULE_0__["default"])(callsign);
+    key: "getAmateurRadioInfoByCallsign",
+    value: function getAmateurRadioInfoByCallsign(callsign) {
+      return Object(_modules_getAmateurRadioInfoByCallsign__WEBPACK_IMPORTED_MODULE_0__["default"])(callsign);
     }
     /**
      * async Search DXCC information for amateur radio callsign
@@ -135,9 +135,9 @@ function () {
      */
 
   }, {
-    key: "asyncGetARCallsignDetailed",
-    value: function asyncGetARCallsignDetailed(callsign, url) {
-      return Object(_modules_asyncGetARCallsignDetailed__WEBPACK_IMPORTED_MODULE_1__["default"])(callsign, url);
+    key: "asyncGetAmateurRadioDetailedByCallsign",
+    value: function asyncGetAmateurRadioDetailedByCallsign(callsign, url) {
+      return Object(_modules_asyncGetAmateurRadioDetailedByCallsign__WEBPACK_IMPORTED_MODULE_1__["default"])(callsign, url);
     }
     /**
      * Search attribution based on the Tail code
@@ -166,80 +166,6 @@ function () {
 }();
 
 /* harmony default export */ __webpack_exports__["default"] = (new Callsign());
-
-/***/ }),
-
-/***/ "./src/esm/modules/asyncGetARCallsignDetailed.js":
-/*!*******************************************************!*\
-  !*** ./src/esm/modules/asyncGetARCallsignDetailed.js ***!
-  \*******************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../utils */ "./src/esm/utils/index.js");
-
-
-var getARCallsignDetailed = function getARCallsignDetailed(callsignDB, callsign) {
-  var result1 = callsignDB['1'].find(function (x) {
-    return x.prefix === callsign.substring(0, 1);
-  });
-  var result2 = callsignDB['2'].find(function (x) {
-    return x.prefix === callsign.substring(0, 2);
-  });
-  var result3 = callsignDB['3'].find(function (x) {
-    return x.prefix === callsign.substring(0, 3);
-  });
-  var result4 = callsignDB['4'].find(function (x) {
-    return x.prefix === callsign.substring(0, 4);
-  });
-  var result;
-
-  if (result4 === undefined) {
-    if (result3 === undefined) {
-      if (result2 === undefined) {
-        if (result1 === undefined) {
-          result = undefined;
-        } else {
-          result = result1;
-        }
-      } else {
-        result = result2;
-      }
-    } else {
-      result = result3;
-    }
-  } else {
-    result = result4;
-  }
-
-  return result;
-};
-
-var asyncGetARCallsignDetailed = function asyncGetARCallsignDetailed(callsign, url) {
-  if (typeof callsign !== 'string') {
-    console.error('[callsign.js]: Callsign must be string');
-    return;
-  }
-
-  callsign = callsign.toUpperCase();
-
-  if (url === undefined) {
-    url = 'https://unpkg.com/callsign/dist/data/cty.json';
-  }
-
-  return new Promise(function (resolve, reject) {
-    Object(_utils__WEBPACK_IMPORTED_MODULE_0__["ajax"])('GET', url).then(function (res) {
-      var getDetail = getARCallsignDetailed(JSON.parse(res), callsign);
-      resolve(getDetail);
-    })["catch"](function (e) {
-      reject('[callsign.js]: Network Error');
-    });
-  });
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (asyncGetARCallsignDetailed);
 
 /***/ }),
 
@@ -295,6 +221,80 @@ var asyncGetAirlineInfoByFlightNumber = function asyncGetAirlineInfoByFlightNumb
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (asyncGetAirlineInfoByFlightNumber);
+
+/***/ }),
+
+/***/ "./src/esm/modules/asyncGetAmateurRadioDetailedByCallsign.js":
+/*!*******************************************************************!*\
+  !*** ./src/esm/modules/asyncGetAmateurRadioDetailedByCallsign.js ***!
+  \*******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../utils */ "./src/esm/utils/index.js");
+
+
+var getAmateurRadioDetailedByCallsign = function getAmateurRadioDetailedByCallsign(callsignDB, callsign) {
+  var result1 = callsignDB['1'].find(function (x) {
+    return x.prefix === callsign.substring(0, 1);
+  });
+  var result2 = callsignDB['2'].find(function (x) {
+    return x.prefix === callsign.substring(0, 2);
+  });
+  var result3 = callsignDB['3'].find(function (x) {
+    return x.prefix === callsign.substring(0, 3);
+  });
+  var result4 = callsignDB['4'].find(function (x) {
+    return x.prefix === callsign.substring(0, 4);
+  });
+  var result;
+
+  if (result4 === undefined) {
+    if (result3 === undefined) {
+      if (result2 === undefined) {
+        if (result1 === undefined) {
+          result = undefined;
+        } else {
+          result = result1;
+        }
+      } else {
+        result = result2;
+      }
+    } else {
+      result = result3;
+    }
+  } else {
+    result = result4;
+  }
+
+  return result;
+};
+
+var asyncGetAmateurRadioDetailedByCallsign = function asyncGetAmateurRadioDetailedByCallsign(callsign, url) {
+  if (typeof callsign !== 'string') {
+    console.error('[callsign.js]: Callsign must be string');
+    return;
+  }
+
+  callsign = callsign.toUpperCase();
+
+  if (url === undefined) {
+    url = 'https://unpkg.com/callsign/dist/data/cty.json';
+  }
+
+  return new Promise(function (resolve, reject) {
+    Object(_utils__WEBPACK_IMPORTED_MODULE_0__["ajax"])('GET', url).then(function (res) {
+      var getDetail = getAmateurRadioDetailedByCallsign(JSON.parse(res), callsign);
+      resolve(getDetail);
+    })["catch"](function (e) {
+      reject('[callsign.js]: Network Error');
+    });
+  });
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (asyncGetAmateurRadioDetailedByCallsign);
 
 /***/ }),
 
@@ -361,10 +361,10 @@ var getAircraftRegistInfoByTailCode = function getAircraftRegistInfoByTailCode(t
 
 /***/ }),
 
-/***/ "./src/esm/modules/searchAmateurRadioCallsign.js":
-/*!*******************************************************!*\
-  !*** ./src/esm/modules/searchAmateurRadioCallsign.js ***!
-  \*******************************************************/
+/***/ "./src/esm/modules/getAmateurRadioInfoByCallsign.js":
+/*!**********************************************************!*\
+  !*** ./src/esm/modules/getAmateurRadioInfoByCallsign.js ***!
+  \**********************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -383,7 +383,7 @@ var _lib_HamCallsignDB_callsignindexfour_json__WEBPACK_IMPORTED_MODULE_3___names
 
 
 
-var searchAmateurRadioCallsign = function searchAmateurRadioCallsign(callsign) {
+var getAmateurRadioInfoByCallsign = function getAmateurRadioInfoByCallsign(callsign) {
   if (typeof callsign !== 'string') {
     console.error('[callsign.js]: Callsign must be string');
     return;
@@ -425,7 +425,7 @@ var searchAmateurRadioCallsign = function searchAmateurRadioCallsign(callsign) {
   return result;
 };
 
-/* harmony default export */ __webpack_exports__["default"] = (searchAmateurRadioCallsign);
+/* harmony default export */ __webpack_exports__["default"] = (getAmateurRadioInfoByCallsign);
 
 /***/ }),
 
