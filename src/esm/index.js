@@ -23,6 +23,9 @@ class Callsign{
     asyncGetAmateurRadioDetailedByCallsign(callsign,url){
         return asyncGetAmateurRadioDetailedByCallsignModules(callsign,url)
     }
+    getAmateurRadioDetailedByCallsign(){
+        console.error('[callsign.js]: API Error \n "getAmateurRadioDetailedByCallsign" only supports Node.js environment, please use "asyncGetAmateurRadioDetailedByCallsign"')
+    }
 
     /**
      * Search attribution based on the Tail code
@@ -39,6 +42,9 @@ class Callsign{
      */
     asyncGetAirlineInfoByFlightNumber(flightnumber,url){
         return asyncGetAirlineInfoByFlightNumberModules(flightnumber,url)
+    }
+    getAirlineInfoByFlightNumber(){
+        console.error('[callsign.js]: API Error \n "getAirlineInfoByFlightNumber" only supports Node.js environment, please use "asyncGetAirlineInfoByFlightNumber"')
     }
 }
 

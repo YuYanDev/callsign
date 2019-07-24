@@ -31,6 +31,10 @@ Callsign.prototype.getAmateurRadioInfoByCallsign = require('./modules/getAmateur
  */
 Callsign.prototype.getAmateurRadioDetailedByCallsign = require('./modules/getAmateurRadioDetailedByCallsign')
 
+Callsign.prototype.asyncGetAmateurRadioDetailedByCallsign = function(){
+  throw new Error('\n\n[callsign.js]: API Error \n\n "asyncGetAmateurRadioDetailedByCallsign" only supports Browser environment, please use "getAmateurRadioDetailedByCallsign"\n')
+}
+
 /**
  * Search attribution based on the Tail code
  * @param {String} tailcode Aircraft Tail Code
@@ -42,3 +46,7 @@ Callsign.prototype.getAircraftRegistInfoByTailCode = require('./modules/getAircr
  * @param {String} flightnumber Flight Number
  */
 Callsign.prototype.getAirlineInfoByFlightNumber = require('./modules/getAirlineInfoByFlightNumber')
+
+Callsign.prototype.asyncGetAirlineInfoByFlightNumber = function(){
+  throw new Error('\n\n[callsign.js]: API Error \n\n "asyncGetAirlineInfoByFlightNumber" only supports Browser environment, please use "getAirlineInfoByFlightNumber"\n')
+}
