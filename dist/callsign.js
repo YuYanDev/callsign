@@ -139,6 +139,11 @@ function () {
     value: function asyncGetAmateurRadioDetailedByCallsign(callsign, url) {
       return Object(_modules_asyncGetAmateurRadioDetailedByCallsign__WEBPACK_IMPORTED_MODULE_1__["default"])(callsign, url);
     }
+  }, {
+    key: "getAmateurRadioDetailedByCallsign",
+    value: function getAmateurRadioDetailedByCallsign() {
+      console.error('[callsign.js]: API Error \n "getAmateurRadioDetailedByCallsign" only supports Node.js environment, please use "asyncGetAmateurRadioDetailedByCallsign"');
+    }
     /**
      * Search attribution based on the Tail code
      * @param {String} tailcode Aircraft Tail Code
@@ -159,6 +164,11 @@ function () {
     key: "asyncGetAirlineInfoByFlightNumber",
     value: function asyncGetAirlineInfoByFlightNumber(flightnumber, url) {
       return Object(_modules_asyncGetAirlineInfoByFlightNumber__WEBPACK_IMPORTED_MODULE_3__["default"])(flightnumber, url);
+    }
+  }, {
+    key: "getAirlineInfoByFlightNumber",
+    value: function getAirlineInfoByFlightNumber() {
+      console.error('[callsign.js]: API Error \n "getAirlineInfoByFlightNumber" only supports Node.js environment, please use "asyncGetAirlineInfoByFlightNumber"');
     }
   }]);
 
@@ -338,12 +348,14 @@ var getAircraftRegistInfoByTailCode = function getAircraftRegistInfoByTailCode(t
         if (result1 === undefined) {
           result = undefined;
         } else {
+          result = result1;
+
           if (tailcode.length === 7 && result1.prefix === 'B') {
-            result1.area = "Taiwan";
-          } else if (tailcode.length === 6 && result1.prefix === 'B') {
-            result1.area = "China";
-          } else {
-            result = undefined;
+            result.area = "Taiwan";
+          }
+
+          if (tailcode.length === 6 && result1.prefix === 'B') {
+            result.area = "China";
           }
         }
       } else {

@@ -22,16 +22,18 @@ const getAircraftRegistInfoByTailCode = tailcode => {
   if (result4 === undefined) {
     if (result3 === undefined) {
       if (result2 === undefined) {
+        
         if (result1 === undefined) {
           result = undefined
         } else {
+            result = result1
             if(tailcode.length === 7 && result1.prefix === 'B'){
-                result1.area = "Taiwan"
-            }else if(tailcode.length === 6 && result1.prefix === 'B'){
-              result1.area = "China"
-            }else{
-              result = undefined
-            }
+              result.area = "Taiwan"
+            } 
+            if(tailcode.length === 6 && result1.prefix === 'B'){
+              result.area = "China"
+            } 
+            
         }
       } else {
         result = result2
